@@ -3,10 +3,11 @@
 import os
 import argparse
 import logging
+from Bio import SeqIO
 
 # from local
 from lib import NCBIGeneFetcher
-from lib import PrimerDesign
+from lib import CommonPrimerDesign
 
 
 # Set up logging
@@ -71,17 +72,37 @@ def main():
             fetcher.save_sequences(gene, genbank_records, output_dir)
 
         genbank_dir = os.path.join(output_dir, "genbank")
-
+        fasta_dir = os.path.join(output_dir, "fasta")
     elif input_type == "genbank":
         try:
             genbank_dir = args.genbank_dir
         except:
             raise ValueError("genbank_dir is required when input_type is genbank")
+        gene_list = [gb_file for gb_file in os.listdir(genbank_dir) if os.path.isdir(os.path.join(genbank_dir, gb_file))]
+
+        # Save FASTA files
+        fasta_dir = os.path.join(output_dir, "fasta")
+        os.makedirs(fasta_dir, exist_ok=True)
+
+        # Individual FASTA
+        for gene_name in gene_list:
+            fasta_records = []
+            gene_dir = os.path.join(genbank_dir, gene_name)
+            for gb_file in os.listdir(gene_dir):
+                if gb_file.endswith(".gb"):
+                    fasta_records.append(SeqIO.read(os.path.join(gene_dir, gb_file), "genbank"))
+
+            filename = os.path.join(fasta_dir, f"{gene_name}.fasta")
+            with open(filename, "w") as f:
+                SeqIO.write(fasta_records, f, "fasta")
 
     else:
         raise ValueError(("input_type must be csv, fasta, or genbank, but you entered unknown input type '%s'") % input_type)
 
-    primer_design = CommonPrimerDesign(genbank_dir, output_dir)
+
+    primer_dir = os.path.join(output_dir, "primer")
+    primer_design = CommonPrimerDesign(genbank_dir, fasta_dir, primer_dir)
+
 
     #project_name = args.project_name
     #target_file = args.target
