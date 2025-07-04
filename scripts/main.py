@@ -6,6 +6,7 @@ import logging
 
 # from local
 from lib import NCBIGeneFetcher
+from lib import PrimerDesign
 
 
 # Set up logging
@@ -79,6 +80,8 @@ def main():
 
     else:
         raise ValueError(("input_type must be csv, fasta, or genbank, but you entered unknown input type '%s'") % input_type)
+
+    primer_design = CommonPrimerDesign(genbank_dir, output_dir)
 
     #project_name = args.project_name
     #target_file = args.target
