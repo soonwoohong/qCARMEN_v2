@@ -102,7 +102,7 @@ def main():
 
     primer_dir = os.path.join(output_dir, "primer")
     primer_design = CommonPrimerDesign(genbank_dir, fasta_dir, primer_dir)
-
+    coserved_regions = primer_design.find_conserved_regions(fasta_dir)
 
     #project_name = args.project_name
     #target_file = args.target

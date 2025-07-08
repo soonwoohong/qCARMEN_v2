@@ -72,16 +72,23 @@ class CommonPrimerDesign:
             'PRIMER_PAIR_MAX_COMPL_ANY': 8.0,
             'PRIMER_PAIR_MAX_COMPL_END': 3.0,
         }
-        def find_conserved_regions(self,
-                                   fasta_dir: str,
-                                   min_length: int = 100,
-                                   min_identity: float = 0.95):
-            """
-            Find conserved regions across all isoforms
+    def align_sequences(self,):
 
-            """
-            sequences = []
-            for gb_file in self.gene_list:
-                gb_path = os.path.join(self.genbank_dir, gb_file)
-                for record in SeqIO.parse(gb_path, "genbank"):
-                    sequences.append(record.seq)
+    def find_conserved_regions(self,
+                               fasta_dir: str,
+                               min_length: int = 100,
+                               min_identity: float = 0.95):
+        """
+        Find conserved regions across all isoforms of a gene
+
+        """
+
+        for gene in self.gene_list:
+            fasta_path = os.path.join(fasta_dir, gene+".fasta")
+            for seq_record in SeqIO.parse(fasta_path, "fasta"):
+                print(f"name: {gene}")
+                print(f"ID: {seq_record.id}, Length: {len(seq_record)}")
+
+
+        conserved_regions = []
+        return conserved_regions
