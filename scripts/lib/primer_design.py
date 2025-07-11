@@ -30,6 +30,13 @@ logging.basicConfig(
 logger = logging.getLogger(__name__)
 
 @dataclass
+class ExonJunction:
+    """Information about an exon-exon junction"""
+    junction_seq: str  # Sequence around junction
+    present_in_isoforms: List[str]
+    junction_pos_in_seq: int  # Position of junction in junction_seq
+
+@dataclass
 class PrimerPair:
     """Store primer pair information from Primer-BLAST"""
     forward_seq: str
@@ -101,7 +108,9 @@ class CommonPrimerDesign:
         Returns primers in priority order:
         1. ON junction: primer_class = 1
         2. SPANNING junction: primer_class = 2
-        3. Conserved region (fallback): primer_class = 3
+        3. Conserved region : primer_class = 3
+            3A: no primer available on junction and spanning junction
+            3B: no junction found because only one exon exists
 
         save all the possible primers for designing crRNAs later.
         top n primers are saved in the primer directory. (default: {output_dir}/primers)
@@ -113,7 +122,7 @@ class CommonPrimerDesign:
         isoforms = self._load_isoforms(genbank_files)
 
         # find all exon junctions
-        junctions = self._find_all_junctions(isoforms)
+        #junctions = self._find_all_junctions(isoforms)
     def _load_isoforms(self, genbank_files: List[str]) -> Dict[str, Dict]:
         """
         Load isoforms from genbank files and extract exon information.
@@ -125,14 +134,88 @@ class CommonPrimerDesign:
             # extract exons
             exons = []
 
-            #no need for mRNA or CDS; it's redundant.
 
-            isoform_id = record.id
-            isoform_seq = str(record.seq)
-            isoforms.append({
-                'id': isoform_id,
-                'seq': isoform_seq
-            })
+            for feature in record.features:
+                if feature.type == "exon":
+                    start = int(feature.location.start)
+                    end = int(feature.location.end)
+                    exons.append((start, end))
+
+            # if no exons annotated (ex. Ifi44l, NM_031367.1), consider the entire gene as one exon.
+            if not exons:
+                exons.append((0, len(record.seq) - 1))
+
+            # sort exons by position (x[0] = start position)
+            exons.sort(key=lambda x: x[0])
+
+            # create mRNA sequence (this is normally not necessary, because the entire sequence (here, record.seq) represents mRNA)
+            mRNA_seq = ""
+            for start, end in exons:
+                mRNA_seq += str(record.seq[start:end])
+
+            isoforms[record.id] = {
+                'mRNA_seq': mRNA_seq,
+                'exons': exons,
+            }
+
+        return isoforms
+
+    def _find_all_junctions(self, isoforms: Dict[str, Dict]) -> List[ExonJunction]:
+        """Find all unique exon-exon junctions across isoforms"""
+        junctions = {}
+        junction_count = 0
+        duplicate_check = []
+        # isoform_id = isoform id
+        # isoform data = mRNA_seq / exons
+        for isoform_id, isoform_data in isoforms.items():
+            exons = isoform_data['exons']
+            mRNA_seq = isoform_data['mRNA_seq']
+
+            # current position in mRNA sequence
+            mRNA_pos = 0
+
+            for i in range(len(exons) - 1):
+                exon_length = exons[i][1] - exons[i][0]
+                junction_pos = mRNA_pos + exon_length
+
+                # extract sequence around junction (30 bases each side)
+                # max and min to avoid junction sequences beyond mRNA sequence
+                start = max(0, junction_pos - 30)
+                end = min(len(mRNA_seq), junction_pos + 30)
+                junction_seq = mRNA_seq[start:end]
+                junction_key = str(junction_count)
+                if junction_seq not in duplicate_check:
+                    junctions[junction_key] = ExonJunction(
+                        junction_seq=junction_seq,
+                        present_in_isoforms=[isoform_id],
+                        junction_pos_in_seq=junction_pos - start
+                    )
+                    junction_count += 1
+                    duplicate_check.append(junction_seq)
+                else:
+                    update_key = duplicate_check.index(junction_seq)
+                    junctions[str(update_key)].present_in_isoforms.append(isoform_id)
+
+                mRNA_pos += exon_length
+        return list(junctions.values())
+
+    def _design_on_junction_primers(self, junctions: List[ExonJunction],
+                                    isoforms: Dict[str, Dict]) -> List[PrimerPair]:
+        """Design primers on exon-exon junctions"""
+        primers =[]
+        for junction in junctions:
+            # only design if junction is present in all isoforms
+            if len(junction.present_in_isoforms) != len(isoforms):
+                continue
+
+            junction_seq = junction.junction_seq
+            junction_pos_in_seq = junction.junction_pos_in_seq
+
+            # design primers that overlap the junction
+            # at least one primer (fwd or rev) must cross the junction
+
+
+
     def find_conserved_regions(self,
                                min_length: int = 100,
                                min_identity: float = 0.95)-> (Dict[str, tuple], Dict[str, int]):
