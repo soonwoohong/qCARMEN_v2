@@ -44,6 +44,7 @@ class PrimerPair:
     reverse_start: int
     reverse_end: int
     penalty: float
+    primer_class: int # 1: primers on exon-exon junction; 2: amplicon spanning exon-exon junction 3. primers on conserved region
     target_coverage: List[str]  # Which isoforms this primer pair covers
     off_targets: int
     specificity_info: Dict
@@ -93,7 +94,45 @@ class CommonPrimerDesign:
             'PRIMER_PAIR_MAX_COMPL_ANY': 8.0,
             'PRIMER_PAIR_MAX_COMPL_END': 3.0,
         }
+    def design_primers(self, genbank_files: List[str]) -> List[PrimerPair]:
+        """
+        Main method to design junction-targeting primers
 
+        Returns primers in priority order:
+        1. ON junction: primer_class = 1
+        2. SPANNING junction: primer_class = 2
+        3. Conserved region (fallback): primer_class = 3
+
+        save all the possible primers for designing crRNAs later.
+        top n primers are saved in the primer directory. (default: {output_dir}/primers)
+        """
+
+        logger.info(f"Designing junction primers for {len(genbank_files)} files")
+
+        #extract sequences and exon structures
+        isoforms = self._load_isoforms(genbank_files)
+
+        # find all exon junctions
+        junctions = self._find_all_junctions(isoforms)
+    def _load_isoforms(self, genbank_files: List[str]) -> Dict[str, Dict]:
+        """
+        Load isoforms from genbank files and extract exon information.
+        """
+        isoforms = {}
+        for gb_file in genbank_files:
+            record = SeqIO.read(gb_file, "genbank")
+
+            # extract exons
+            exons = []
+
+            #no need for mRNA or CDS; it's redundant.
+
+            isoform_id = record.id
+            isoform_seq = str(record.seq)
+            isoforms.append({
+                'id': isoform_id,
+                'seq': isoform_seq
+            })
     def find_conserved_regions(self,
                                min_length: int = 100,
                                min_identity: float = 0.95)-> (Dict[str, tuple], Dict[str, int]):
@@ -196,7 +235,7 @@ class CommonPrimerDesign:
                 ungapped_pos += 1
         return ungapped_pos
 
-    def design_primers(self, conserved_regions):
+    def design_primers_old(self, conserved_regions):
         """
         This is the main method to use for designing common primers
         :return:
