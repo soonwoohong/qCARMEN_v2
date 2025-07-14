@@ -111,8 +111,8 @@ def main():
 
         isoforms = primer_design._load_isoforms(genbank_files)
         junctions = primer_design._find_all_junctions(isoforms)
-        print(gene_name)
-        primer_design._design_on_junction_primers(junctions,
+
+        primer_design._design_on_junction_primers(gene_name, junctions,
                                                   isoforms)
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
 
