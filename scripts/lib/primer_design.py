@@ -83,10 +83,8 @@ class CommonPrimerDesign:
             'PRIMER_MIN_SIZE': 18,
             'PRIMER_OPT_SIZE': 20,
             'PRIMER_MAX_SIZE': 25,
-            'PRIMER_MIN_TM': 57.0,
             'PRIMER_OPT_TM': 60.0,
-            'PRIMER_MAX_TM': 63.0,
-            'PRIMER_MAX_TM_DIFF': 2,
+            'PRIMER_MAX_TM_DIFF': 1.5,
             'PRIMER_MIN_GC': 20.0,
             'PRIMER_MAX_GC': 80.0,
             'PRIMER_PRODUCT_MIN': 70,
@@ -215,6 +213,10 @@ class CommonPrimerDesign:
         max_len = self.default_params['PRIMER_MAX_SIZE']
         exon_5_min_match = self.default_params['PRIMER_EXON_5_MIN_MATCH']
 
+        Tm_min = self.default_params['PRIMER_OPT_TM'] - self.default_params['PRIMER_MAX_TM_DIFF']
+        Tm_max = self.default_params['PRIMER_OPT_TM'] + self.default_params['PRIMER_MAX_TM_DIFF']
+
+        desired_amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
 
         for junction in junctions:
             # only design if junction is present in all isoforms
@@ -238,18 +240,39 @@ class CommonPrimerDesign:
             # [-----exon1----]--[-----exon2-----]
             #        {-----fwd-----}
             #        <overlap>
-            conserved_down_seq = self._find_conserved_regions_around_junction(val_junction, isoforms)
+            try:
+                conserved_down_seq, down_start, down_end, down_identity = self._find_conserved_regions_around_junction(val_junction, isoforms)['downstream']
+            except:
+                logger.info(f"The following junction has no valid downstream conserved sequence: {val_junction}")
+                continue
+
             for overlap in range(exon_5_min_match, exon_5_min_match+10):
-                fw_start = val_junction.junction_pos_in_seq - overlap
+                fwd_start = val_junction.junction_pos_in_seq - overlap
 
+                for fwd_primer_len in range(-min_len, max_len+1):
+                    fwd_end = fwd_start + fwd_primer_len
+                    if fwd_start >=0 and fwd_end < len(val_junction.junction_seq):
+                        fwd_seq = val_junction.junction_seq[fwd_start:fwd_end]
 
+                        # check melting temperature of forward primer
+                        fwd_primer_tm = primer3.calc_tm(fwd_seq)
+                        if Tm_min <= fwd_primer_tm <= Tm_max:
+                            # find reverse primer targeting conserved downstream region.
+                            # conserved_down_seq starts from the junction
+                            # amplicon length = overlap + rev_end_pos (on the conserved region)
+                            # [exon1] - junction - [exon2]
+                            #   <----------------------> +- 30 bases: junction_seq
+                            #              ------------------------------->: from junction downstream_seq
+                            # ----------> fwd
+                            #  (overlap)               rev <--------
+                            #                                       ^
+                            #                                   (rev_end_pos)
+                            # <------------------------------------> amplicon length
+                            for rev_primer_len in range(-min_len, max_len+1):
+                                for offset in range(-20, 20):
+                                    #from here!!!!!!!!!!!!!!
+                                    rev_end = min(desired_amplicon_length+offset, len(conserved_down_seq))
 
-                for primer_len in range(-min_len, max_len+1):
-                    fw_end = fw_start + primer_len
-                    if fw_start >=0 and fw_end < len(val_junction.junction_seq):
-                        fw_seq = val_junction.junction_seq[fw_start:fw_end]
-
-                        # find reverse primer targeting conserved downstream region.
 
     def _find_conserved_regions_around_junction(self, junction: ExonJunction,
                                                 isoforms: Dict[str, Dict]):
@@ -270,15 +293,15 @@ class CommonPrimerDesign:
             downstream_seq = mRNA_seq[junction_pos_in_mRNA:min(junction_pos_in_mRNA+conserved_len,len(mRNA_seq))]
             upstream_seq = mRNA_seq[max(0, junction_pos_in_mRNA-conserved_len):junction_pos_in_mRNA]
             conserved_regions[isoform_id] = {"isoform_id": isoform_id,
-                                             "junction_seq": junction_seq,
-                                             "junction_pos_in_seq": junction_pos_in_seq,
-                                            "junction_pos_in_mRNA": junction_pos_in_mRNA,
+                                             #"junction_seq": junction_seq,
+                                             #"junction_pos_in_seq": junction_pos_in_seq,
+                                            #"junction_pos_in_mRNA": junction_pos_in_mRNA,
                                              "upstream_seq": upstream_seq,
                                              "downstream_seq": downstream_seq}
 
 
         # validate conserved regions across isoforms
-        self._validate_conserved_regions_around_junction(conserved_regions, 0.95, self.default_params['PRIMER_PRODUCT_MIN'])
+        return self._validate_conserved_regions_around_junction(conserved_regions, 0.95, self.default_params['PRIMER_PRODUCT_MIN'])
 
     def _validate_conserved_regions_around_junction(self, conserved_regions: Dict,
                                                     min_identity: float,
@@ -297,30 +320,27 @@ class CommonPrimerDesign:
 
         # Scan through donwstream sequnces to find valid conserved downstream seq
         i = 0
-        while i < downstream_min_length:
-            # Check if position is conserved
-            column = alignment_down[:, i]
-            if self._calculate_identity(column) >= min_identity:
-                # Start of conserved region
-                start = i
-                while i < downstream_min_length and self._calculate_identity(alignment_down[:, i]) >= min_identity:
-                    i += 1
-                end = i
-
-                # Check if region is long enough
-                if end - start >= min_length:
-                    # Calculate average identity
-                    total_identity = sum(
-                        self._calculate_identity(alignment_down[:, j])
-                        for j in range(start, end)
-                    )
-                    avg_identity = total_identity / (end - start)
-
-                    # Convert to  coordinates
-                    valid_conserved_regions['downstream'] = (downstream_seq[0], start, end, avg_identity)
-
-            else:
+        # Check if position is conserved
+        column = alignment_down[:, i]
+        if self._calculate_identity(column) >= min_identity:
+            # Start of conserved region
+            start = i
+            while i < downstream_min_length and self._calculate_identity(alignment_down[:, i]) >= min_identity:
                 i += 1
+            end = i
+
+            # Check if region is long enough
+            if end - start >= min_length:
+                # Calculate average identity
+                total_identity = sum(
+                    self._calculate_identity(alignment_down[:, j])
+                    for j in range(start, end)
+                )
+                avg_identity = total_identity / (end - start)
+
+                # Convert to  coordinates
+                valid_conserved_regions['downstream'] = (downstream_seq[0], start, end, avg_identity)
+
         # Scan through upstrea sequnces to find valid conserved downstream seq
         # upstream sequence is a little tricky because they need to be checked backward.
         # [exon1] --- junction --- [exon2]
@@ -329,30 +349,29 @@ class CommonPrimerDesign:
         #      check the identitiy from here
         alignment_up = MultipleSeqAlignment([SeqRecord(Seq(up_seq[-1:-1-upstream_min_length:-1])) for up_seq in upstream_seq])
         i = 0
-        while i < upstream_min_length:
-            # Check if position is conserved
-            column = alignment_up[:, i]
-            if self._calculate_identity(column) >= min_identity:
-                # Start of conserved region
-                start = i
-                while i < upstream_min_length and self._calculate_identity(alignment_up[:, i]) >= min_identity:
-                    i += 1
-                end = i
 
-                # Check if region is long enough
-                if end - start >= min_length:
-                    # Calculate average identity
-                    total_identity = sum(
-                        self._calculate_identity(alignment_up[:, j])
-                        for j in range(start, end)
-                    )
-                    avg_identity = total_identity / (end - start)
-
-                    # Convert to coordinates
-                    valid_conserved_regions['upstream'] = (upstream_seq[0], -1-start, -end, avg_identity)
-                    # actual sequence = upstream_seq[-end:-1-start]
-            else:
+        # Check if position is conserved
+        column = alignment_up[:, i]
+        if self._calculate_identity(column) >= min_identity:
+            # Start of conserved region
+            start = i
+            while i < upstream_min_length and self._calculate_identity(alignment_up[:, i]) >= min_identity:
                 i += 1
+            end = i
+
+            # Check if region is long enough
+            if end - start >= min_length:
+                # Calculate average identity
+                total_identity = sum(
+                    self._calculate_identity(alignment_up[:, j])
+                    for j in range(start, end)
+                )
+                avg_identity = total_identity / (end - start)
+
+                # Convert to coordinates
+                valid_conserved_regions['upstream'] = (upstream_seq[0], -1-start, -end, avg_identity)
+                # actual sequence = upstream_seq[-end:-1-start]
+
 
         return valid_conserved_regions
 
