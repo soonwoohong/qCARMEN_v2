@@ -5,12 +5,15 @@ Design primers based on NCBI primer-BLAST
 - CommonPrimerDesign: designing common primers across isoforms that are specific to the target
                       against other off-target genes and species.
 
+- NOTE that the direction of sequences is from 5' to 3' in most cases.
+
 """
 
 import numpy as np
 import pandas as pd
 
 from Bio import SeqIO, AlignIO
+from Bio.SeqUtils import gc_fraction
 from Bio.Align import MultipleSeqAlignment
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
@@ -39,22 +42,17 @@ class ExonJunction:
 @dataclass
 class PrimerPair:
     """Store primer pair information from Primer-BLAST"""
+    gene: str
     forward_seq: str
     reverse_seq: str
     forward_tm: float
     reverse_tm: float
     forward_gc: float
     reverse_gc: float
-    product_size: int
-    forward_start: int
-    forward_end: int
-    reverse_start: int
-    reverse_end: int
-    penalty: float
-    primer_class: int # 1: primers on exon-exon junction; 2: amplicon spanning exon-exon junction 3. primers on conserved region
-    target_coverage: List[str]  # Which isoforms this primer pair covers
-    off_targets: int
-    specificity_info: Dict
+    amplicon_seq: str
+    amplicon_len: int
+    primer_class: int # 1: fwd primer on junction; 2: rev primer on junction 3. primers on conserved region
+
 
 class CommonPrimerDesign:
     def __init__(self,
@@ -82,11 +80,11 @@ class CommonPrimerDesign:
         self.default_params = {
             'PRIMER_MIN_SIZE': 18,
             'PRIMER_OPT_SIZE': 20,
-            'PRIMER_MAX_SIZE': 25,
-            'PRIMER_OPT_TM': 60.0,
+            'PRIMER_MAX_SIZE': 30,
+            'PRIMER_OPT_TM': 61,
             'PRIMER_MAX_TM_DIFF': 1.5,
-            'PRIMER_MIN_GC': 20.0,
-            'PRIMER_MAX_GC': 80.0,
+            'PRIMER_MIN_GC': 0.4,
+            'PRIMER_MAX_GC': 0.6,
             'PRIMER_PRODUCT_MIN': 70,
             'PRIMER_PRODUCT_MAX': 1000,
             'DESIRED_AMPLICON_LENGTH': 300,
@@ -104,7 +102,7 @@ class CommonPrimerDesign:
             'PRIMER_EXON_3_MIN_MATCH': 4,
             'PRIMER_EXON_3_MAX_MATCH': 8
         }
-    def design_primers(self, genbank_files: List[str]) -> List[PrimerPair]:
+    def design_primers(self, gene_name: str, genbank_files: List[str]):
         """
         Main method to design junction-targeting primers
 
@@ -112,20 +110,25 @@ class CommonPrimerDesign:
         1. ON junction: primer_class = 1
         2. SPANNING junction: primer_class = 2
         3. Conserved region : primer_class = 3
-            3A: no primer available on junction and spanning junction
-            3B: no junction found because only one exon exists
 
         save all the possible primers for designing crRNAs later.
         top n primers are saved in the primer directory. (default: {output_dir}/primers)
         """
 
-        logger.info(f"Designing junction primers for {len(genbank_files)} files")
-
+        logger.info(f"Designing primers for {gene_name}")
         #extract sequences and exon structures
         isoforms = self._load_isoforms(genbank_files)
+        junctions = self._find_all_junctions(isoforms)
+        # primersA: fwd primer on junction
+        # primersB: rev primer on junction
+        primersA, primersB = self._design_on_junction_primers(gene_name, junctions,isoforms)
+        # primersC: primers on conserved regions
 
-        # find all exon junctions
-        #junctions = self._find_all_junctions(isoforms)
+        primersC = self._design_on_conserved_primers(gene_name)
+
+        return primersA, primersB
+
+
     def _load_isoforms(self, genbank_files: List[str]) -> Dict[str, Dict]:
         """
         Load isoforms from genbank files and extract exon information.
@@ -157,7 +160,7 @@ class CommonPrimerDesign:
                 mRNA_seq += str(record.seq[start:end])
 
             isoforms[record.id] = {
-                'mRNA_seq': mRNA_seq,
+                'mRNA_seq': mRNA_seq.upper(),
                 'exons': exons,
             }
 
@@ -203,20 +206,26 @@ class CommonPrimerDesign:
         return list(junctions.values())
 
     def _design_on_junction_primers(self, gene: str, junctions: List[ExonJunction],
-                                    isoforms: Dict[str, Dict]) -> List[PrimerPair]:
+                                    isoforms: Dict[str, Dict]) -> Tuple[List[PrimerPair], List[PrimerPair]]:
         """Design primers on exon-exon junctions"""
-        primers =[]
+        primers_A = [] # forward primer on junction
+        primers_B = [] # reverse primer on junction
         junction_count = 0
         valid_junctions = []
 
         min_len = self.default_params['PRIMER_MIN_SIZE']
         max_len = self.default_params['PRIMER_MAX_SIZE']
+        min_GC = self.default_params['PRIMER_MIN_GC']
+        max_GC = self.default_params['PRIMER_MAX_GC']
         exon_5_min_match = self.default_params['PRIMER_EXON_5_MIN_MATCH']
+        exon_3_min_match = self.default_params['PRIMER_EXON_3_MIN_MATCH']
+        exon_3_max_match = self.default_params['PRIMER_EXON_3_MAX_MATCH']
 
         Tm_min = self.default_params['PRIMER_OPT_TM'] - self.default_params['PRIMER_MAX_TM_DIFF']
         Tm_max = self.default_params['PRIMER_OPT_TM'] + self.default_params['PRIMER_MAX_TM_DIFF']
 
         desired_amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
+
 
         for junction in junctions:
             # only design if junction is present in all isoforms
@@ -231,8 +240,9 @@ class CommonPrimerDesign:
         # design primers that overlap the junction
         # at least one primer (fwd or rev) must cross the junction
 
-        # Case 1: num_junctions >= 1
+        # Case 1: num_junctions >= 1, fwd primer on junction / rev primer on conserved regions
         # Try different primer positions around junction
+
         for val_junction in valid_junctions:
             # vary position relative to junction
             # check the forward primer overlapping >{PRIMER_EXON_5_MIN_MATCH} bases on the exon
@@ -248,36 +258,131 @@ class CommonPrimerDesign:
 
             for overlap in range(exon_5_min_match, exon_5_min_match+10):
                 fwd_start = val_junction.junction_pos_in_seq - overlap
+                # 5' exon match = overlap
+                for fwd_primer_len in range(min_len, max_len+1):
+                    # 3' exon match = fwd_primer_len - overlap
+                    if exon_3_min_match<= fwd_primer_len-overlap <= exon_3_max_match:
+                        fwd_end = fwd_start + fwd_primer_len
+                        if fwd_start >=0 and fwd_end < len(val_junction.junction_seq):
+                            fwd_seq = val_junction.junction_seq[fwd_start:fwd_end]
 
-                for fwd_primer_len in range(-min_len, max_len+1):
-                    fwd_end = fwd_start + fwd_primer_len
-                    if fwd_start >=0 and fwd_end < len(val_junction.junction_seq):
-                        fwd_seq = val_junction.junction_seq[fwd_start:fwd_end]
+                            # check melting temperature and gc ratio of forward primer
+                            # note that here gc_fraction is floating number (0<gc_fraction<1)
+                            fwd_primer_tm = primer3.calc_tm(fwd_seq)
+                            fwd_gc = gc_fraction(fwd_seq)
+                            if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC:
+                                # find reverse primer targeting conserved downstream region.
+                                # conserved_down_seq starts from the junction
+                                # amplicon length = overlap + rev_end_pos (on the conserved region)
+                                # [exon1] - junction - [exon2]
+                                #   <----------------------> +- 30 bases: junction_seq
+                                #              ------------------------------->: from junction downstream_seq
+                                # ----------> fwd
+                                #  (overlap)               rev <--------
+                                #                                       ^
+                                #                                   (rev_end_pos)
+                                # <------------------------------------> amplicon length
 
-                        # check melting temperature of forward primer
-                        fwd_primer_tm = primer3.calc_tm(fwd_seq)
-                        if Tm_min <= fwd_primer_tm <= Tm_max:
-                            # find reverse primer targeting conserved downstream region.
-                            # conserved_down_seq starts from the junction
-                            # amplicon length = overlap + rev_end_pos (on the conserved region)
-                            # [exon1] - junction - [exon2]
-                            #   <----------------------> +- 30 bases: junction_seq
-                            #              ------------------------------->: from junction downstream_seq
-                            # ----------> fwd
-                            #  (overlap)               rev <--------
-                            #                                       ^
-                            #                                   (rev_end_pos)
-                            # <------------------------------------> amplicon length
-                            for rev_primer_len in range(-min_len, max_len+1):
-                                for offset in range(-20, 20):
-                                    #from here!!!!!!!!!!!!!!
-                                    rev_end = min(desired_amplicon_length+offset, len(conserved_down_seq))
+                                amplicon_length = min(desired_amplicon_length, down_end+overlap)
+                                for rev_primer_len in range(min_len, max_len + 1):
+                                    rev_end = amplicon_length - overlap
+                                    rev_start = rev_end - rev_primer_len
+                                    if rev_start >= 0 and rev_end < down_end:
+                                        rev_seq = conserved_down_seq[rev_start:rev_end]
+                                        rev_primer_tm = primer3.calc_tm(rev_seq)
+                                        rev_gc = gc_fraction(rev_seq)
+                                        if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC:
+                                            rev_seq = Seq(rev_seq).reverse_complement()
+                                            amplicon_seq = fwd_seq[:overlap]+conserved_down_seq[:rev_end]
+                                            primers_A.append(
+                                                PrimerPair(
+                                                    gene,
+                                                    fwd_seq,
+                                                    rev_seq,
+                                                    fwd_primer_tm,
+                                                    rev_primer_tm,
+                                                    fwd_gc,
+                                                    rev_gc,
+                                                    amplicon_seq,
+                                                    amplicon_length,
+                                                    primer_class=1))
 
+        # Case 2: num_junctions >= 1, rev primer on junction / fwd primer on conserved regions
+
+        for val_junction in valid_junctions:
+            # vary position relative to junction
+            # check the rev primer overlapping >{PRIMER_EXON_3_MIN_MATCH} bases on the exon
+            # EX
+            # [-----exon1----]--[-----exon2-----]
+            #        {-----rev------------}
+            #                    <overlap>
+            try:
+                conserved_up_seq, up_start, up_end, up_identity = self._find_conserved_regions_around_junction(val_junction, isoforms)['upstream']
+            except:
+                logger.info(f"The following junction has no valid upstream conserved sequence: {val_junction}")
+                continue
+            for overlap in range(exon_5_min_match, exon_5_min_match+10):
+                rev_end = val_junction.junction_pos_in_seq + overlap
+                for rev_primer_len in range(min_len, max_len+1):
+                    # 3' exon match = fwd_primer_len - overlap
+                    if exon_3_min_match <= rev_primer_len - overlap <= exon_3_max_match:
+                        rev_start = rev_end - rev_primer_len
+                        if rev_start >=0 and rev_end < len(val_junction.junction_seq):
+                            rev_seq = val_junction.junction_seq[rev_start:rev_end]
+                            rev_primer_tm = primer3.calc_tm(rev_seq)
+                            rev_gc = gc_fraction(rev_seq)
+                            if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC:
+                                overlap_seq = rev_seq[-overlap:]
+                                rev_seq = Seq(rev_seq).reverse_complement()
+                                """ 
+                                # find forward primer targeting conserved upstream region.
+                                # conserved_up_seq starts from the junction
+                                # amplicon length = overlap + fwd_end_pos (on the conserved region)
+                                # [exon1] - junction - [exon2]
+                                #   <----------------------> +- 30 bases: junction_seq
+                    ----------------------------->: from junction upstream_seq
+                    ----------> fwd              (overlap)
+                                             rev <----------
+                   ^ (fwd_start_pos)
+                    <--------------------------------------> amplicon length
+                                """
+                                amplicon_length = min(desired_amplicon_length, up_end+overlap)
+                                for fwd_primer_len in range(min_len, max_len+1):
+                                    # fwd_primer will be upstream_seq[-fwd_start:-fwd_end]
+                                    # position on upstream_seq (backward)
+                                    fwd_start = amplicon_length - overlap
+                                    fwd_end = fwd_start - fwd_primer_len
+                                    if fwd_start >= 0 and fwd_end < up_end:
+                                        fwd_seq = conserved_up_seq[-fwd_start:-fwd_end]
+                                        fwd_primer_tm = primer3.calc_tm(fwd_seq)
+                                        fwd_gc = gc_fraction(fwd_seq)
+                                        if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC:
+                                            amplicon_seq = conserved_up_seq[-fwd_start:]+overlap_seq
+                                            primers_B.append(
+                                                PrimerPair(gene,
+                                                    fwd_seq,
+                                                    rev_seq,
+                                                    fwd_primer_tm,
+                                                    rev_primer_tm,
+                                                    fwd_gc,
+                                                    rev_gc,
+                                                    amplicon_seq,
+                                                    amplicon_length,
+                                                    primer_class=2))
+
+
+                                #            upstream seq
+                                #  ----------------------------> <junction>
+                                #  ^                          ^
+                                # (end)                  (start)
+                                # actual sequence = upstream_seq[-end:]
+
+        return primers_A, primers_B
 
     def _find_conserved_regions_around_junction(self, junction: ExonJunction,
                                                 isoforms: Dict[str, Dict]):
         """Find conserved regions around a junction in isoforms"""
-        junction_seq = junction.junction_seq
+        junction_seq = junction.junction_seq.upper()
         junction_pos_in_seq = junction.junction_pos_in_seq
         conserved_len = round(self.default_params['DESIRED_AMPLICON_LENGTH'] * 1.5)
 
@@ -339,7 +444,7 @@ class CommonPrimerDesign:
                 avg_identity = total_identity / (end - start)
 
                 # Convert to  coordinates
-                valid_conserved_regions['downstream'] = (downstream_seq[0], start, end, avg_identity)
+                valid_conserved_regions['downstream'] = (downstream_seq[0].upper(), start, end, avg_identity)
 
         # Scan through upstrea sequnces to find valid conserved downstream seq
         # upstream sequence is a little tricky because they need to be checked backward.
@@ -369,60 +474,69 @@ class CommonPrimerDesign:
                 avg_identity = total_identity / (end - start)
 
                 # Convert to coordinates
-                valid_conserved_regions['upstream'] = (upstream_seq[0], -1-start, -end, avg_identity)
-                # actual sequence = upstream_seq[-end:-1-start]
-
+                valid_conserved_regions['upstream'] = (upstream_seq[0].upper(), start, end, avg_identity)
+                # actual sequence = upstream_seq[-end:]
+                # start position doesn't matter; it's always 0
 
         return valid_conserved_regions
 
-    def find_conserved_regions(self,
-                               min_length: int = 100,
-                               min_identity: float = 0.95)-> (Dict[str, tuple], Dict[str, int]):
+    def _design_on_conserved_primers(self, gene: str)->List[PrimerPair]:
+        conserved_regions = self._find_conserved_regions(gene,
+                                                         min_length = round(self.default_params['DESIRED_AMPLICON_LENGTH']/2))
+        #print(conserved_regions)
+        # both primers are not on junction but on conserved regions
+
+        primers_C = []
+        logger.info(f"{gene} has {len(conserved_regions)} conserved regions across isoforms.")
+
+
+        for conserved_seq, identity in conserved_regions:
+
+            primers = self._design_with_primer3(conserved_seq)
+            #validated_primers = self._validate_primers_across_isoforms(gene, primers, genbank_files)
+            #primers_C.extend(validated_primers)
+
+
+
+        #return primers_C
+
+    def _find_conserved_regions(self,
+                                gene,
+                                min_length: int = 100,
+                                min_identity: float = 0.95)-> List[Tuple[str, float]]:
         """
         Find conserved regions across all isoforms of a gene
 
         conserved_regions = {gene name: [(start_pos, end_pos, identity)]}
         positions here are based on the first sequences in the alignment fasta.
 
-        num_fasta = gene name: fasta_length
+        skip if there is only one isoform
 
         """
-        conserved_regions = {}
-        num_fasta = {}
 
         # align the sequences
+        fasta_file = os.path.join(self.fasta_dir, gene+".fasta")
+        align_file = os.path.join(self.align_dir, f"aligned_{gene}.fasta")
+        # count how many sequences in a fasta file
+        fasta_len = sum(1 for _ in SeqIO.parse(fasta_file, "fasta"))
+        num_fasta = fasta_len
+        # if a fasta file has one sequence, it doesn't require alignment.
+        if fasta_len == 1:
+            with open(align_file, "w") as f:
+                temp_record = SeqIO.read(fasta_file, "fasta")
+                SeqIO.write(temp_record, f, "fasta")
+                temp_seq = temp_record.seq
+            return [(0, len(temp_seq), 1.0, temp_seq.upper())]
 
-        for gene in self.gene_list:
-            fasta_file = os.path.join(self.fasta_dir, gene+".fasta")
-            align_file = os.path.join(self.align_dir, f"aligned_{gene}.fasta")
-            # count how many sequences in a fasta file
-            fasta_len = sum(1 for _ in SeqIO.parse(fasta_file, "fasta"))
-            num_fasta[gene] = fasta_len
-            # if a fasta file has one sequence, it doesn't require alignment.
-            if fasta_len == 1:
-                with open(align_file, "w") as f:
-                    SeqIO.write(SeqIO.read(fasta_file, "fasta"), f, "fasta")
-
-            else:
-                # alignment using mafft
-                subprocess.run(['mafft', '--auto', '--quiet', fasta_file],
-                               stdout=open(align_file, 'w'))
-            logger.info(f"Saved aligned fasta files for {gene} ({fasta_len} sequence(s) aligned)")
-            # Find conserved regions
-            alignment = AlignIO.read(align_file, "fasta")
-            conserved_regions[gene] = self._identify_conserved_regions(
-                alignment, min_length, min_identity)
-
-
-        return conserved_regions, num_fasta
-
-    def _identify_conserved_regions(self, alignment: MultipleSeqAlignment,
-                                    min_length: int,
-                                    min_identity: float) -> List[Tuple[int, int, float]]:
-        """Identify conserved regions in the alignment"""
+        else:
+            # alignment using mafft
+            subprocess.run(['mafft', '--auto', '--quiet', fasta_file],
+                           stdout=open(align_file, 'w'))
+        #logger.info(f"Saved aligned fasta files for {gene} ({fasta_len} sequence(s) aligned)")
+        # Find conserved regions
+        alignment = AlignIO.read(align_file, "fasta")
         conserved_regions = []
         seq_length = alignment.get_alignment_length()
-
         # Scan through alignment to find conserved stretches
         i = 0
         while i < seq_length:
@@ -432,6 +546,7 @@ class CommonPrimerDesign:
                 # Start of conserved region
                 start = i
                 while i < seq_length and self._calculate_identity(alignment[:, i]) >= min_identity:
+
                     i += 1
                 end = i
 
@@ -445,21 +560,27 @@ class CommonPrimerDesign:
                     avg_identity = total_identity / (end - start)
 
                     # Convert to ungapped coordinates
-                    ungapped_start = self._gapped_to_ungapped(alignment[0], start)
-                    ungapped_end = self._gapped_to_ungapped(alignment[0], end)
+                    #ungapped_start = self._gapped_to_ungapped(alignment[0], start)
+                    #ungapped_end = self._gapped_to_ungapped(alignment[0], end)
+                    #base_id = alignment[0].id
+                    gapped_conserved_sequence = alignment[0].seq
+                    upgapped_conserved_sequence = gapped_conserved_sequence.upper()[start:end].replace("-","")
 
-                    conserved_regions.append((ungapped_start, ungapped_end, avg_identity))
+                    conserved_regions.append((upgapped_conserved_sequence, avg_identity))
             else:
                 i += 1
 
         return conserved_regions
 
+
     def _calculate_identity(self, column: str) -> float:
         """Calculate identity for an alignment column"""
         # Remove gaps
-        non_gap_chars = [c for c in column if c != '-']
-        if not non_gap_chars:
+
+        if '-' in column:
             return 0.0
+        else:
+            non_gap_chars = [c for c in column]
 
         # Count most common character
         char_counts = {}
@@ -477,42 +598,10 @@ class CommonPrimerDesign:
                 ungapped_pos += 1
         return ungapped_pos
 
-    def design_primers_old(self, conserved_regions):
-        """
-        This is the main method to use for designing common primers
-        :return:
-        """
-        all_primers_dict = {}
-        for gene in self.gene_list:
-            # 1. load conserved regions
-            temp_conserved = conserved_regions[gene]
-            logger.info(f"Found {len(temp_conserved)} conserved regions")
-            fasta_file = os.path.join(self.fasta_dir, gene+".fasta")
-            # 2: create base sequence
-            records = list(SeqIO.parse(fasta_file, "fasta"))
-            base_seq = str(records[0].seq)
-            base_id = str(records[0].id)
-
-            # 3: design primers in conserved regions
-            all_primers =  []
-            parent_path = os.path.join(self.genbank_dir,gene)
-            genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
-            for region_start, region_end, identity in temp_conserved:
-                primers = self._design_with_primer3(base_seq, region_start, region_end)
-
-                validated_primers = self._validate_primers_across_isoforms(primers, genbank_files)
-
-                all_primers.extend(validated_primers)
-
-            all_primers_dict[gene] = all_primers
-        return all_primers_dict
-
     def _design_with_primer3(self, base_seq: str, region_start: int, region_end: int):
         # Define target region (see below for information in detail)
-        # TODO: (070825 - target on exon-exon junction
-        # at least one of primers should be on exon-exon junction.
-
-        target_len = min(200, region_end - region_start)
+        amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
+        target_len = min(round(amplicon_length*1.5), region_end - region_start)
         target_start = region_start + (region_end - region_start - target_len) // 2
         """
                 Conserved region: [========================================] (500bp)
@@ -553,6 +642,7 @@ class CommonPrimerDesign:
                 'forward_gc': results[f'PRIMER_LEFT_{i}_GC_PERCENT'],
                 'reverse_gc': results[f'PRIMER_RIGHT_{i}_GC_PERCENT'],
                 'product_size': results[f'PRIMER_PAIR_{i}_PRODUCT_SIZE'],
+                'amplicon_seq': results[f'PRIMER_PAIR_{i}_SEQUENCE'],
                 'penalty': results[f'PRIMER_PAIR_{i}_PENALTY'],
                 'forward_pos': results[f'PRIMER_LEFT_{i}'][0],
                 'reverse_pos': results[f'PRIMER_RIGHT_{i}'][0],
@@ -562,9 +652,9 @@ class CommonPrimerDesign:
         return primers
 
 
-    # no flanking allowed
-    # TODO: 070825 - flanking allowed
+
     def _validate_primers_across_isoforms(self,
+                                          gene,
                                           primers: List[Dict],
                                           genbank_files: List[str]) -> List[PrimerPair]:
         """Validate that primers work across all isoforms"""
@@ -600,21 +690,16 @@ class CommonPrimerDesign:
 
             if works_for_all:
                 primer_pair = PrimerPair(
+                    gene,
                     forward_seq=forward_seq,
                     reverse_seq=reverse_seq,
                     forward_tm=primer_data['forward_tm'],
                     reverse_tm=primer_data['reverse_tm'],
                     forward_gc=primer_data['forward_gc'],
                     reverse_gc=primer_data['reverse_gc'],
-                    product_size=primer_data['product_size'],
-                    forward_start=primer_data['forward_pos'],
-                    forward_end=primer_data['forward_pos'] + len(forward_seq),
-                    reverse_start=primer_data['reverse_pos'],
-                    reverse_end=primer_data['reverse_pos'] + len(reverse_seq),
-                    penalty=primer_data['penalty'],
-                    target_coverage=coverage,
-                    off_targets=0,  # Will be updated by specificity check
-                    specificity_info={}
+                    amplicon_seq=primer_data['amplicon_seq'],
+                    amplicon_len=len(forward_seq),
+                    primer_class=3
                 )
                 validated.append(primer_pair)
 

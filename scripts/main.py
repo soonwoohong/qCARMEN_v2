@@ -108,12 +108,8 @@ def main():
     for gene_name in gene_list:
         parent_path = os.path.join(genbank_dir, gene_name)
         genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
+        primers_A, primers_B = primer_design.design_primers(gene_name, genbank_files)
 
-        isoforms = primer_design._load_isoforms(genbank_files)
-        junctions = primer_design._find_all_junctions(isoforms)
-
-        primer_design._design_on_junction_primers(gene_name, junctions,
-                                                  isoforms)
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
 
     #print(gene_isoform_dict)
