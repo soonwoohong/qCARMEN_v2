@@ -80,7 +80,9 @@ class CommonPrimerDesign:
         self.default_params = {
             'PRIMER_MIN_SIZE': 18,
             'PRIMER_OPT_SIZE': 20,
-            'PRIMER_MAX_SIZE': 30,
+            'PRIMER_MAX_SIZE': 25,
+            'PRIMER_MIN_TM': 58.0,
+            'PRIMER_MAX_TM': 64.0,
             'PRIMER_OPT_TM': 61,
             'PRIMER_MAX_TM_DIFF': 1.5,
             'PRIMER_MIN_GC': 0.4,
@@ -121,12 +123,12 @@ class CommonPrimerDesign:
         junctions = self._find_all_junctions(isoforms)
         # primersA: fwd primer on junction
         # primersB: rev primer on junction
-        primersA, primersB = self._design_on_junction_primers(gene_name, junctions,isoforms)
+        primers_A, primers_B = self._design_on_junction_primers(gene_name, junctions,isoforms)
         # primersC: primers on conserved regions
 
-        primersC = self._design_on_conserved_primers(gene_name)
+        primers_C = self._design_on_conserved_primers(gene_name)
 
-        return primersA, primersB
+        return primers_A, primers_B, primers_C
 
 
     def _load_isoforms(self, genbank_files: List[str]) -> Dict[str, Dict]:
@@ -301,8 +303,8 @@ class CommonPrimerDesign:
                                                     rev_seq,
                                                     fwd_primer_tm,
                                                     rev_primer_tm,
-                                                    fwd_gc,
-                                                    rev_gc,
+                                                    fwd_gc*100,
+                                                    rev_gc*100,
                                                     amplicon_seq,
                                                     amplicon_length,
                                                     primer_class=1))
@@ -364,8 +366,8 @@ class CommonPrimerDesign:
                                                     rev_seq,
                                                     fwd_primer_tm,
                                                     rev_primer_tm,
-                                                    fwd_gc,
-                                                    rev_gc,
+                                                    fwd_gc*100,
+                                                    rev_gc*100,
                                                     amplicon_seq,
                                                     amplicon_length,
                                                     primer_class=2))
@@ -483,22 +485,65 @@ class CommonPrimerDesign:
     def _design_on_conserved_primers(self, gene: str)->List[PrimerPair]:
         conserved_regions = self._find_conserved_regions(gene,
                                                          min_length = round(self.default_params['DESIRED_AMPLICON_LENGTH']/2))
-        #print(conserved_regions)
         # both primers are not on junction but on conserved regions
-
+        buffer = 20 # avoid primers on 5'end or 3'end of the conserved region.
         primers_C = []
         logger.info(f"{gene} has {len(conserved_regions)} conserved regions across isoforms.")
 
-
         for conserved_seq, identity in conserved_regions:
+            target_start = buffer
+            target_end = len(conserved_seq)-buffer
+            target_len = target_end - target_start
+            target_seq = conserved_seq[target_start:target_end]
+            opt_size = min(target_len, self.default_params['DESIRED_AMPLICON_LENGTH'])
 
-            primers = self._design_with_primer3(conserved_seq)
-            #validated_primers = self._validate_primers_across_isoforms(gene, primers, genbank_files)
-            #primers_C.extend(validated_primers)
+            seq_args = {
+                'SEQUECE_ID': gene,
+                'SEQUENCE_TEMPLATE': target_seq
+            #    'SEQUENCE_TARGET': [target_start, target_end]
+            }
+
+            global_args = {
+                'PRIMER_OPT_SIZE': self.default_params['PRIMER_OPT_SIZE'],
+                'PRIMER_MIN_SIZE': self.default_params['PRIMER_MIN_SIZE'],
+                'PRIMER_MAX_SIZE': self.default_params['PRIMER_MAX_SIZE'],
+                'PRIMER_OPT_TM': self.default_params['PRIMER_OPT_TM'],
+                'PRIMER_MIN_TM': self.default_params['PRIMER_MIN_TM'],
+                'PRIMER_MAX_TM': self.default_params['PRIMER_MAX_TM'],
+                'PRIMER_MIN_GC': self.default_params['PRIMER_MIN_GC']*100,
+                'PRIMER_MAX_GC': self.default_params['PRIMER_MAX_GC']*100,
+                'PRIMER_PRODUCT_SIZE_RANGE': [[int(opt_size*0.85), int(opt_size)*1.15]],
+                'PRIMER_NUM_RETURN': self.default_params['PRIMER_NUM_RETURN']*2,
+
+            }
+
+            # design primers
+            results = primer3.design_primers(seq_args, global_args)
+
+            # Extract primer pairs
+            num_returned = results.get('PRIMER_PAIR_NUM_RETURNED', 0)
+
+            for i in range(num_returned):
+                left_pos, _ = results[f'PRIMER_LEFT_{i}']
+                right_pos, _ = results[f'PRIMER_RIGHT_{i}']
+                primers_C.append(
+                    PrimerPair(gene,
+                               results[f'PRIMER_LEFT_{i}_SEQUENCE'],
+                               results[f'PRIMER_RIGHT_{i}_SEQUENCE'],
+                               results[f'PRIMER_LEFT_{i}_TM'],
+                               results[f'PRIMER_RIGHT_{i}_TM'],
+                               results[f'PRIMER_LEFT_{i}_GC_PERCENT'],
+                               results[f'PRIMER_RIGHT_{i}_GC_PERCENT'],
+                               str(target_seq[left_pos:right_pos+1]).upper(),
+                               results[f'PRIMER_PAIR_{i}_PRODUCT_SIZE'],
+                               primer_class = 3
+                               )
 
 
+                    )
 
-        #return primers_C
+
+        return primers_C
 
     def _find_conserved_regions(self,
                                 gene,
@@ -526,7 +571,7 @@ class CommonPrimerDesign:
                 temp_record = SeqIO.read(fasta_file, "fasta")
                 SeqIO.write(temp_record, f, "fasta")
                 temp_seq = temp_record.seq
-            return [(0, len(temp_seq), 1.0, temp_seq.upper())]
+            return [(temp_seq.upper(),1.0)]
 
         else:
             # alignment using mafft
@@ -597,117 +642,5 @@ class CommonPrimerDesign:
             if seq_record.seq[i] != '-':
                 ungapped_pos += 1
         return ungapped_pos
-
-    def _design_with_primer3(self, base_seq: str, region_start: int, region_end: int):
-        # Define target region (see below for information in detail)
-        amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
-        target_len = min(round(amplicon_length*1.5), region_end - region_start)
-        target_start = region_start + (region_end - region_start - target_len) // 2
-        """
-                Conserved region: [========================================] (500bp)
-                Position:         100                                      600
-
-                target_len = min(200, 500) = 200bp
-
-                Extra space = 500 - 200 = 300bp
-                Half of extra = 300 // 2 = 150bp
-
-                target_start = 100 + 150 = 250
-
-                Result:
-                [===========|████████████████|===========]
-                100         250            450         600
-                            └─── 200bp ────┘
-                            (Target Region)
-        """
-
-        seq_args = {
-            'SEQUENCE_ID': 'consensus',
-            'SEQUENCE_TEMPLATE': base_seq,
-            'SEQUENCE_TARGET': [target_start, target_len],
-        }
-        # Design primers
-        results = primer3.bindings.design_primers(seq_args, self.default_params)
-
-        # Extract primer pairs
-        primers = []
-        num_returned = results.get('PRIMER_PAIR_NUM_RETURNED', 0)
-
-        for i in range(num_returned):
-            primer_data = {
-                'forward_seq': results[f'PRIMER_LEFT_{i}_SEQUENCE'],
-                'reverse_seq': results[f'PRIMER_RIGHT_{i}_SEQUENCE'],
-                'forward_tm': results[f'PRIMER_LEFT_{i}_TM'],
-                'reverse_tm': results[f'PRIMER_RIGHT_{i}_TM'],
-                'forward_gc': results[f'PRIMER_LEFT_{i}_GC_PERCENT'],
-                'reverse_gc': results[f'PRIMER_RIGHT_{i}_GC_PERCENT'],
-                'product_size': results[f'PRIMER_PAIR_{i}_PRODUCT_SIZE'],
-                'amplicon_seq': results[f'PRIMER_PAIR_{i}_SEQUENCE'],
-                'penalty': results[f'PRIMER_PAIR_{i}_PENALTY'],
-                'forward_pos': results[f'PRIMER_LEFT_{i}'][0],
-                'reverse_pos': results[f'PRIMER_RIGHT_{i}'][0],
-            }
-            primers.append(primer_data)
-
-        return primers
-
-
-
-    def _validate_primers_across_isoforms(self,
-                                          gene,
-                                          primers: List[Dict],
-                                          genbank_files: List[str]) -> List[PrimerPair]:
-        """Validate that primers work across all isoforms"""
-        validated = []
-
-        for primer_data in primers:
-            forward_seq = primer_data['forward_seq']
-            reverse_seq = primer_data['reverse_seq']
-
-            # Check each isoform
-            coverage = []
-            works_for_all = True
-
-            for gb_file in genbank_files:
-                record = SeqIO.read(gb_file, "genbank")
-                seq_str = str(record.seq).upper()
-
-                # Check if both primers are present
-                fwd_pos = seq_str.find(forward_seq.upper())
-                rev_rc = str(Seq(reverse_seq).reverse_complement()).upper()
-                rev_pos = seq_str.find(rev_rc)
-
-                if fwd_pos >= 0 and rev_pos >= 0 and rev_pos > fwd_pos:
-                    product_size = rev_pos + len(reverse_seq) - fwd_pos
-                    if 50 <= product_size <= 2000:  # Reasonable product size
-                        coverage.append(record.id)
-                    else:
-                        works_for_all = False
-                        break
-                else:
-                    works_for_all = False
-                    break
-
-            if works_for_all:
-                primer_pair = PrimerPair(
-                    gene,
-                    forward_seq=forward_seq,
-                    reverse_seq=reverse_seq,
-                    forward_tm=primer_data['forward_tm'],
-                    reverse_tm=primer_data['reverse_tm'],
-                    forward_gc=primer_data['forward_gc'],
-                    reverse_gc=primer_data['reverse_gc'],
-                    amplicon_seq=primer_data['amplicon_seq'],
-                    amplicon_len=len(forward_seq),
-                    primer_class=3
-                )
-                validated.append(primer_pair)
-
-        logger.info(f"Validated {len(validated)} primer pairs across all isoforms")
-        return validated
-
-
-
-
 
 

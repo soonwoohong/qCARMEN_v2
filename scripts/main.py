@@ -4,6 +4,7 @@ import os
 import argparse
 import logging
 from Bio import SeqIO
+import pandas as pd
 
 # from local
 from lib import NCBIGeneFetcher
@@ -108,7 +109,11 @@ def main():
     for gene_name in gene_list:
         parent_path = os.path.join(genbank_dir, gene_name)
         genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
-        primers_A, primers_B = primer_design.design_primers(gene_name, genbank_files)
+        # designing primers
+        primers_A, primers_B, primers_C = primer_design.design_primers(gene_name, genbank_files)
+
+        print(primers_A)
+
 
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
 
