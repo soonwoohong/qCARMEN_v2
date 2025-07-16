@@ -1,9 +1,9 @@
 """
 
-Design primers based on NCBI primer-BLAST
+Design primers based on NCBI primer
 
 - CommonPrimerDesign: designing common primers across isoforms that are specific to the target
-                      against other off-target genes and species.
+
 
 - NOTE that the direction of sequences is from 5' to 3' in most cases.
 
@@ -57,7 +57,6 @@ class PrimerPair:
 class CommonPrimerDesign:
     def __init__(self,
                  output_dir: str,
-                 organism: str = "Mus musculus",
                  num_primers: int = 10
                  ):
         """
@@ -300,7 +299,7 @@ class CommonPrimerDesign:
                                                 PrimerPair(
                                                     gene,
                                                     fwd_seq,
-                                                    rev_seq,
+                                                    str(rev_seq).upper(),
                                                     fwd_primer_tm,
                                                     rev_primer_tm,
                                                     fwd_gc*100,
@@ -363,7 +362,7 @@ class CommonPrimerDesign:
                                             primers_B.append(
                                                 PrimerPair(gene,
                                                     fwd_seq,
-                                                    rev_seq,
+                                                    str(rev_seq).upper(),
                                                     fwd_primer_tm,
                                                     rev_primer_tm,
                                                     fwd_gc*100,

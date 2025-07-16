@@ -5,6 +5,7 @@ import argparse
 import logging
 from Bio import SeqIO
 import pandas as pd
+from dataclasses import dataclass, asdict
 
 # from local
 from lib import NCBIGeneFetcher
@@ -103,16 +104,17 @@ def main():
 
     primer_dir = os.path.join(output_dir, "primer")
     primer_design = CommonPrimerDesign(output_dir)
-    isoform_dict = {}
-    junction_dict = {}
-    primer_dict = {}
+
     for gene_name in gene_list:
         parent_path = os.path.join(genbank_dir, gene_name)
         genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
         # designing primers
         primers_A, primers_B, primers_C = primer_design.design_primers(gene_name, genbank_files)
+        primers = pd.DataFrame([asdict(obj) for lst in [primers_A, primers_B, primers_C] for obj in lst])
+        primers.to_csv(os.path.join(primer_dir, gene_name+"_primers.csv"))
+        # specificity checking
 
-        print(primers_A)
+
 
 
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
