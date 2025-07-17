@@ -61,12 +61,10 @@ class CommonPrimerDesign:
                  ):
         """
         Arg:
-            organism: Target organism for specificity checking
             primer_dir: primer directory for primers
             num_primers: Number of primer pairs to return
 
         """
-        self.organism = organism
         self.output_dir = output_dir
         self.genbank_dir = os.path.join(output_dir, "genbank")
         self.fasta_dir = os.path.join(output_dir, "fasta")

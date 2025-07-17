@@ -10,7 +10,7 @@ from dataclasses import dataclass, asdict
 # from local
 from lib import NCBIGeneFetcher
 from lib import CommonPrimerDesign
-
+from lib import PrimerBlast
 
 # Set up logging
 logging.basicConfig(
@@ -34,7 +34,7 @@ def main():
     #parser.add_argument("-p", "--project_name", help="project_name", type=str, required=True)
     #parser.add_argument("-t", "--target", help="input file", type=str, required=True)
 
-    #parser.add_argument("-org", "--organism", help="organism species", type=str, required=False)
+    parser.add_argument("-org", "--organism", help="organism species", type=str, required=False)
 
 
     args = parser.parse_args()
@@ -43,6 +43,7 @@ def main():
     user_email = args.user
     ncbi_key = args.ncbi
     output_dir = args.output_dir
+    organism = args.organism
 
     if input_type == 'csv':
         if not ncbi_key:
@@ -54,7 +55,7 @@ def main():
         # It will automatically save fasta and genbank files of a gene.
         # If you specify isoforms, the output only includes the filtered fasta/genbank otherwise all isoforms will be exported.
 
-        fetcher = NCBIGeneFetcher()
+        fetcher = NCBIGeneFetcher(organism=organism)
         csv_data = fetcher.csv_loader(target_file)
         gene_list = csv_data[0]
         isoform_dict = csv_data[1]
@@ -104,15 +105,19 @@ def main():
 
     primer_dir = os.path.join(output_dir, "primer")
     primer_design = CommonPrimerDesign(output_dir)
+    specificity_checker = PrimerBlast(output_dir, organism)
 
     for gene_name in gene_list:
         parent_path = os.path.join(genbank_dir, gene_name)
         genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
+
         # designing primers
         primers_A, primers_B, primers_C = primer_design.design_primers(gene_name, genbank_files)
         primers = pd.DataFrame([asdict(obj) for lst in [primers_A, primers_B, primers_C] for obj in lst])
         primers.to_csv(os.path.join(primer_dir, gene_name+"_primers.csv"))
+
         # specificity checking
+        specificity_checker.run_blast_locally(gene_name, primers)
 
 
 
