@@ -117,7 +117,7 @@ def main():
         primers.to_csv(os.path.join(primer_dir, gene_name+"_primers.csv"))
 
         # specificity checking
-        specificity_checker.run_blast_locally(gene_name, primers)
+        specificity_checker.check_primer_specificity(gene_name, primers)
 
 
 

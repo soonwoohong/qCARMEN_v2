@@ -2,16 +2,8 @@
 
 Specificity check based on BLAST
 
-Original
-
-Run the following code in command line
-
-- MAC / linux
-* install blast
-conda install bioconda::blast
-* install database (ex. mus musculus or mouse genome)
-update_blastdb.pl --decompress mouse_genome
-
+Originally, I was planning to run BLAST locally, but I realized the database is a bit larger than I thought. It requires > 600 GB...
+This version uses Biopyton library, Blast.qblast to run blast remotely.
 
 * check this cookbook in more detail:
 https://www.ncbi.nlm.nih.gov/books/NBK279690/pdf/Bookshelf_NBK279690.pdf
@@ -24,12 +16,11 @@ https://www.ncbi.nlm.nih.gov/books/NBK279690/pdf/Bookshelf_NBK279690.pdf
 
 """
 import os
-import subprocess
-import sys
-import tempfile
-from Bio import SeqIO
+from Bio import SeqIO, Blast
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
+from Bio.Blast import qblast
+from dataclasses import dataclass
 import pandas as pd
 from typing import List, Dict, Tuple, Optional
 import logging
@@ -41,16 +32,50 @@ logging.basicConfig(level=logging.INFO)
 logger = logging.getLogger(__name__)
 
 class PrimerBlast:
-    def __init__(self, output_dir: str, organism: str = "Mus musculus"):
+    def __init__(self,
+                 output_dir: str,
+                 organism: str = "Mus musculus",
+                 database: str = "core_nt",
+                 identity_threshold: float = 0.8,
+                 coverage_threshold: float = 0.8,
+                 max_hits: int = 100,
+                 delay_between_queries: float = 1.0
+                 ):
         """
                Initialize PrimerBLAST
 
-               Args:
+        Args:
 
-               """
-        if organism == "Mus musculus":
-            self.filter = 10090 # organism filter based on NCBI taxonomy id
+        organism: Target organism for specificity (e.g., "Mus musculus")
+        database: NCBI database to search against ("nt", "refseq_rna", etc.)
+        identity_threshold: Maximum allowed identity with off-targets (0.0-1.0)
+        coverage_threshold: Minimum coverage for considering a hit (0.0-1.0)
+        max_hits: Maximum number of BLAST hits to retrieve
+        delay_between_queries: Delay between BLAST queries (seconds) to be nice to NCBI
+
+        """
         self.organism = organism
+        self.database = database
+        self.identity_threshold = identity_threshold
+        self.coverage_threshold = coverage_threshold
+        self.max_hits = max_hits
+        self.delay = delay_between_queries
+        # Map organism names to NCBI taxonomy IDs for better filtering
+
+        self.organism_taxids = {
+            "Mus musculus": "10090",
+            "Homo sapiens": "9606",
+            "Rattus norvegicus": "10116",
+            "Danio rerio": "7955",
+            "Drosophila melanogaster": "7227",
+            "Caenorhabditis elegans": "6239",
+            "Arabidopsis thaliana": "3702",
+            "Saccharomyces cerevisiae": "4932"
+        }
+        self.taxid = self.organism_taxids.get(organism, "")
+        if not self.taxid:
+            logger.warning(f"No taxonomy ID found for {organism}. Using organism name filter.")
+
         self.output_dir = output_dir
         self.genbank_dir = os.path.join(output_dir, "genbank")
         self.fasta_dir = os.path.join(output_dir, "fasta")
@@ -58,26 +83,64 @@ class PrimerBlast:
         self.align_dir = os.path.join(output_dir, "aligned_fasta")
         self.specificity_dir = os.path.join(output_dir, "specificity")
         os.makedirs(self.specificity_dir, exist_ok=True)
-    def run_blast_locally(self, gene, primers):
 
-        # unique_names = [0_fwd, 1_fwd ... 0_rev, 1_rev ....]
+    def check_primer_specificity(self,
+                                 gene,
+                                 primers):
+        """
+        Args:
+        primers: dataframe of PrimerPairs
+        gene: name of target gene
+
+        """
+        results =[]
+        logger.info(f"Checking specificity for {len(primers)} primer pairs from {gene}")
+
+        # merge primers and exclude any duplicate primers
         unique_primers, unique_names = self._load_primer(primers)
 
-        # make a temp fsata file for blast
-        temp_file = os.path.join(self.specificity_dir, "temp.fasta")
-        temp_records = []
-        for unique_idx in range(len(unique_primers)):
-            temp_records.append(SeqRecord(Seq(unique_primers[unique_idx]), id=gene+"_"+unique_names[unique_idx]))
+        # create multi-sequence fasta
+        fasta_content = ""
+        for i in range(len(unique_primers)):
+            primer =unique_primers[i]
+            name = unique_names[i]
+            fasta_content += f">{name}\n{primer}\n"
 
-        with open(temp_file, "w") as f:
-            SeqIO.write(temp_records, f, "fasta")
+        self.output_file = os.path.join(self.specificity_dir, f"{gene}_specificity.xml")
 
-        output_file = os.path.join(self.specificity_dir, f"{gene}_specificity.xml")
-        cmd = self._make_blast_cmd(temp_file, output_file)
-        logger.info(f"Checking primers specificity for {gene}...")
-        subprocess.run(cmd, shell=True)
+        results = self._blast_primer_remote(fasta_content, gene)
 
-        return
+    def _blast_primer_remote(self,
+                             primer_seq: str,
+                             query_id: str):
+
+        # Prepare BLAST parameters
+        blast_params = {
+            'program': 'blastn',
+            'short_query': True,
+            'database': self.database,
+            'sequence': primer_seq,
+            'expect': 1000,  # Higher E-value for short sequences
+            'word_size': 7,  # Smaller word size for short primers
+            'filter': 'F',  # No low complexity filtering
+            'hitlist_size': self.max_hits
+        }
+
+        # add organism filter
+        if self.taxid:
+            blast_params['entrez_query'] = f'(txid{self.taxid}[ORGN])'
+
+        results = qblast(**blast_params)
+        with open(self.output_file, "wb") as f:
+                f.write(results.read())
+
+        #with Blast.parse(self.output_file) as blast_records:
+        #    for blast_record in blast_records:
+        #        print(blast_record)
+
+
+
+
 
     def _load_primer(self, primers):
         """
@@ -115,18 +178,3 @@ class PrimerBlast:
 
         return unique_primers, unique_names
 
-    def _make_blast_cmd(self, temp_file, output_file):
-
-        cmd = [
-            "blastn",
-            "-db", self.db,
-            "-query", temp_file,
-            '-outfmt', '5',  # XML output
-            '-out', output_file,
-            '-word_size', '7',
-            '-evalue', '1000',
-            '-num_alignments', '100',
-            '-task', 'blastn-short'  # Optimized for short queries
-        ]
-
-        return cmd
