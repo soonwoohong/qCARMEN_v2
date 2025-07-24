@@ -16,6 +16,7 @@ https://www.ncbi.nlm.nih.gov/books/NBK279690/pdf/Bookshelf_NBK279690.pdf
 
 """
 import os
+import time
 from Bio import SeqIO, Blast
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
@@ -209,8 +210,15 @@ class PrimerBlast:
             blast_params['entrez_query'] = f'(txid{self.taxid}[ORGN])'
 
         # if the blast result already exists, skip this part
+        # the following lines sometimes fail. I think it's because of timeout from running blast remotely.
+        # to solve this issue, I added the retry part after 1 minute rest.
         if not os.path.exists(self.output_file):
-            results = qblast(**blast_params)
+            try:
+                results = qblast(**blast_params)
+            except:
+                time.sleep(60)
+                results = qblast(**blast_params)
+
             with open(self.output_file, "wb") as f:
                 f.write(results.read())
 

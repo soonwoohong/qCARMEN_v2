@@ -1,0 +1,1087 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+0_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+0_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+1_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+1_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+1_fwd,gi|87116673|ref|NM_172647.2|,"Mus musculus F11 receptor (F11r), mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+2_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+2_fwd,gi|1907178098|ref|XM_006507427.5|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X5, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178096|ref|XM_011241691.3|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X4, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178100|ref|XM_006507428.4|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X6, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|367460067|ref|NM_001256083.1|,"Mus musculus myosin VIIA (Myo7a), transcript variant 4, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|115511009|ref|NM_008663.2|,"Mus musculus myosin VIIA (Myo7a), transcript variant 2, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|367460065|ref|NM_001256082.1|,"Mus musculus myosin VIIA (Myo7a), transcript variant 3, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178090|ref|XM_011241688.4|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X1, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|367460063|ref|NM_001256081.1|,"Mus musculus myosin VIIA (Myo7a), transcript variant 1, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178092|ref|XM_011241689.3|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X2, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178102|ref|XM_006507429.4|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X7, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|1907178094|ref|XM_011241690.3|,"PREDICTED: Mus musculus myosin VIIA (Myo7a), transcript variant X3, mRNA",1.3297,18 / 19,||| |||||||||||||||,0,19
+2_fwd,gi|124358945|ref|NM_177780.3|,"Mus musculus dedicator of cytokinesis 5 (Dock5), mRNA",56.5401,18 / 20,|||||||| ||||||| |||,0,8
+2_fwd,gi|1907105156|ref|XM_011245170.3|,"PREDICTED: Mus musculus dedicator of cytokinesis 5 (Dock5), transcript variant X1, mRNA",56.5401,18 / 20,|||||||| ||||||| |||,0,8
+3_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+3_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+4_fwd,gi|227496856|ref|NM_007509.3|,"Mus musculus ATPase, H+ transporting, lysosomal V1 subunit B2 (Atp6v1b2), mRNA",56.5401,18 / 20,|||||||||| || ||||||,0,13
+5_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.109163,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1720401433|ref|XM_006500484.4|,"PREDICTED: Mus musculus ADP ribosylation factor guanine nucleotide exchange factor 2 (Arfgef2), transcript variant X2, mRNA",197.371,17 / 19,|||||| ||||||| ||||,0,14
+6_fwd,gi|1720401432|ref|XM_006500483.4|,"PREDICTED: Mus musculus ADP ribosylation factor guanine nucleotide exchange factor 2 (Arfgef2), transcript variant X1, mRNA",197.371,17 / 19,|||||| ||||||| ||||,0,14
+6_fwd,gi|1907144166|ref|XM_030252278.2|,"PREDICTED: Mus musculus ADP ribosylation factor guanine nucleotide exchange factor 2 (Arfgef2), transcript variant X4, mRNA",197.371,17 / 19,|||||| ||||||| ||||,0,14
+6_fwd,gi|1907144164|ref|XM_036162763.1|,"PREDICTED: Mus musculus ADP ribosylation factor guanine nucleotide exchange factor 2 (Arfgef2), transcript variant X3, mRNA",197.371,17 / 19,|||||| ||||||| ||||,0,14
+6_fwd,gi|167736368|ref|NM_001085495.2|,"Mus musculus ARF guanine nucleotide exchange factor 2 (Arfgef2), mRNA",197.371,17 / 19,|||||| ||||||| ||||,0,14
+7_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+7_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+7_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+7_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+7_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.0312714,19 / 19,|||||||||||||||||||,0,19
+8_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+8_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+8_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+8_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+8_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+8_fwd,gi|1907106802|ref|XR_003951078.2|,"PREDICTED: Mus musculus Zmiz1 opposite strand 1 (Zmiz1os1), transcript variant X2, ncRNA",16.1969,19 / 21,|||| |||||||||| |||||,0,4
+8_fwd,gi|1907106804|ref|XR_874452.4|,"PREDICTED: Mus musculus Zmiz1 opposite strand 1 (Zmiz1os1), transcript variant X3, ncRNA",16.1969,19 / 21,|||| |||||||||| |||||,0,4
+9_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.031259,21 / 22,||||||||||||| ||||||||,0,22
+9_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.031259,21 / 22,||||||||||||| ||||||||,0,22
+9_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.031259,21 / 22,||||||||||||| ||||||||,0,22
+9_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.031259,21 / 22,||||||||||||| ||||||||,0,22
+10_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+10_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.031259,21 / 22,|||||||||||||| |||||||,0,22
+10_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.031259,21 / 22,|||||||||||||| |||||||,0,22
+10_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.031259,21 / 22,|||||||||||||| |||||||,0,22
+10_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.031259,21 / 22,|||||||||||||| |||||||,0,22
+11_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+16_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+16_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+16_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+17_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00256589,21 / 21,|||||||||||||||||||||,0,21
+17_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00256589,21 / 21,|||||||||||||||||||||,0,21
+17_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256589,21 / 21,|||||||||||||||||||||,0,21
+17_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256589,21 / 21,|||||||||||||||||||||,0,21
+17_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00256589,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+18_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895703,20 / 20,||||||||||||||||||||,0,20
+18_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895703,20 / 20,||||||||||||||||||||,0,20
+18_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895703,20 / 20,||||||||||||||||||||,0,20
+18_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895703,20 / 20,||||||||||||||||||||,0,20
+18_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895703,20 / 20,||||||||||||||||||||,0,20
+19_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+19_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+20_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|1720411173|ref|XR_003955312.1|,"PREDICTED: Mus musculus predicted gene, 52709 (Gm52709), ncRNA",56.5326,19 / 22,||||||||||||  ||| ||||,0,12
+21_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||||||| ||,0,20
+21_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||||||| ||,0,20
+21_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||||||| ||,0,20
+21_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||||||| ||,0,20
+21_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||||||| ||,0,20
+22_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+22_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,|||||||||||||||| |||,0,20
+22_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,|||||||||||||||| |||,0,20
+22_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,|||||||||||||||| |||,0,20
+22_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,|||||||||||||||| |||,0,20
+22_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,|||||||||||||||| |||,0,20
+23_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000734847,24 / 25,||||||||| |||||||||||||||,0,25
+23_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000734847,24 / 25,||||||||| |||||||||||||||,0,25
+23_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000734847,24 / 25,||||||||| |||||||||||||||,0,25
+23_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000734847,24 / 25,||||||||| |||||||||||||||,0,25
+23_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000734847,24 / 25,||||||||| |||||||||||||||,0,25
+24_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000734847,24 / 25,|||||||| ||||||||||||||||,0,25
+24_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000734847,24 / 25,|||||||| ||||||||||||||||,0,25
+24_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000734847,24 / 25,|||||||| ||||||||||||||||,0,25
+24_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000734847,24 / 25,|||||||| ||||||||||||||||,0,25
+24_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000734847,24 / 25,|||||||| ||||||||||||||||,0,25
+25_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1907159014|ref|XM_036164687.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X3, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+30_fwd,gi|1907159014|ref|XM_036164687.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X3, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+41_fwd,gi|1907159014|ref|XM_036164687.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X3, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+42_fwd,gi|1907159014|ref|XM_036164687.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X3, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+27_fwd,gi|365906272|ref|NM_001256059.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+30_fwd,gi|365906272|ref|NM_001256059.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+41_fwd,gi|365906272|ref|NM_001256059.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+42_fwd,gi|365906272|ref|NM_001256059.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+27_fwd,gi|1824718156|ref|NM_001379231.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+30_fwd,gi|1824718156|ref|NM_001379231.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+41_fwd,gi|1824718156|ref|NM_001379231.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+42_fwd,gi|1824718156|ref|NM_001379231.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+27_fwd,gi|1907159005|ref|XM_036164686.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+30_fwd,gi|1907159005|ref|XM_036164686.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+41_fwd,gi|1907159005|ref|XM_036164686.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+42_fwd,gi|1907159005|ref|XM_036164686.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X2, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+27_fwd,gi|1907158996|ref|XM_036164685.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+30_fwd,gi|1907158996|ref|XM_036164685.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+41_fwd,gi|1907158996|ref|XM_036164685.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+42_fwd,gi|1907158996|ref|XM_036164685.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X1, mRNA",56.5326,19 / 22,|||||  ||||||||| |||||,0,5
+31_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+32_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+33_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+35_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+31_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+32_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+33_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+35_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+31_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+32_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+33_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+35_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+31_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+32_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+33_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+35_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+31_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+32_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+33_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+35_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||||| ||||,0,20
+34_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+36_fwd,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+36_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||||||| ||||||,0,20
+36_fwd,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||||||| ||||||,0,20
+36_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||||||| ||||||,0,20
+36_fwd,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||||||| ||||||,0,20
+36_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||||||| ||||||,0,20
+36_fwd,gi|1907111082|ref|XM_006520680.5|,"PREDICTED: Mus musculus BAI1-associated protein 2-like 2 (Baiap2l2), transcript variant X3, mRNA",56.5326,19 / 22,||| ||||  ||||||||||||,0,8
+43_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_fwd,gi|2644607934|ref|NR_190118.1|,"Mus musculus predicted gene 2449 (Gm2449), transcript variant 1, long non-coding RNA",16.1969,19 / 21,|| ||||| ||||||||||||,0,8
+43_fwd,gi|2644607916|ref|NR_190120.1|,"Mus musculus predicted gene 2449 (Gm2449), transcript variant 3, long non-coding RNA",16.1969,19 / 21,|| ||||| ||||||||||||,0,8
+44_fwd,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+44_fwd,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+44_fwd,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.0312673,19 / 19,|||||||||||||||||||,0,19
+0_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+0_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+0_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+0_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+0_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+1_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000734847,24 / 25,||||||||||||||| |||||||||,0,25
+1_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000734847,24 / 25,||||||||||||||| |||||||||,0,25
+1_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000734847,24 / 25,||||||||||||||| |||||||||,0,25
+1_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000734847,24 / 25,||||||||||||||| |||||||||,0,25
+1_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000734847,24 / 25,||||||||||||||| |||||||||,0,25
+2_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000734847,24 / 25,|||||||||||||| ||||||||||,0,25
+2_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000734847,24 / 25,|||||||||||||| ||||||||||,0,25
+2_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000734847,24 / 25,|||||||||||||| ||||||||||,0,25
+2_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000734847,24 / 25,|||||||||||||| ||||||||||,0,25
+2_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000734847,24 / 25,|||||||||||||| ||||||||||,0,25
+3_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00256521,23 / 24,||||||||||||| ||||||||||,0,24
+3_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00256521,23 / 24,||||||||||||| ||||||||||,0,24
+3_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256521,23 / 24,||||||||||||| ||||||||||,0,24
+3_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256521,23 / 24,||||||||||||| ||||||||||,0,24
+3_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00256521,23 / 24,||||||||||||| ||||||||||,0,24
+4_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+4_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+5_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+5_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+6_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+6_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+7_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+8_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+9_rev,gi|1907131331|ref|XR_003952641.2|,"PREDICTED: Mus musculus predicted gene, 57647 (Gm57647), ncRNA",4.64048,19 / 20,|||||||||||||| |||||,0,14
+10_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.109148,18 / 18,||||||||||||||||||,1,19
+10_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.109148,18 / 18,||||||||||||||||||,1,19
+10_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.109148,18 / 18,||||||||||||||||||,1,19
+10_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.109148,18 / 18,||||||||||||||||||,1,19
+10_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.109148,18 / 18,||||||||||||||||||,1,19
+10_rev,gi|1907131331|ref|XR_003952641.2|,"PREDICTED: Mus musculus predicted gene, 57647 (Gm57647), ncRNA",16.199,18 / 19,||||||||||||| |||||,0,13
+11_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+11_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+11_rev,gi|924182663|ref|NM_001110227.2|,"Mus musculus potassium inwardly-rectifying channel, subfamily J, member 13 (Kcnj13), mRNA",0.380913,19 / 20,|||||||||||||| |||||,0,20
+12_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+12_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+13_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+13_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00256623,21 / 21,|||||||||||||||||||||,0,21
+14_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+14_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+15_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+15_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00073514,22 / 22,||||||||||||||||||||||,0,22
+16_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",6.03279e-05,24 / 24,||||||||||||||||||||||||,0,24
+16_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.000210565,23 / 23,|||||||||||||||||||||||,1,24
+16_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.000210565,23 / 23,|||||||||||||||||||||||,1,24
+17_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",1.3297,18 / 19,||||| |||||||||||||,0,19
+17_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",1.3297,18 / 19,||||| |||||||||||||,0,19
+17_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",1.3297,18 / 19,||||| |||||||||||||,0,19
+17_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",1.3297,18 / 19,||||| |||||||||||||,0,19
+17_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",1.3297,18 / 19,||||| |||||||||||||,0,19
+18_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",1.3297,18 / 19,|||||| ||||||||||||,0,19
+18_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",1.3297,18 / 19,|||||| ||||||||||||,0,19
+18_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",1.3297,18 / 19,|||||| ||||||||||||,0,19
+18_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",1.3297,18 / 19,|||||| ||||||||||||,0,19
+18_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",1.3297,18 / 19,|||||| ||||||||||||,0,19
+19_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||| ||||||||||||,0,20
+19_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||| ||||||||||||,0,20
+19_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||| ||||||||||||,0,20
+19_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||| ||||||||||||,0,20
+19_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||| ||||||||||||,0,20
+20_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,|||||||| |||||||||||,0,20
+20_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,|||||||| |||||||||||,0,20
+20_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,|||||||| |||||||||||,0,20
+20_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,|||||||| |||||||||||,0,20
+20_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,|||||||| |||||||||||,0,20
+21_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,||||||||| ||||||||||,0,20
+21_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,||||||||| ||||||||||,0,20
+21_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,||||||||| ||||||||||,0,20
+21_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,||||||||| ||||||||||,0,20
+21_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,||||||||| ||||||||||,0,20
+22_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,|||||||||| |||||||||,0,20
+22_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,|||||||||| |||||||||,0,20
+22_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,|||||||||| |||||||||,0,20
+22_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,|||||||||| |||||||||,0,20
+22_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,|||||||||| |||||||||,0,20
+23_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+23_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+23_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+23_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+23_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895465,22 / 23,|||||||||||||||| ||||||,0,23
+24_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.000210593,23 / 23,|||||||||||||||||||||||,0,23
+24_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895465,22 / 23,||||||||||||||||| |||||,0,23
+24_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895465,22 / 23,||||||||||||||||| |||||,0,23
+24_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895465,22 / 23,||||||||||||||||| |||||,0,23
+24_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895465,22 / 23,||||||||||||||||| |||||,0,23
+25_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|411147438|ref|NM_001271726.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|411147438|ref|NM_001271726.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|411147438|ref|NM_001271726.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|411147436|ref|NM_001271725.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|411147436|ref|NM_001271725.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|411147436|ref|NM_001271725.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152612|ref|XM_030252917.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152612|ref|XM_030252917.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152612|ref|XM_030252917.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152620|ref|XM_036163422.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X12, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152620|ref|XM_036163422.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X12, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152620|ref|XM_036163422.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X12, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152623|ref|XM_017319814.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X14, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152623|ref|XM_017319814.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X14, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152623|ref|XM_017319814.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X14, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1720405650|ref|XM_030252918.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X7, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1720405650|ref|XM_030252918.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X7, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1720405650|ref|XM_030252918.1|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X7, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152624|ref|XM_030252919.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X15, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152624|ref|XM_030252919.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X15, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152624|ref|XM_030252919.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X15, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1720405643|ref|XM_011240296.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1720405643|ref|XM_011240296.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1720405643|ref|XM_011240296.2|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X1, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|411147440|ref|NM_001271727.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|411147440|ref|NM_001271727.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|411147440|ref|NM_001271727.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 3, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152616|ref|XM_011240301.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X9, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152616|ref|XM_011240301.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X9, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152616|ref|XM_011240301.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X9, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|411147444|ref|NM_001271728.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|411147444|ref|NM_001271728.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|411147444|ref|NM_001271728.1|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152618|ref|XM_011240304.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X11, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152618|ref|XM_011240304.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X11, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152618|ref|XM_011240304.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X11, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1720405648|ref|XM_011240298.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1720405648|ref|XM_011240298.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1720405648|ref|XM_011240298.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X5, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152615|ref|XM_011240300.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X8, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152615|ref|XM_011240300.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X8, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152615|ref|XM_011240300.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X8, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152617|ref|XM_011240302.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X10, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152617|ref|XM_011240302.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X10, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152617|ref|XM_011240302.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X10, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152622|ref|XM_011240303.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X13, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152622|ref|XM_011240303.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X13, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152622|ref|XM_011240303.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X13, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|411147442|ref|NM_030706.3|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|411147442|ref|NM_030706.3|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|411147442|ref|NM_030706.3|,"Mus musculus tripartite motif-containing 2 (Trim2), transcript variant 4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1720405644|ref|XM_011240297.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1720405644|ref|XM_011240297.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1720405644|ref|XM_011240297.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X2, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152613|ref|XM_017319813.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152613|ref|XM_017319813.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152613|ref|XM_017319813.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X4, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152614|ref|XM_011240299.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X6, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152614|ref|XM_011240299.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X6, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152614|ref|XM_011240299.4|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X6, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+25_rev,gi|1907152625|ref|XM_017319815.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X16, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+26_rev,gi|1907152625|ref|XM_017319815.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X16, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+27_rev,gi|1907152625|ref|XM_017319815.3|,"PREDICTED: Mus musculus tripartite motif-containing 2 (Trim2), transcript variant X16, mRNA",4.64048,19 / 20,||||||||| ||||||||||,0,9
+28_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+28_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+30_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+31_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907159014|ref|XM_036164687.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X3, mRNA",56.5326,19 / 22,||||| |||||||||  |||||,0,15
+33_rev,gi|365906272|ref|NM_001256059.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 1, mRNA",56.5326,19 / 22,||||| |||||||||  |||||,0,15
+33_rev,gi|1824718156|ref|NM_001379231.1|,"Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant 2, mRNA",56.5326,19 / 22,||||| |||||||||  |||||,0,15
+33_rev,gi|1907159005|ref|XM_036164686.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X2, mRNA",56.5326,19 / 22,||||| |||||||||  |||||,0,15
+33_rev,gi|1907158996|ref|XM_036164685.1|,"PREDICTED: Mus musculus coiled-coil domain containing 149 (Ccdc149), transcript variant X1, mRNA",56.5326,19 / 22,||||| |||||||||  |||||,0,15
+34_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+34_rev,gi|68131561|ref|NM_001024945.1|,"Mus musculus quiescin Q6 sulfhydryl oxidase 1 (Qsox1), transcript variant 1, mRNA",16.1969,19 / 21,|||||||||||| || |||||,0,12
+35_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+36_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.380913,19 / 20,|||| |||||||||||||||,0,20
+36_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.380913,19 / 20,|||| |||||||||||||||,0,20
+36_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.380913,19 / 20,|||| |||||||||||||||,0,20
+36_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.380913,19 / 20,|||| |||||||||||||||,0,20
+36_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.380913,19 / 20,|||| |||||||||||||||,0,20
+37_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+37_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+39_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+41_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|1002819371|ref|NM_001320725.1|,"Mus musculus predicted gene, 45935 (Gm45935), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|256223289|ref|NM_001164289.1|,"Mus musculus PHD finger protein 11C (Phf11c), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|1907100897|ref|XM_006518928.5|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|1907100900|ref|XM_030247783.2|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|1907100890|ref|XM_006518927.4|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|256223450|ref|NM_001164327.1|,"Mus musculus PHD finger protein 11B (Phf11b), mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+40_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+42_rev,gi|1907100893|ref|XM_036158581.1|,"PREDICTED: Mus musculus PHD finger protein 11B (Phf11b), transcript variant X2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492584906|ref|NM_001419881.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 5, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492587462|ref|NM_001419882.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 6, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492587949|ref|NM_001419884.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 8, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492586214|ref|NM_001419886.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 10, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492587057|ref|NM_001419887.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 11, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492585573|ref|NM_001419883.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 7, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492587863|ref|NM_001419885.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 9, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492587213|ref|NM_001419879.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 3, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492586618|ref|NM_001419880.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 4, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492584904|ref|NM_001419878.1|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 1, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+44_rev,gi|2492586536|ref|NM_199015.5|,"Mus musculus PHD finger protein 11D (Phf11d), transcript variant 2, mRNA",0.00895822,20 / 20,||||||||||||||||||||,0,20
+43_rev,gi|1824163877|ref|NM_001356301.2|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 2, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1824163877|ref|NM_001356301.2|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 2, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+43_rev,gi|1824163941|ref|NM_001379134.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 4, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1824163941|ref|NM_001379134.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 4, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+43_rev,gi|1824163939|ref|NM_001379135.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 5, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1824163939|ref|NM_001379135.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 5, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+43_rev,gi|1720416700|ref|XM_030255085.1|,"PREDICTED: Mus musculus tetraspanin 9 (Tspan9), transcript variant X1, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1720416700|ref|XM_030255085.1|,"PREDICTED: Mus musculus tetraspanin 9 (Tspan9), transcript variant X1, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+43_rev,gi|1824163895|ref|NM_001379133.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 3, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1824163895|ref|NM_001379133.1|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 3, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+43_rev,gi|1824614760|ref|NM_175414.6|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 1, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10
+44_rev,gi|1824614760|ref|NM_175414.6|,"Mus musculus tetraspanin 9 (Tspan9), transcript variant 1, mRNA",56.5326,20 / 22,|||||||||| |||| ||||||,0,10

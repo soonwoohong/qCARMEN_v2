@@ -1,0 +1,64 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+1_fwd,gi|60218903|ref|NM_009308.3|,"Mus musculus synaptotagmin IV (Syt4), mRNA",16.1909,19 / 21,||||| |||||||||| ||||,0,5
+1_fwd,gi|1907129133|ref|XM_017317852.3|,"PREDICTED: Mus musculus synaptotagmin IV (Syt4), transcript variant X1, mRNA",16.1909,19 / 21,||||| |||||||||| ||||,0,5
+2_fwd,gi|60218903|ref|NM_009308.3|,"Mus musculus synaptotagmin IV (Syt4), mRNA",16.1909,19 / 21,|||||| |||||||||| |||,0,6
+2_fwd,gi|1907129133|ref|XM_017317852.3|,"PREDICTED: Mus musculus synaptotagmin IV (Syt4), transcript variant X1, mRNA",16.1909,19 / 21,|||||| |||||||||| |||,0,6
+4_fwd,gi|1907078898|ref|XR_871914.4|,"PREDICTED: Mus musculus predicted gene, 40728 (Gm40728), transcript variant X2, ncRNA",4.63807,20 / 22,|||||| ||||||||| |||||,0,16
+17_fwd,gi|1720433994|ref|XM_011249869.2|,"PREDICTED: Mus musculus predicted gene, 39469 (Gm39469), mRNA",16.1909,19 / 21,|| ||||||||||||| ||||,0,16
+19_fwd,gi|1571052958|ref|NM_183193.3|,"Mus musculus forkhead box I2 (Foxi2), mRNA",0.380775,19 / 20,||| ||||||||||||||||,0,20
+0_rev,gi|354459385|ref|NR_045392.1|,"Mus musculus predicted gene 10731 (Gm10731), non-coding RNA",0.109111,18 / 18,||||||||||||||||||,1,19
+0_rev,gi|1850979878|ref|NM_028494.3|,"Mus musculus FUN14 domain containing 2B (Fundc2b), mRNA",0.109111,18 / 18,||||||||||||||||||,1,19
+0_rev,gi|1907119760|ref|XR_001781868.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X18, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119739|ref|XM_006522595.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X8, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119762|ref|XR_004939226.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X19, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119725|ref|XM_006522591.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X2, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119766|ref|XR_004939228.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X21, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|597517972|ref|NM_001291070.1|,"Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant 1, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119731|ref|XM_036160133.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X5, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119734|ref|XM_006522594.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X6, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119753|ref|XR_003951835.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X15, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|597517906|ref|NM_175178.4|,"Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant 2, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119755|ref|XM_036160136.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X16, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119758|ref|XR_003951836.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X17, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119748|ref|XM_036160135.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X13, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119770|ref|XR_003951837.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X23, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119764|ref|XR_004939227.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X20, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907130998|ref|XR_004939911.1|,"PREDICTED: Mus musculus predicted gene, 41701 (Gm41701), transcript variant X1, ncRNA",16.1934,18 / 19,||||||||||| |||||||,1,12
+0_rev,gi|1907119751|ref|XR_004939225.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X14, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119743|ref|XR_004939223.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X10, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119727|ref|XM_006522592.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X3, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119768|ref|XR_004939229.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X22, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119741|ref|XR_001781867.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X9, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119723|ref|XM_006522590.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X1, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119729|ref|XM_006522593.4|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X4, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119745|ref|XR_004939224.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X11, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119736|ref|XM_036160134.1|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X7, mRNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+0_rev,gi|1907119746|ref|XR_003951834.2|,"PREDICTED: Mus musculus apoptosis-inducing factor, mitochondrion-associated 3 (Aifm3), transcript variant X12, misc_RNA",16.1934,18 / 19,|||||||||||| ||||||,0,12
+2_rev,gi|1907130998|ref|XR_004939911.1|,"PREDICTED: Mus musculus predicted gene, 41701 (Gm41701), transcript variant X1, ncRNA",16.1909,19 / 21,|||||||||| ||||||| ||,0,10
+8_rev,gi|2224093166|ref|NM_001404962.1|,"Mus musculus RAS and EF hand domain containing (Rasef), transcript variant 3, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|1720408720|ref|XM_017320201.2|,"PREDICTED: Mus musculus RAS and EF hand domain containing (Rasef), transcript variant X4, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|2224094142|ref|NM_001404963.1|,"Mus musculus RAS and EF hand domain containing (Rasef), transcript variant 4, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|62945395|ref|NM_001017427.1|,"Mus musculus RAS and EF hand domain containing (Rasef), transcript variant 1, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|1039767677|ref|XM_006537927.3|,"PREDICTED: Mus musculus RAS and EF hand domain containing (Rasef), transcript variant X3, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|2224094797|ref|NM_001404961.1|,"Mus musculus RAS and EF hand domain containing (Rasef), transcript variant 2, mRNA",16.1909,19 / 21,|||||||||||| ||| ||||,0,12
+8_rev,gi|215599052|ref|NM_133718.4|,"Mus musculus transmembrane protein 30A (Tmem30a), mRNA",56.512,19 / 22,||||||||   |||||||||||,1,9
+9_rev,gi|729719238|ref|NR_126540.1|,"Mus musculus microRNA cluster 35, host gene (Mirc35hg), transcript variant 1, long non-coding RNA",56.512,19 / 22,||||||| ||||||  ||||||,0,14
+10_rev,gi|326537274|ref|NM_023277.4|,"Mus musculus junction adhesion molecule 3 (Jam3), mRNA",56.512,19 / 22,||||||||   |||||||||||,0,8
+10_rev,gi|1907201122|ref|XM_030244741.2|,"PREDICTED: Mus musculus junction adhesion molecule 3 (Jam3), transcript variant X1, mRNA",56.512,19 / 22,||||||||   |||||||||||,0,8
+11_rev,gi|326537274|ref|NM_023277.4|,"Mus musculus junction adhesion molecule 3 (Jam3), mRNA",56.512,19 / 22,||||||||   |||||||||||,1,9
+11_rev,gi|1907201122|ref|XM_030244741.2|,"PREDICTED: Mus musculus junction adhesion molecule 3 (Jam3), transcript variant X1, mRNA",56.512,19 / 22,||||||||   |||||||||||,1,9
+19_rev,gi|1720433994|ref|XM_011249869.2|,"PREDICTED: Mus musculus predicted gene, 39469 (Gm39469), mRNA",16.1909,19 / 21,|||| ||||||||||||| ||,0,4
+20_rev,gi|1720433994|ref|XM_011249869.2|,"PREDICTED: Mus musculus predicted gene, 39469 (Gm39469), mRNA",16.1909,19 / 21,|||| ||||||||||||| ||,0,4
+23_rev,gi|51092280|ref|NM_001003671.1|,"Mus musculus protocadherin alpha subfamily C, 1 (Pcdhac1), mRNA",16.1909,19 / 21,|||||||||||  ||||||||,0,11
+29_rev,gi|51092280|ref|NM_001003671.1|,"Mus musculus protocadherin alpha subfamily C, 1 (Pcdhac1), mRNA",16.1909,19 / 21,|||||||||||  ||||||||,0,11
+24_rev,gi|114326531|ref|NM_001017968.2|,"Mus musculus zinc finger, DHHC domain containing 18 (Zdhhc18), mRNA",16.1909,19 / 21,||||||||||||||  |||||,1,15
+30_rev,gi|114326531|ref|NM_001017968.2|,"Mus musculus zinc finger, DHHC domain containing 18 (Zdhhc18), mRNA",16.1909,19 / 21,||||||||||||||  |||||,1,15
+24_rev,gi|1907147179|ref|XR_004941033.1|,"PREDICTED: Mus musculus predicted gene, 38515 (Gm38515), transcript variant X2, ncRNA",16.1909,19 / 21,|||||||||||| |||| |||,0,12
+30_rev,gi|1907147179|ref|XR_004941033.1|,"PREDICTED: Mus musculus predicted gene, 38515 (Gm38515), transcript variant X2, ncRNA",16.1909,19 / 21,|||||||||||| |||| |||,0,12
+31_rev,gi|1907131337|ref|XR_386217.3|,"PREDICTED: Mus musculus predicted gene, 32958 (Gm32958), transcript variant X2, ncRNA",16.1909,19 / 21,|||| || |||||||||||||,0,4
+33_rev,gi|1907148832|ref|XR_375486.2|,"PREDICTED: Mus musculus collagen, type XI, alpha 1 (Col11a1), transcript variant X5, misc_RNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10
+33_rev,gi|1907148827|ref|XM_006500970.2|,"PREDICTED: Mus musculus collagen, type XI, alpha 1 (Col11a1), transcript variant X2, mRNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10
+33_rev,gi|1907148824|ref|XM_006500969.2|,"PREDICTED: Mus musculus collagen, type XI, alpha 1 (Col11a1), transcript variant X1, mRNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10
+33_rev,gi|1907148829|ref|XM_006500971.2|,"PREDICTED: Mus musculus collagen, type XI, alpha 1 (Col11a1), transcript variant X3, mRNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10
+33_rev,gi|959092928|ref|NM_007729.3|,"Mus musculus collagen, type XI, alpha 1 (Col11a1), mRNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10
+33_rev,gi|1720403101|ref|XM_030252409.1|,"PREDICTED: Mus musculus collagen, type XI, alpha 1 (Col11a1), transcript variant X4, mRNA",16.1909,19 / 21,|| ||||||| ||||||||||,0,10

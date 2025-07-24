@@ -122,6 +122,9 @@ def main():
         valid_primers_df = pd.DataFrame(valid_primers)
         valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
+        # design crRNA
+
+
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
 
     #print(gene_isoform_dict)
