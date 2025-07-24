@@ -1,0 +1,967 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+5_fwd,gi|2275452398|ref|NM_153422.3|,"Mus musculus phosphodiesterase 5A, cGMP-specific (Pde5a), transcript variant 1, mRNA",56.5066,18 / 20,|||||||| |||||| ||||,0,15
+5_fwd,gi|2275452436|ref|NM_001409793.1|,"Mus musculus phosphodiesterase 5A, cGMP-specific (Pde5a), transcript variant 2, mRNA",56.5066,18 / 20,|||||||| |||||| ||||,0,15
+9_fwd,gi|1907193339|ref|XR_004935079.1|,"PREDICTED: Mus musculus predicted gene, 53457 (Gm53457), ncRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+10_fwd,gi|1907193339|ref|XR_004935079.1|,"PREDICTED: Mus musculus predicted gene, 53457 (Gm53457), ncRNA",4.63834,19 / 20,||||||| ||||||||||||,0,7
+11_fwd,gi|1907193339|ref|XR_004935079.1|,"PREDICTED: Mus musculus predicted gene, 53457 (Gm53457), ncRNA",1.32868,20 / 21,|||||||| ||||||||||||,0,8
+11_fwd,gi|1907201781|ref|XR_004935826.1|,"PREDICTED: Mus musculus predicted gene, 53536 (Gm53536), ncRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+12_fwd,gi|1907193339|ref|XR_004935079.1|,"PREDICTED: Mus musculus predicted gene, 53457 (Gm53457), ncRNA",1.32868,20 / 21,||||||||| |||||||||||,0,9
+13_fwd,gi|1907131113|ref|XR_004939955.1|,"PREDICTED: Mus musculus predicted gene, 54028 (Gm54028), ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+14_fwd,gi|1907131113|ref|XR_004939955.1|,"PREDICTED: Mus musculus predicted gene, 54028 (Gm54028), ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+15_fwd,gi|1907131113|ref|XR_004939955.1|,"PREDICTED: Mus musculus predicted gene, 54028 (Gm54028), ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+16_fwd,gi|1907131113|ref|XR_004939955.1|,"PREDICTED: Mus musculus predicted gene, 54028 (Gm54028), ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+24_fwd,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+24_fwd,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+26_fwd,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+26_fwd,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+26_fwd,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",0.380674,19 / 20,||||||||||||| ||||||,0,20
+29_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+29_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+29_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+29_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",1.32891,18 / 19,|| ||||||||||||||||,0,19
+29_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+29_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+29_fwd,gi|1720385524|ref|XR_384456.4|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X1, ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+29_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",1.32891,18 / 19,|| ||||||||||||||||,0,19
+29_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+29_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+29_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+29_fwd,gi|755552940|ref|XR_875665.1|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X2, ncRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+29_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+30_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+30_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+30_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+30_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|1720385524|ref|XR_384456.4|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X1, ncRNA",1.32891,18 / 19,||||||||||||| |||||,0,19
+30_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+30_fwd,gi|755552940|ref|XR_875665.1|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X2, ncRNA",1.32891,18 / 19,||||||||||||| |||||,0,19
+30_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+30_fwd,gi|281332141|ref|NM_001169576.1|,"Mus musculus ubiquitin-conjugating enzyme E2H (Ube2h), transcript variant 2, mRNA",16.1894,18 / 19,|||||||||||||| ||||,0,14
+30_fwd,gi|281332140|ref|NM_009459.3|,"Mus musculus ubiquitin-conjugating enzyme E2H (Ube2h), transcript variant 1, mRNA",16.1894,18 / 19,|||||||||||||| ||||,0,14
+30_fwd,gi|1907119570|ref|XM_006522540.2|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X3, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|281332143|ref|NM_001169577.1|,"Mus musculus ubiquitin-conjugating enzyme E2H (Ube2h), transcript variant 3, mRNA",16.1894,18 / 19,|||||||||||||| ||||,0,14
+30_fwd,gi|1279617934|ref|NM_183287.3|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 1, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|1907119568|ref|XM_006522539.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X2, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|1720387724|ref|XM_030249273.1|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X5, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|1907119572|ref|XM_006522541.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X4, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|1907119566|ref|XM_006522537.3|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X1, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+30_fwd,gi|1279489792|ref|NM_001358255.1|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 2, mRNA",16.1894,18 / 19,|||||||| ||||||||||,1,9
+31_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+31_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.109083,18 / 18,||||||||||||||||||,1,19
+31_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.109083,18 / 18,||||||||||||||||||,1,19
+31_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+31_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+31_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+31_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+31_fwd,gi|1720385524|ref|XR_384456.4|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X1, ncRNA",1.32891,18 / 19,|||||||||||| ||||||,0,19
+31_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+31_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+31_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+31_fwd,gi|755552940|ref|XR_875665.1|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X2, ncRNA",1.32891,18 / 19,|||||||||||| ||||||,0,19
+31_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+31_fwd,gi|1907119570|ref|XM_006522540.2|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X3, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1279617934|ref|NM_183287.3|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 1, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1907119568|ref|XM_006522539.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X2, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1720387724|ref|XM_030249273.1|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X5, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1907119572|ref|XM_006522541.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X4, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1907119566|ref|XM_006522537.3|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X1, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|1279489792|ref|NM_001358255.1|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 2, mRNA",4.63834,19 / 20,|||||||| |||||||||||,0,8
+31_fwd,gi|2418838748|ref|NM_001331206.2|,"Mus musculus mediator complex subunit 25 (Med25), transcript variant 2, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|1907184847|ref|XM_030243066.2|,"PREDICTED: Mus musculus mediator complex subunit 25 (Med25), transcript variant X2, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|1907184857|ref|XM_030243069.2|,"PREDICTED: Mus musculus mediator complex subunit 25 (Med25), transcript variant X11, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|2418838758|ref|NM_029365.4|,"Mus musculus mediator complex subunit 25 (Med25), transcript variant 1, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|2418838749|ref|NM_001331207.2|,"Mus musculus mediator complex subunit 25 (Med25), transcript variant 3, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|1907184860|ref|XM_030243072.2|,"PREDICTED: Mus musculus mediator complex subunit 25 (Med25), transcript variant X14, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|1907184858|ref|XM_030243070.2|,"PREDICTED: Mus musculus mediator complex subunit 25 (Med25), transcript variant X12, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+31_fwd,gi|1907184850|ref|XM_006541264.3|,"PREDICTED: Mus musculus mediator complex subunit 25 (Med25), transcript variant X5, mRNA",56.5066,18 / 20,||||| |||||| |||||||,0,5
+32_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+32_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+32_fwd,gi|242332522|ref|NM_008208.4|,"Mus musculus histocompatibility 2, T region locus 3 (H2-T3), mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+32_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+32_fwd,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+32_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+32_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+32_fwd,gi|1907083873|ref|XR_003949791.2|,"PREDICTED: Mus musculus predicted gene, 53213 (Gm53213), ncRNA",1.32891,18 / 19,||||||||| |||||||||,0,19
+32_fwd,gi|1720385524|ref|XR_384456.4|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X1, ncRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+32_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+32_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+32_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",1.32891,18 / 19,|||||||| ||||||||||,0,19
+32_fwd,gi|755552940|ref|XR_875665.1|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X2, ncRNA",1.32891,18 / 19,||||||||||| |||||||,0,19
+32_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+32_fwd,gi|1720415687|ref|XR_868626.2|,"PREDICTED: Mus musculus predicted gene, 38725 (Gm38725), ncRNA",16.1894,19 / 21,||||||||  |||||||||||,0,8
+32_fwd,gi|1907119570|ref|XM_006522540.2|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X3, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1279617934|ref|NM_183287.3|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 1, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1907119568|ref|XM_006522539.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X2, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1720387724|ref|XM_030249273.1|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X5, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1907119572|ref|XM_006522541.5|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X4, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1907119566|ref|XM_006522537.3|,"PREDICTED: Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant X1, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+32_fwd,gi|1279489792|ref|NM_001358255.1|,"Mus musculus RIKEN cDNA 2610318N02 gene (2610318N02Rik), transcript variant 2, mRNA",16.1894,18 / 19,||||||| |||||||||||,0,7
+33_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.0312529,19 / 19,|||||||||||||||||||,0,19
+33_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",1.32891,18 / 19,|||||| ||||||||||||,0,19
+33_fwd,gi|1408287202|ref|NR_157238.1|,"Mus musculus predicted gene, 36582 (Gm36582), long non-coding RNA",1.32891,18 / 19,|||||| ||||||||||||,0,19
+33_fwd,gi|242332522|ref|NM_008208.4|,"Mus musculus histocompatibility 2, T region locus 3 (H2-T3), mRNA",1.32891,18 / 19,|||||| ||||||||||||,0,19
+33_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+33_fwd,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+33_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",1.32891,18 / 19,|||||| ||||||||||||,0,19
+33_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+33_fwd,gi|1720385524|ref|XR_384456.4|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X1, ncRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+33_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+33_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+33_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+33_fwd,gi|755552940|ref|XR_875665.1|,"PREDICTED: Mus musculus predicted gene, 35569 (Gm35569), transcript variant X2, ncRNA",1.32891,18 / 19,|||||||||| ||||||||,0,19
+33_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",1.32891,18 / 19,|||||| ||||||||||||,0,19
+33_fwd,gi|1720415687|ref|XR_868626.2|,"PREDICTED: Mus musculus predicted gene, 38725 (Gm38725), ncRNA",56.5066,18 / 20,|||||||  |||||||||||,0,7
+34_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+34_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.109046,20 / 21,|||||||||||||||||| ||,0,21
+37_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+44_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|1039772881|ref|XR_001784756.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X3, misc_RNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1039772881|ref|XR_001784756.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X3, misc_RNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1720415222|ref|XM_017321173.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X4, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1720415222|ref|XM_017321173.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X4, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|239052141|ref|NM_029912.2|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 3, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|239052141|ref|NM_029912.2|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 3, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|239052202|ref|NM_001161627.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|239052202|ref|NM_001161627.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1907167165|ref|XM_030254899.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X6, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1907167165|ref|XM_030254899.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X6, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1907167156|ref|XM_017321172.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1907167156|ref|XM_017321172.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1907167158|ref|XR_001784755.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X2, misc_RNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1907167158|ref|XR_001784755.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X2, misc_RNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1907167162|ref|XM_036165599.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X5, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1907167162|ref|XM_036165599.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X5, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|1907167167|ref|XM_017321174.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X7, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|1907167167|ref|XM_017321174.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X7, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|239052153|ref|NM_001161626.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 2, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_fwd,gi|239052153|ref|NM_001161626.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 2, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+37_fwd,gi|755527338|ref|XM_011248526.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X5, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|755527338|ref|XM_011248526.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X5, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|1907191464|ref|XM_006531428.5|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X6, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|1907191464|ref|XM_006531428.5|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X6, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|1907099679|ref|XM_006518622.4|,"PREDICTED: Mus musculus kinesin family member 13B (Kif13b), transcript variant X4, mRNA",16.1867,19 / 21,||| |||||||||| ||||||,0,14
+44_fwd,gi|1907099679|ref|XM_006518622.4|,"PREDICTED: Mus musculus kinesin family member 13B (Kif13b), transcript variant X4, mRNA",16.1867,19 / 21,||| |||||||||| ||||||,0,14
+37_fwd,gi|1585645733|ref|NM_145824.5|,"Mus musculus RAN binding protein 10 (Ranbp10), mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|1585645733|ref|NM_145824.5|,"Mus musculus RAN binding protein 10 (Ranbp10), mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|1907200854|ref|XM_036155362.1|,"PREDICTED: Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant X6, mRNA",16.1867,19 / 21,|||||| ||||| ||||||||,0,6
+44_fwd,gi|1907200854|ref|XM_036155362.1|,"PREDICTED: Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant X6, mRNA",16.1867,19 / 21,|||||| ||||| ||||||||,0,6
+37_fwd,gi|568957689|ref|XM_006531426.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X3, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|568957689|ref|XM_006531426.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X3, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|1720428545|ref|XM_030243813.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X1, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|1720428545|ref|XM_030243813.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X1, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|251823938|ref|NM_029095.2|,"Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant 1, mRNA",16.1867,19 / 21,|||||| ||||| ||||||||,0,6
+44_fwd,gi|251823938|ref|NM_029095.2|,"Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant 1, mRNA",16.1867,19 / 21,|||||| ||||| ||||||||,0,6
+37_fwd,gi|1720428549|ref|XM_030243815.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X4, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|1720428549|ref|XM_030243815.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X4, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+37_fwd,gi|1720428547|ref|XM_030243814.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X2, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+44_fwd,gi|1720428547|ref|XM_030243814.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X2, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,4
+40_fwd,gi|1720421076|ref|XM_011250811.3|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X1, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1907177894|ref|XM_006540683.5|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X8, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1720421077|ref|XM_030242185.1|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X3, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1907177892|ref|XM_030242187.2|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X7, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1039777416|ref|XM_017322005.1|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X5, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1907177887|ref|XM_036152724.1|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X4, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1907177883|ref|XM_036152723.1|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X2, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+40_fwd,gi|1720421079|ref|XM_030242186.1|,"PREDICTED: Mus musculus OTU domain containing 7A (Otud7a), transcript variant X6, mRNA",56.497,19 / 22,|||||  ||| |||||||||||,0,5
+45_fwd,gi|755550177|ref|XM_011245324.1|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X2, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|755550177|ref|XM_011245324.1|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X2, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|156151406|ref|NM_001102400.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 4, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|156151406|ref|NM_001102400.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 4, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|1907109900|ref|XM_017316424.3|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|1907109900|ref|XM_017316424.3|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|156151405|ref|NM_001037905.3|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 3, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|156151405|ref|NM_001037905.3|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 3, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|156151403|ref|NM_023118.5|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|156151403|ref|NM_023118.5|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|1907109903|ref|XM_030248312.2|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X3, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|1907109903|ref|XM_030248312.2|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X3, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|156151404|ref|NM_001008702.2|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 2, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|156151404|ref|NM_001008702.2|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 2, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+45_fwd,gi|557878706|ref|NM_133236.3|,"Mus musculus glucocorticoid induced transcript 1 (Glcci1), transcript variant 1, mRNA",4.63755,19 / 20,|||| |||||||||||||||,0,4
+46_fwd,gi|557878706|ref|NM_133236.3|,"Mus musculus glucocorticoid induced transcript 1 (Glcci1), transcript variant 1, mRNA",4.63755,19 / 20,|||| |||||||||||||||,0,4
+45_fwd,gi|881087949|ref|NM_001310446.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 5, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+46_fwd,gi|881087949|ref|NM_001310446.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 5, mRNA",4.63755,19 / 20,|||||| |||||||||||||,0,6
+47_fwd,gi|295054049|ref|NM_201611.2|,"Mus musculus histocompatibility 2, M region locus 10.6 (H2-M10.6), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|242332522|ref|NM_008208.4|,"Mus musculus histocompatibility 2, T region locus 3 (H2-T3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1302188074|ref|NM_177634.2|,"Mus musculus histocompatibility 2, M region locus 10.4 (H2-M10.4), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|114842390|ref|NM_177637.3|,"Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|29244569|ref|NM_177923.1|,"Mus musculus histocompatibility 2, M region locus 10.2 (H2-M10.2), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1720388820|ref|XM_030249449.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|118130960|ref|NM_201608.2|,"Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1720389829|ref|XM_030249732.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1907123958|ref|XM_036160545.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 11 (H2-M11), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1402626027|ref|NM_177635.2|,"Mus musculus histocompatibility 2, M region locus 11 (H2-M11), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+47_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|755556462|ref|XM_011246400.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 1 (H2-M1), transcript variant X1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|339715131|ref|NM_013544.3|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|1339869046|ref|NM_001360498.1|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|144226229|ref|NM_177636.2|,"Mus musculus histocompatibility 2, M region locus 1 (H2-M1), mRNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,1,20
+47_fwd,gi|1579876408|ref|NM_001115075.2|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1579876497|ref|NR_160897.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 2, non-coding RNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.380674,19 / 20,|||| |||||||||||||||,0,20
+47_fwd,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1104876217|ref|NM_001347387.1|,"Mus musculus histocompatibility 2, M region locus 2 (H2-M2), mRNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+47_fwd,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907124445|ref|XM_030249800.2|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1579876496|ref|NR_160898.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 3, non-coding RNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|149363687|ref|NM_010391.4|,"Mus musculus histocompatibility 2, Q region locus 10 (H2-Q10), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+47_fwd,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.380674,19 / 20,|||||||||||||||| |||,0,20
+48_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.380674,19 / 20,||||| ||||||||||||||,0,20
+48_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.380674,19 / 20,||||| ||||||||||||||,0,20
+48_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.380674,19 / 20,||||| ||||||||||||||,0,20
+48_fwd,gi|1907112620|ref|XM_006520943.5|,"PREDICTED: Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant X1, mRNA",16.1867,19 / 21,||||||||||  |||||||||,0,10
+48_fwd,gi|1907112623|ref|XR_004938836.1|,"PREDICTED: Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant X2, misc_RNA",16.1867,19 / 21,||||||||||  |||||||||,0,10
+48_fwd,gi|2271940124|ref|NM_001168260.2|,"Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant 1, mRNA",16.1867,19 / 21,||||||||||  |||||||||,0,10
+48_fwd,gi|2271940163|ref|NM_001017983.3|,"Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant 2, mRNA",16.1867,19 / 21,||||||||||  |||||||||,0,10
+52_fwd,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+52_fwd,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+52_fwd,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+54_fwd,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907127919|ref|XR_004939711.1|,"PREDICTED: Mus musculus predicted gene, 53999 (Gm53999), transcript variant X3, ncRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|149363687|ref|NM_010391.4|,"Mus musculus histocompatibility 2, Q region locus 10 (H2-Q10), mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+54_fwd,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.380674,19 / 20,|||||||||| |||||||||,0,20
+0_rev,gi|1907114121|ref|XM_036159580.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X3, mRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+0_rev,gi|1907114116|ref|XM_036159578.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X1, mRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+0_rev,gi|168480116|ref|NM_172402.3|,"Mus musculus solute carrier family 25, member 32 (Slc25a32), mRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+0_rev,gi|1907114125|ref|XM_036159581.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X4, mRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+0_rev,gi|1907114119|ref|XM_006521385.5|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X2, mRNA",16.1867,19 / 21,|||| |||||||| |||||||,0,13
+7_rev,gi|1907147031|ref|XR_001783587.3|,"PREDICTED: Mus musculus predicted gene, 34608 (Gm34608), transcript variant X3, ncRNA",56.4874,20 / 22,|||||| |||||||| ||||||,0,6
+7_rev,gi|1907147027|ref|XR_375323.4|,"PREDICTED: Mus musculus predicted gene, 34608 (Gm34608), transcript variant X1, ncRNA",56.4874,20 / 22,|||||| |||||||| ||||||,0,6
+7_rev,gi|1907147029|ref|XR_375324.3|,"PREDICTED: Mus musculus predicted gene, 34608 (Gm34608), transcript variant X2, ncRNA",56.4874,20 / 22,|||||| |||||||| ||||||,0,6
+7_rev,gi|1907147033|ref|XR_375326.2|,"PREDICTED: Mus musculus predicted gene, 34608 (Gm34608), transcript variant X4, ncRNA",56.4874,20 / 22,|||||| |||||||| ||||||,0,6
+20_rev,gi|218156335|ref|NM_009673.2|,"Mus musculus annexin A5 (Anxa5), mRNA",56.5066,18 / 20,||||||  ||||||||||||,0,6
+20_rev,gi|1907114121|ref|XM_036159580.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X3, mRNA",56.5066,18 / 20,||| |||||||| |||||||,0,12
+20_rev,gi|1907114116|ref|XM_036159578.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X1, mRNA",56.5066,18 / 20,||| |||||||| |||||||,0,12
+20_rev,gi|168480116|ref|NM_172402.3|,"Mus musculus solute carrier family 25, member 32 (Slc25a32), mRNA",56.5066,18 / 20,||| |||||||| |||||||,0,12
+20_rev,gi|1907114125|ref|XM_036159581.1|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X4, mRNA",56.5066,18 / 20,||| |||||||| |||||||,0,12
+20_rev,gi|1907114119|ref|XM_006521385.5|,"PREDICTED: Mus musculus solute carrier family 25, member 32 (Slc25a32), transcript variant X2, mRNA",56.5066,18 / 20,||| |||||||| |||||||,0,12
+21_rev,gi|1907091102|ref|XR_004937752.1|,"PREDICTED: Mus musculus predicted gene, 36287 (Gm36287), transcript variant X3, ncRNA",56.5066,18 / 20,||||| ||||| ||||||||,0,5
+21_rev,gi|1907091099|ref|XR_381342.4|,"PREDICTED: Mus musculus predicted gene, 36287 (Gm36287), transcript variant X1, ncRNA",56.5066,18 / 20,||||| ||||| ||||||||,0,5
+21_rev,gi|1907091104|ref|XR_872584.2|,"PREDICTED: Mus musculus predicted gene, 36287 (Gm36287), transcript variant X4, ncRNA",56.5066,18 / 20,||||| ||||| ||||||||,0,5
+21_rev,gi|1569120312|ref|NM_025830.4|,"Mus musculus WW domain containing E3 ubiquitin protein ligase 2 (Wwp2), mRNA",56.5066,18 / 20,||||| ||||||||| ||||,0,5
+21_rev,gi|1720428220|ref|XR_003947327.1|,"PREDICTED: Mus musculus WW domain containing E3 ubiquitin protein ligase 2 (Wwp2), transcript variant X2, misc_RNA",56.5066,18 / 20,||||| ||||||||| ||||,0,5
+21_rev,gi|1907190824|ref|XM_006531299.5|,"PREDICTED: Mus musculus WW domain containing E3 ubiquitin protein ligase 2 (Wwp2), transcript variant X1, mRNA",56.5066,18 / 20,||||| ||||||||| ||||,0,5
+21_rev,gi|1907091101|ref|XR_003950180.2|,"PREDICTED: Mus musculus predicted gene, 36287 (Gm36287), transcript variant X2, ncRNA",56.5066,18 / 20,||||| ||||| ||||||||,0,5
+21_rev,gi|1907190827|ref|XM_006531301.2|,"PREDICTED: Mus musculus WW domain containing E3 ubiquitin protein ligase 2 (Wwp2), transcript variant X3, mRNA",56.5066,18 / 20,||||| ||||||||| ||||,0,5
+23_rev,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+23_rev,gi|1907178346|ref|XM_030242221.2|,"PREDICTED: Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant X4, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178342|ref|XR_004934043.1|,"PREDICTED: Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant X2, misc_RNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1334928346|ref|NM_001360096.1|,"Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant 3, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1334928408|ref|NR_153404.1|,"Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant 4, non-coding RNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|126722699|ref|NM_145946.2|,"Mus musculus Fanconi anemia, complementation group I (Fanci), mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178344|ref|XR_003946418.2|,"PREDICTED: Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant X3, misc_RNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178930|ref|XM_017322082.3|,"PREDICTED: Mus musculus Fanconi anemia, complementation group I (Fanci), transcript variant X3, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178925|ref|XM_006540738.4|,"PREDICTED: Mus musculus Fanconi anemia, complementation group I (Fanci), transcript variant X1, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178340|ref|XM_006540708.5|,"PREDICTED: Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant X1, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178926|ref|XM_036152857.1|,"PREDICTED: Mus musculus Fanconi anemia, complementation group I (Fanci), transcript variant X2, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1334928286|ref|NM_001360095.1|,"Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant 2, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1334928296|ref|NM_017462.3|,"Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant 1, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+23_rev,gi|1907178348|ref|XM_036152790.1|,"PREDICTED: Mus musculus polymerase (DNA directed), gamma (Polg), transcript variant X5, mRNA",16.1867,19 / 21,|||| ||||||||| ||||||,0,4
+29_rev,gi|237681152|ref|NM_177643.4|,"Mus musculus zinc finger protein 281 (Zfp281), transcript variant 2, mRNA",4.63913,17 / 18,|||||| |||||||||||,0,18
+29_rev,gi|237681153|ref|NM_001160251.1|,"Mus musculus zinc finger protein 281 (Zfp281), transcript variant 1, mRNA",4.63913,17 / 18,|||||| |||||||||||,0,18
+29_rev,gi|1907164424|ref|XM_036165235.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X9, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164407|ref|XM_006504776.5|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X1, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164412|ref|XM_030254605.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X3, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164422|ref|XM_036165234.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X8, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164414|ref|XM_030254606.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X4, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164420|ref|XM_036165233.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X7, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164426|ref|XM_030254608.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X10, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164415|ref|XM_036165232.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X5, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164418|ref|XM_030254607.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X6, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1907164409|ref|XM_036165231.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X2, mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+29_rev,gi|1678482732|ref|NM_001370826.1|,"Mus musculus zinc finger protein 853 (Zfp853), mRNA",56.5162,18 / 20,|||||||||||||  |||||,0,13
+30_rev,gi|237681152|ref|NM_177643.4|,"Mus musculus zinc finger protein 281 (Zfp281), transcript variant 2, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+30_rev,gi|237681153|ref|NM_001160251.1|,"Mus musculus zinc finger protein 281 (Zfp281), transcript variant 1, mRNA",1.32891,18 / 19,||||||| |||||||||||,0,19
+30_rev,gi|1907164424|ref|XM_036165235.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X9, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164407|ref|XM_006504776.5|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X1, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164412|ref|XM_030254605.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X3, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164422|ref|XM_036165234.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X8, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164414|ref|XM_030254606.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X4, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164420|ref|XM_036165233.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X7, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164426|ref|XM_030254608.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X10, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164415|ref|XM_036165232.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X5, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164418|ref|XM_030254607.2|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X6, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1907164409|ref|XM_036165231.1|,"PREDICTED: Mus musculus zinc finger protein 853 (Zfp853), transcript variant X2, mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+30_rev,gi|1678482732|ref|NM_001370826.1|,"Mus musculus zinc finger protein 853 (Zfp853), mRNA",56.5066,18 / 20,|||||||||||||  |||||,1,14
+31_rev,gi|2211517530|ref|NM_001403011.1|,"Mus musculus nuclear receptor coactivator 4 (Ncoa4), transcript variant 17, mRNA",4.63913,17 / 18,|||||||||| |||||||,0,18
+31_rev,gi|1720382134|ref|XR_383314.3|,"PREDICTED: Mus musculus predicted gene, 34996 (Gm34996), ncRNA",4.63913,17 / 18,|| |||||||||||||||,0,18
+31_rev,gi|1907155283|ref|XM_011250219.4|,"PREDICTED: Mus musculus solute carrier family 66 member 1 (Slc66a1), transcript variant X1, mRNA",4.63913,17 / 18,||||||| ||||||||||,0,18
+31_rev,gi|1907155284|ref|XR_004941859.1|,"PREDICTED: Mus musculus solute carrier family 66 member 1 (Slc66a1), transcript variant X2, misc_RNA",4.63913,17 / 18,||||||| ||||||||||,0,18
+31_rev,gi|2211517506|ref|NM_001403006.1|,"Mus musculus nuclear receptor coactivator 4 (Ncoa4), transcript variant 12, mRNA",4.63913,17 / 18,|||||||||| |||||||,0,18
+31_rev,gi|1907143311|ref|XM_006498328.5|,"PREDICTED: Mus musculus POTE ankyrin domain family, member G like (Potegl), transcript variant X5, mRNA",4.63913,17 / 18,|| |||||||||||||||,0,18
+31_rev,gi|2211517486|ref|NM_001403004.1|,"Mus musculus nuclear receptor coactivator 4 (Ncoa4), transcript variant 10, mRNA",4.63913,17 / 18,|||||||||| |||||||,0,18
+31_rev,gi|2211517550|ref|NM_001033988.3|,"Mus musculus nuclear receptor coactivator 4 (Ncoa4), transcript variant 2, mRNA",4.63913,17 / 18,|||||||||| |||||||,0,18
+31_rev,gi|1039791726|ref|XR_387791.3|,"PREDICTED: Mus musculus predicted gene, 29895 (Gm29895), ncRNA",4.63913,17 / 18,|| |||||||||||||||,0,18
+31_rev,gi|2211517468|ref|NM_001403007.1|,"Mus musculus nuclear receptor coactivator 4 (Ncoa4), transcript variant 13, mRNA",4.63913,17 / 18,|||||||||| |||||||,0,18
+33_rev,gi|2327921597|ref|NM_007734.3|,"Mus musculus collagen, type IV, alpha 3 (Col4a3), mRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+33_rev,gi|1907067160|ref|XM_036157135.1|,"PREDICTED: Mus musculus collagen, type IV, alpha 3 (Col4a3), transcript variant X1, mRNA",1.32891,18 / 19,|||||||||||||| ||||,0,19
+33_rev,gi|1907113241|ref|XM_011245683.4|,"PREDICTED: Mus musculus zinc finger and AT hook domain containing (Zfat), transcript variant X3, mRNA",56.5066,18 / 20,||||||||||||  ||||||,0,12
+35_rev,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+35_rev,gi|1039772881|ref|XR_001784756.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X3, misc_RNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1720415222|ref|XM_017321173.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X4, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|239052141|ref|NM_029912.2|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 3, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|239052202|ref|NM_001161627.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1907167165|ref|XM_030254899.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X6, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1907167156|ref|XM_017321172.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X1, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1907167158|ref|XR_001784755.2|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X2, misc_RNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1907167162|ref|XM_036165599.1|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X5, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|1907167167|ref|XM_017321174.3|,"PREDICTED: Mus musculus transmembrane protein 116 (Tmem116), transcript variant X7, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|239052153|ref|NM_001161626.1|,"Mus musculus transmembrane protein 116 (Tmem116), transcript variant 2, mRNA",4.63755,19 / 20,|||||| |||||||||||||,1,7
+35_rev,gi|755527338|ref|XM_011248526.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X5, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|1907191464|ref|XM_006531428.5|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X6, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|1907099679|ref|XM_006518622.4|,"PREDICTED: Mus musculus kinesin family member 13B (Kif13b), transcript variant X4, mRNA",16.1867,19 / 21,|||||| |||||||||| |||,0,6
+35_rev,gi|1585645733|ref|NM_145824.5|,"Mus musculus RAN binding protein 10 (Ranbp10), mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|1907200854|ref|XM_036155362.1|,"PREDICTED: Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant X6, mRNA",16.1867,19 / 21,|||||||| ||||| ||||||,0,14
+35_rev,gi|568957689|ref|XM_006531426.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X3, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|1720428545|ref|XM_030243813.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X1, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|251823938|ref|NM_029095.2|,"Mus musculus hedgehog acyltransferase-like (Hhatl), transcript variant 1, mRNA",16.1867,19 / 21,|||||||| ||||| ||||||,0,14
+35_rev,gi|1720428549|ref|XM_030243815.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X4, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+35_rev,gi|1720428547|ref|XM_030243814.1|,"PREDICTED: Mus musculus RAN binding protein 10 (Ranbp10), transcript variant X2, mRNA",16.1867,19 / 21,|||| ||||||||||| ||||,0,16
+36_rev,gi|1579876408|ref|NM_001115075.2|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 1, mRNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+36_rev,gi|1579876497|ref|NR_160897.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 2, non-coding RNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+36_rev,gi|1907124445|ref|XM_030249800.2|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant X1, mRNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+36_rev,gi|1579876496|ref|NR_160898.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 3, non-coding RNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+38_rev,gi|295054049|ref|NM_201611.2|,"Mus musculus histocompatibility 2, M region locus 10.6 (H2-M10.6), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|295054049|ref|NM_201611.2|,"Mus musculus histocompatibility 2, M region locus 10.6 (H2-M10.6), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|374676821|ref|NM_010395.7|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|242332522|ref|NM_008208.4|,"Mus musculus histocompatibility 2, T region locus 3 (H2-T3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|242332522|ref|NM_008208.4|,"Mus musculus histocompatibility 2, T region locus 3 (H2-T3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2581915433|ref|NM_001359755.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1678211764|ref|NM_001370821.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 4, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1302188074|ref|NM_177634.2|,"Mus musculus histocompatibility 2, M region locus 10.4 (H2-M10.4), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1302188074|ref|NM_177634.2|,"Mus musculus histocompatibility 2, M region locus 10.4 (H2-M10.4), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2580854110|ref|NM_001177467.2|,"Mus musculus histocompatibility-2, T region locus 25 (H2-T25), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|114842390|ref|NM_177637.3|,"Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|114842390|ref|NM_177637.3|,"Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|149363639|ref|NM_010398.3|,"Mus musculus histocompatibility 2, T region locus 23 (H2-T23), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|294979210|ref|NM_029747.3|,"Mus musculus RIKEN cDNA 2410137M14 gene (2410137M14Rik), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|29244569|ref|NM_177923.1|,"Mus musculus histocompatibility 2, M region locus 10.2 (H2-M10.2), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|29244569|ref|NM_177923.1|,"Mus musculus histocompatibility 2, M region locus 10.2 (H2-M10.2), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|163838642|ref|NR_004446.1|,"Mus musculus histocompatibility 2, K region locus 2 (H2-K2), non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2581915458|ref|NM_001359754.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1720388820|ref|XM_030249449.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1720388820|ref|XM_030249449.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1678211701|ref|NM_001370819.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|374676823|ref|NR_046286.1|,"Mus musculus histocompatibility 2, T region locus 10 (H2-T10), transcript variant 1, non-coding, non-coding RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2581915425|ref|NM_010397.6|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|118130960|ref|NM_201608.2|,"Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|118130960|ref|NM_201608.2|,"Mus musculus histocompatibility 2, M region locus 10.3 (H2-M10.3), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1562690494|ref|NM_008199.3|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, coding, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1720389829|ref|XM_030249732.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1720389829|ref|XM_030249732.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 10.5 (H2-M10.5), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2295614780|ref|NM_001199967.2|,"Mus musculus histocompatibility 2, T region locus 27 (H2-T27), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907123958|ref|XM_036160545.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 11 (H2-M11), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1907123958|ref|XM_036160545.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 11 (H2-M11), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1678211699|ref|NM_001370818.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1402626027|ref|NM_177635.2|,"Mus musculus histocompatibility 2, M region locus 11 (H2-M11), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1402626027|ref|NM_177635.2|,"Mus musculus histocompatibility 2, M region locus 11 (H2-M11), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1720391028|ref|XM_017317765.2|,"PREDICTED: Mus musculus predicted gene 10499 (Gm10499), transcript variant X1, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2581915447|ref|NM_001359756.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 5, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|2581915417|ref|NM_001347382.2|,"Mus musculus histocompatibility 2, T region locus 22 (H2-T22), transcript variant 2, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+45_rev,gi|1678211727|ref|NM_001370820.1|,"Mus musculus predicted gene 10499 (Gm10499), transcript variant 3, mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+38_rev,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|755556462|ref|XM_011246400.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 1 (H2-M1), transcript variant X1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|755556462|ref|XM_011246400.1|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 1 (H2-M1), transcript variant X1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|339715131|ref|NM_013544.3|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|339715131|ref|NM_013544.3|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 1, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|1339869046|ref|NM_001360498.1|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|1339869046|ref|NM_001360498.1|,"Mus musculus histocompatibility 2, M region locus 10.1 (H2-M10.1), transcript variant 2, mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|144226229|ref|NM_177636.2|,"Mus musculus histocompatibility 2, M region locus 1 (H2-M1), mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|144226229|ref|NM_177636.2|,"Mus musculus histocompatibility 2, M region locus 1 (H2-M1), mRNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+45_rev,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.0312476,19 / 19,|||||||||||||||||||,0,19
+38_rev,gi|1579876408|ref|NM_001115075.2|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1579876408|ref|NM_001115075.2|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|392357526|ref|NM_001267808.1|,"Mus musculus histocompatibility 2, D region locus L (H2-L), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1720389073|ref|XM_011246301.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122521|ref|XM_006523674.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491853|ref|NM_001424324.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2213906001|ref|NM_001403363.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1720389072|ref|XM_006523689.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1579876497|ref|NR_160897.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 2, non-coding RNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1579876497|ref|NR_160897.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 2, non-coding RNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1578915137|ref|NM_010392.3|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1578915124|ref|NM_001368740.1|,"Mus musculus histocompatibility 2, Q region locus 2 (H2-Q2), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122559|ref|XM_006523687.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491863|ref|NM_001424323.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.380674,19 / 20,||||||||||||||| ||||,0,20
+45_rev,gi|1562690497|ref|NR_160676.1|,"Mus musculus histocompatibility 2, blastocyst (H2-Bl), transcript variant 1, non-coding, non-coding RNA",0.380674,19 / 20,||||||||||||||| ||||,0,20
+38_rev,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122567|ref|XM_006523691.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X7, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907125792|ref|XM_006524804.4|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2213905933|ref|NM_001403362.1|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122576|ref|XM_017317262.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X11, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122561|ref|XM_006523688.5|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1104876217|ref|NM_001347387.1|,"Mus musculus histocompatibility 2, M region locus 2 (H2-M2), mRNA",0.380674,19 / 20,||||| ||||||||||||||,0,20
+45_rev,gi|1104876217|ref|NM_001347387.1|,"Mus musculus histocompatibility 2, M region locus 2 (H2-M2), mRNA",0.380674,19 / 20,||||| ||||||||||||||,0,20
+38_rev,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|68534958|ref|NM_001025208.1|,"Mus musculus MHC class I family member (LOC547349), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122540|ref|XM_017317259.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X9, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1578915141|ref|NM_207648.2|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122557|ref|XM_011246300.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122574|ref|XM_006523692.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X10, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122525|ref|XM_017317258.3|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491859|ref|NM_001424319.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122572|ref|XM_030249510.2|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X9, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|219521934|ref|NM_001143689.1|,"Mus musculus histocompatibility 2, Q region locus 4 (H2-Q4), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1578915134|ref|NM_001368741.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491861|ref|NM_023124.6|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907124445|ref|XM_030249800.2|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907124445|ref|XM_030249800.2|,"PREDICTED: Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2213905839|ref|NM_001001892.3|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491851|ref|NM_001424320.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1578915175|ref|NM_001368742.1|,"Mus musculus histocompatibility 2, Q region locus 6 (H2-Q6), transcript variant 3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1302188024|ref|NM_001358790.1|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2579491857|ref|NM_001424322.1|,"Mus musculus histocompatibility 2, Q region locus 8 (H2-Q8), transcript variant 4, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1579876496|ref|NR_160898.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 3, non-coding RNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1579876496|ref|NR_160898.1|,"Mus musculus histocompatibility 2, M region locus 5 (H2-M5), transcript variant 3, non-coding RNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|310616734|ref|NM_001198560.1|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|149363687|ref|NM_010391.4|,"Mus musculus histocompatibility 2, Q region locus 10 (H2-Q10), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|149363687|ref|NM_010391.4|,"Mus musculus histocompatibility 2, Q region locus 10 (H2-Q10), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2580854111|ref|NM_001081032.3|,"Mus musculus histocompatibility 2, T region locus 26 (H2-T26), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122519|ref|XM_030249505.2|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907125787|ref|XM_006524802.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1302188000|ref|NM_010390.4|,"Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122517|ref|XM_006523673.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907125790|ref|XM_006524801.5|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X3, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122535|ref|XM_006523678.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X7, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|133778954|ref|NM_010380.3|,"Mus musculus histocompatibility 2, D region locus 1 (H2-D1), mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|319803124|ref|NM_001201460.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122533|ref|XM_006523677.5|,"PREDICTED: Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant X6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2219517920|ref|NM_001404051.1|,"Mus musculus histocompatibility 2, Q region locus 9 (H2-Q9), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|2213905834|ref|NM_001347346.2|,"Mus musculus histocompatibility 2, K1, K region (H2-K1), transcript variant 2, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|310616732|ref|NM_010394.4|,"Mus musculus histocompatibility 2, Q region locus 7 (H2-Q7), transcript variant 1, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907122569|ref|XM_011246302.4|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X8, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1907125795|ref|XM_030249996.2|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 26 (H2-T26), transcript variant X5, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+38_rev,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+45_rev,gi|1039752752|ref|XM_006523690.3|,"PREDICTED: Mus musculus histocompatibility 2, Q region locus 1 (H2-Q1), transcript variant X6, mRNA",0.380674,19 / 20,||| ||||||||||||||||,0,20
+39_rev,gi|755550177|ref|XM_011245324.1|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X2, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|156151406|ref|NM_001102400.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 4, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|1907109900|ref|XM_017316424.3|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|156151405|ref|NM_001037905.3|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 3, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|156151403|ref|NM_023118.5|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 1, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|1907109903|ref|XM_030248312.2|,"PREDICTED: Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant X3, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|156151404|ref|NM_001008702.2|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 2, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+39_rev,gi|557878706|ref|NM_133236.3|,"Mus musculus glucocorticoid induced transcript 1 (Glcci1), transcript variant 1, mRNA",4.63755,19 / 20,||||||||||||||| ||||,0,15
+39_rev,gi|881087949|ref|NM_001310446.1|,"Mus musculus disabled 2, mitogen-responsive phosphoprotein (Dab2), transcript variant 5, mRNA",4.63755,19 / 20,||||||||||||| ||||||,0,13
+44_rev,gi|1907184115|ref|XM_011241905.4|,"PREDICTED: Mus musculus DNA segment, Chr 7, ERATO Doi 443, expressed (D7Ertd443e), transcript variant X5, mRNA",16.1867,19 / 21,|||||||||||| || |||||,0,12
+47_rev,gi|1907184115|ref|XM_011241905.4|,"PREDICTED: Mus musculus DNA segment, Chr 7, ERATO Doi 443, expressed (D7Ertd443e), transcript variant X5, mRNA",16.1867,19 / 21,|||||||||||| || |||||,0,12
+44_rev,gi|1720424154|ref|XM_011241903.3|,"PREDICTED: Mus musculus DNA segment, Chr 7, ERATO Doi 443, expressed (D7Ertd443e), transcript variant X3, mRNA",16.1867,19 / 21,|||||||||||| || |||||,0,12
+47_rev,gi|1720424154|ref|XM_011241903.3|,"PREDICTED: Mus musculus DNA segment, Chr 7, ERATO Doi 443, expressed (D7Ertd443e), transcript variant X3, mRNA",16.1867,19 / 21,|||||||||||| || |||||,0,12
+44_rev,gi|1907077769|ref|XM_030245256.2|,"PREDICTED: Mus musculus SAM and SH3 domain containing 1 (Sash1), transcript variant X2, mRNA",56.497,19 / 22,||| |||||  |||||||||||,0,9
+47_rev,gi|1907077769|ref|XM_030245256.2|,"PREDICTED: Mus musculus SAM and SH3 domain containing 1 (Sash1), transcript variant X2, mRNA",56.497,19 / 22,||| |||||  |||||||||||,0,9
+44_rev,gi|1907077776|ref|XM_006512839.5|,"PREDICTED: Mus musculus SAM and SH3 domain containing 1 (Sash1), transcript variant X7, mRNA",56.497,19 / 22,||| |||||  |||||||||||,0,9
+47_rev,gi|1907077776|ref|XM_006512839.5|,"PREDICTED: Mus musculus SAM and SH3 domain containing 1 (Sash1), transcript variant X7, mRNA",56.497,19 / 22,||| |||||  |||||||||||,0,9
+46_rev,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+46_rev,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+46_rev,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.380674,19 / 20,|||||||||||||| |||||,0,20
+46_rev,gi|1907112620|ref|XM_006520943.5|,"PREDICTED: Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant X1, mRNA",16.1867,19 / 21,|||||||||  ||||||||||,1,10
+46_rev,gi|1907112623|ref|XR_004938836.1|,"PREDICTED: Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant X2, misc_RNA",16.1867,19 / 21,|||||||||  ||||||||||,1,10
+46_rev,gi|2271940124|ref|NM_001168260.2|,"Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant 1, mRNA",16.1867,19 / 21,|||||||||  ||||||||||,1,10
+46_rev,gi|2271940163|ref|NM_001017983.3|,"Mus musculus FAD-dependent oxidoreductase domain containing 2 (Foxred2), transcript variant 2, mRNA",16.1867,19 / 21,|||||||||  ||||||||||,1,10
+49_rev,gi|1907122578|ref|XR_004939468.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X1, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+49_rev,gi|144953908|ref|NM_008207.3|,"Mus musculus histocompatibility 2, T region locus 24 (H2-T24), mRNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+49_rev,gi|1907122580|ref|XR_004939469.1|,"PREDICTED: Mus musculus histocompatibility 2, T region locus 24 (H2-T24), transcript variant X2, misc_RNA",0.00895258,20 / 20,||||||||||||||||||||,0,20
+51_rev,gi|1907120368|ref|XM_011246053.3|,"PREDICTED: Mus musculus pyridoxal-dependent decarboxylase domain containing 1 (Pdxdc1), transcript variant X1, mRNA",16.1867,19 / 21,|||||| ||||||||||| ||,0,6
+51_rev,gi|1907120370|ref|XM_011246054.4|,"PREDICTED: Mus musculus pyridoxal-dependent decarboxylase domain containing 1 (Pdxdc1), transcript variant X2, mRNA",16.1867,19 / 21,|||||| ||||||||||| ||,0,6
+51_rev,gi|1907120374|ref|XM_011246055.4|,"PREDICTED: Mus musculus pyridoxal-dependent decarboxylase domain containing 1 (Pdxdc1), transcript variant X3, mRNA",16.1867,19 / 21,|||||| ||||||||||| ||,0,6

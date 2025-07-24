@@ -1,0 +1,42 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+5_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2021,19 / 21,||||| |||||||||| ||||,0,16
+6_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2021,19 / 21,||||| |||||||||| ||||,0,16
+7_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2021,19 / 21,||||| |||||||||| ||||,0,16
+8_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2021,19 / 21,||||| |||||||||| ||||,0,16
+9_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2021,19 / 21,||||| |||||||||| ||||,0,16
+0_rev,gi|1674301259|ref|NM_001370767.1|,"Mus musculus ligand dependent nuclear receptor corepressor (Lcor), transcript variant 1, mRNA",16.2021,19 / 21,||||| ||||||| |||||||,0,5
+10_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+12_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+17_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+21_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+10_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+12_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+17_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+21_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2021,19 / 21,|||||| ||||| ||||||||,0,6
+14_rev,gi|142381555|ref|NM_001033783.2|,"Mus musculus prostate and testis expressed 9 (Pate9), mRNA",0.381037,19 / 20,||||||||| ||||||||||,0,20
+18_rev,gi|142381555|ref|NM_001033783.2|,"Mus musculus prostate and testis expressed 9 (Pate9), mRNA",0.381037,19 / 20,||||||||| ||||||||||,0,20
+14_rev,gi|1845866035|ref|NR_168646.1|,"Mus musculus predicted gene, 34000 (Gm34000), long non-coding RNA",16.2021,19 / 21,|||||||||||| || |||||,0,15
+18_rev,gi|1845866035|ref|NR_168646.1|,"Mus musculus predicted gene, 34000 (Gm34000), long non-coding RNA",16.2021,19 / 21,|||||||||||| || |||||,0,15
+15_rev,gi|225543445|ref|NM_026198.2|,"Mus musculus transmembrane protein 167B (Tmem167b), mRNA",0.0312775,19 / 19,|||||||||||||||||||,1,20
+16_rev,gi|225543445|ref|NM_026198.2|,"Mus musculus transmembrane protein 167B (Tmem167b), mRNA",0.0312775,19 / 19,|||||||||||||||||||,1,20
+24_rev,gi|225543445|ref|NM_026198.2|,"Mus musculus transmembrane protein 167B (Tmem167b), mRNA",0.0312775,19 / 19,|||||||||||||||||||,1,20
+15_rev,gi|1907152961|ref|XR_004941458.1|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X3, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+16_rev,gi|1907152961|ref|XR_004941458.1|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X3, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+24_rev,gi|1907152961|ref|XR_004941458.1|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X3, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+15_rev,gi|1907152959|ref|XR_880783.4|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X1, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+16_rev,gi|1907152959|ref|XR_880783.4|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X1, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+24_rev,gi|1907152959|ref|XR_880783.4|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X1, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+15_rev,gi|1907152962|ref|XR_003954463.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X4, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+16_rev,gi|1907152962|ref|XR_003954463.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X4, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+24_rev,gi|1907152962|ref|XR_003954463.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X4, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+15_rev,gi|1907152960|ref|XR_003954462.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X2, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+16_rev,gi|1907152960|ref|XR_003954462.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X2, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+24_rev,gi|1907152960|ref|XR_003954462.2|,"PREDICTED: Mus musculus predicted gene, 36620 (Gm36620), transcript variant X2, ncRNA",0.381037,19 / 20,||||||||||||||||| ||,0,20
+23_rev,gi|1907069592|ref|XM_011248044.3|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X4, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1907069589|ref|XM_011248039.3|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X1, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1907069593|ref|XM_011248046.3|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X6, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1720355955|ref|XM_006529730.3|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X5, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|647568278|ref|NM_001287179.2|,"Mus musculus kinesin family member 14 (Kif14), mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1907069594|ref|XM_006529729.5|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X7, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1907069591|ref|XM_011248043.4|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X3, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5
+23_rev,gi|1907069590|ref|XM_011248040.3|,"PREDICTED: Mus musculus kinesin family member 14 (Kif14), transcript variant X2, mRNA",1.32995,20 / 21,||||| |||||||||||||||,0,5

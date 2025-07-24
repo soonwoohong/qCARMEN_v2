@@ -1,0 +1,19 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+2_fwd,gi|260274389|ref|NM_177175.4|,"Mus musculus transmembrane protein 215 (Tmem215), transcript variant 1, mRNA",56.5608,19 / 22,||||| |||||||||  |||||,0,15
+30_fwd,gi|1907106783|ref|XR_383260.4|,"PREDICTED: Mus musculus predicted gene, 31720 (Gm31720), ncRNA",16.2049,19 / 21,||||| |||||| ||||||||,0,5
+31_fwd,gi|1907106783|ref|XR_383260.4|,"PREDICTED: Mus musculus predicted gene, 31720 (Gm31720), ncRNA",16.2049,19 / 21,||||| |||||| ||||||||,0,5
+2_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
+2_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
+2_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
+2_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
+3_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",56.5725,17 / 18,||||||||||| ||||||,0,11
+3_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",56.5725,17 / 18,||||||||||| ||||||,0,11
+3_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",56.5725,17 / 18,||||||||||| ||||||,0,11
+3_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",56.5725,17 / 18,||||||||||| ||||||,0,11
+7_rev,gi|1720411268|ref|XR_003955364.1|,"PREDICTED: Mus musculus predicted gene, 32823 (Gm32823), transcript variant X2, ncRNA",16.2049,19 / 21,|||||||||||  ||||||||,0,11
+8_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",56.5667,18 / 20,||||| ||||||| ||||||,0,13
+8_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",56.5667,18 / 20,||||| ||||||| ||||||,0,13
+9_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",16.2049,19 / 21,|||||| ||||||| ||||||,0,14
+9_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",16.2049,19 / 21,|||||| ||||||| ||||||,0,14
+10_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",16.2049,19 / 21,||||||| ||||||| |||||,0,15
+10_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",16.2049,19 / 21,||||||| ||||||| |||||,0,15

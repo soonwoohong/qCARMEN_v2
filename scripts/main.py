@@ -6,11 +6,13 @@ import logging
 from Bio import SeqIO
 import pandas as pd
 from dataclasses import dataclass, asdict
+import subprocess
 
 # from local
 from lib import NCBIGeneFetcher
 from lib import CommonPrimerDesign
 from lib import PrimerBlast
+from lib import crRNA_Design
 
 # Set up logging
 logging.basicConfig(
@@ -108,6 +110,8 @@ def main():
     os.makedirs(valid_primer_dir, exist_ok=True)
     primer_design = CommonPrimerDesign(output_dir)
     specificity_checker = PrimerBlast(output_dir, organism)
+    crRNA_design = crRNA_Design(output_dir)
+
 
     for gene_name in gene_list:
         parent_path = os.path.join(genbank_dir, gene_name)
@@ -123,6 +127,8 @@ def main():
         valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
         # design crRNA
+        crRNA_design.load_primers(gene_name, valid_primers)
+
 
 
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()

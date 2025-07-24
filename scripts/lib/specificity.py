@@ -55,8 +55,6 @@ class PrimerBlast:
                  output_dir: str,
                  organism: str = "Mus musculus",
                  database: str = "refseq_rna",
-                 identity_threshold: float = 0.8, # this and
-                 coverage_threshold: float = 0.8, # this is a default setting and a fixed value, but I realized that it needs to be updated based on the length of primers.
                  max_hits: int = 400,
                  ):
         """
@@ -73,8 +71,6 @@ class PrimerBlast:
         """
         self.organism = organism
         self.database = database
-        self.identity_threshold = identity_threshold
-        self.coverage_threshold = coverage_threshold
         self.max_hits = max_hits
         # if there are homologous genes in the target... the homologous gene should be excluded for blast
         self.homologus_gene = {"Tgtp2": ["Tgtp1"]}
@@ -211,63 +207,72 @@ class PrimerBlast:
 
         # if the blast result already exists, skip this part
         # the following lines sometimes fail. I think it's because of timeout from running blast remotely.
-        # to solve this issue, I added the retry part after 1 minute rest.
+        # to solve this issue, I added the retry part after 2 minutes rest.
         if not os.path.exists(self.output_file):
             try:
                 results = qblast(**blast_params)
             except:
-                time.sleep(60)
+                time.sleep(120)
                 results = qblast(**blast_params)
 
             with open(self.output_file, "wb") as f:
                 f.write(results.read())
 
         hits = []
-        # should I divide them into two hits? like fwd and rev?
-        with Blast.parse(self.output_file) as blast_records:
-            for blast_record in blast_records:
-                for hsps in blast_record:
-                    for hsp in hsps:
-                        # HSP stands for "High-scoring Segment Pair"
-                        # it represents a local alignment between your query sequence (primer) and a subject sequence (database hit).
-                        identity_num = hsp.annotations['identity'] # Number of identical positions
-                        # checking identity at the hotspot from the 3' end
-                        primer_len = len(hsp.query.seq)
-                        hotspot_start =  primer_len-hotspot_3end # position from 5'end
-                        identity_num_3end = hsp.annotations['midline'][hotspot_start:].count("|")
+        # the following also make an error sometimes...
+        # the only way is to rerun the code
+        try:
+            blast_records = Blast.parse(self.output_file)
+        except:
+            results = qblast(**blast_params)
+            with open(self.output_file, "wb") as f:
+                f.write(results.read())
+            blast_records = Blast.parse(self.output_file)
 
-                        total_mismatch = primer_len - identity_num
-                        end_mismatch = hotspot_3end - identity_num_3end
-                        target_description = hsp.target.description
 
-                        query_id = hsp.query.description
-                        query_alias = alias_name[query_id] # a list of duplicate primer
+        for blast_record in blast_records:
+            for hsps in blast_record:
+                for hsp in hsps:
+                    # HSP stands for "High-scoring Segment Pair"
+                    # it represents a local alignment between your query sequence (primer) and a subject sequence (database hit).
+                    identity_num = hsp.annotations['identity'] # Number of identical positions
+                    # checking identity at the hotspot from the 3' end
+                    primer_len = len(hsp.query.seq)
+                    hotspot_start =  primer_len-hotspot_3end # position from 5'end
+                    identity_num_3end = hsp.annotations['midline'][hotspot_start:].count("|")
 
-                        # Primer specificity stringency
+                    total_mismatch = primer_len - identity_num
+                    end_mismatch = hotspot_3end - identity_num_3end
+                    target_description = hsp.target.description
 
-                        # if there is a homologous gene that needs to be excluded for blast search
-                        homologous_genes = []
-                        try:
-                            homologous_genes.extend(self.homologus_gene[gene])
-                            homologous_genes.append(gene)
-                        except:
-                            homologous_genes.append(gene)
+                    query_id = hsp.query.description
+                    query_alias = alias_name[query_id] # a list of duplicate primer
 
-                        if not any(gene_name.upper() in target_description.upper() for gene_name in homologous_genes):
-                            if total_mismatch < min_mismatch_total and end_mismatch < min_mismatch_3end:
-                                for alias in query_alias:
-                                    hit = BlastHit(
-                                        query_id=alias,
-                                        subject_id=hsp.target.id,
-                                        subject_def=hsp.target.description,
-                                        evalue=hsp.annotations['evalue'],
-                                        identity=f"{identity_num} / {hsp.length}",
-                                        midline=hsp.annotations['midline'],
-                                        query_start=hsp.coordinates[1][0],
-                                        query_end=hsp.coordinates[1][1]
-                                    )
+                    # Primer specificity stringency
 
-                                    hits.append(hit)
+                    # if there is a homologous gene that needs to be excluded for blast search
+                    homologous_genes = []
+                    try:
+                        homologous_genes.extend(self.homologus_gene[gene])
+                        homologous_genes.append(gene)
+                    except:
+                        homologous_genes.append(gene)
+
+                    if not any(gene_name.upper() in target_description.upper() for gene_name in homologous_genes):
+                        if total_mismatch < min_mismatch_total and end_mismatch < min_mismatch_3end:
+                            for alias in query_alias:
+                                hit = BlastHit(
+                                    query_id=alias,
+                                    subject_id=hsp.target.id,
+                                    subject_def=hsp.target.description,
+                                    evalue=hsp.annotations['evalue'],
+                                    identity=f"{identity_num} / {hsp.length}",
+                                    midline=hsp.annotations['midline'],
+                                    query_start=hsp.coordinates[1][0],
+                                    query_end=hsp.coordinates[1][1]
+                                )
+
+                                hits.append(hit)
 
 
 
