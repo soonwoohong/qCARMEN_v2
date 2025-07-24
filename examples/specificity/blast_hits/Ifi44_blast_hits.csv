@@ -1,0 +1,62 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+13_fwd,gi|1907172913|ref|XM_006507063.5|,"PREDICTED: Mus musculus DENN domain containing 5B (Dennd5b), transcript variant X1, mRNA",56.5099,19 / 22,|||||||  ||||||| |||||,0,7
+17_fwd,gi|19527373|ref|NM_134139.1|,"Mus musculus WD repeat domain 74 (Wdr74), mRNA",0.38076,19 / 20,||| ||||||||||||||||,0,20
+17_fwd,gi|1907192396|ref|XR_879089.4|,"PREDICTED: Mus musculus predicted gene, 39223 (Gm39223), transcript variant X1, ncRNA",16.1903,19 / 21,||||| ||||||||| |||||,0,5
+17_fwd,gi|157266289|ref|NM_010895.3|,"Mus musculus neurogenic differentiation 2 (Neurod2), mRNA",16.1903,19 / 21,|||||| | ||||||||||||,0,6
+17_fwd,gi|1907192398|ref|XR_004934962.1|,"PREDICTED: Mus musculus predicted gene, 39223 (Gm39223), transcript variant X2, ncRNA",16.1903,19 / 21,||||| ||||||||| |||||,0,5
+17_fwd,gi|1907080361|ref|XM_030245643.2|,"PREDICTED: Mus musculus neurogenic differentiation 2 (Neurod2), transcript variant X1, mRNA",16.1903,19 / 21,|||||| | ||||||||||||,0,6
+27_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+27_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+27_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+27_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+27_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+27_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+32_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+33_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+34_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5099,19 / 22,|||||||   ||||||||||||,1,8
+2_rev,gi|1907185430|ref|XR_391274.2|,"PREDICTED: Mus musculus predicted gene, 36830 (Gm36830), transcript variant X2, ncRNA",56.5276,17 / 18,|||||| |||||||||||,0,6
+3_rev,gi|142347945|ref|NM_008710.3|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 1, mRNA; nuclear gene for mitochondrial product",16.1903,19 / 21,||||| ||||||| |||||||,0,5
+3_rev,gi|819023690|ref|NM_001308506.1|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 2, mRNA; nuclear gene for mitochondrial product",16.1903,19 / 21,||||| ||||||| |||||||,0,5
+4_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1903,19 / 21,|||||||  ||||||||||||,1,8
+4_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1903,19 / 21,|||||||  ||||||||||||,1,8
+4_rev,gi|2472930870|ref|NM_001419414.1|,"Mus musculus importin 13 (Ipo13), transcript variant 2, mRNA",16.1903,19 / 21,||||| |||||||||||| ||,0,5
+4_rev,gi|2472931062|ref|NR_185081.1|,"Mus musculus importin 13 (Ipo13), transcript variant 3, non-coding RNA",16.1903,19 / 21,||||| |||||||||||| ||,0,5
+4_rev,gi|1907155634|ref|XR_003954914.2|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X2, misc_RNA",16.1903,19 / 21,||||| |||||||||||| ||,0,5
+4_rev,gi|1907155635|ref|XM_017320147.3|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X3, mRNA",16.1903,19 / 21,||||| |||||||||||| ||,0,5
+4_rev,gi|141802110|ref|NM_146152.3|,"Mus musculus importin 13 (Ipo13), transcript variant 1, mRNA",16.1903,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+12_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+11_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+12_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+11_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+12_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63861,19 / 20,||||||| ||||||||||||,0,7
+11_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1903,19 / 21,||||||  |||||||||||||,0,6
+12_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1903,19 / 21,||||||  |||||||||||||,0,6
+11_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1903,19 / 21,||||||  |||||||||||||,0,6
+12_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1903,19 / 21,||||||  |||||||||||||,0,6
+14_rev,gi|2416977390|ref|NM_001024857.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 3, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+16_rev,gi|2416977390|ref|NM_001024857.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 3, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+14_rev,gi|2416977394|ref|NM_080788.4|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 1, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+16_rev,gi|2416977394|ref|NM_080788.4|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 1, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+14_rev,gi|2416977464|ref|NM_001024856.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 2, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+16_rev,gi|2416977464|ref|NM_001024856.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 2, mRNA",16.1903,19 / 21,|||| ||||||||| ||||||,0,14
+22_rev,gi|1720385886|ref|XR_001781754.2|,"PREDICTED: Mus musculus RIKEN cDNA A130051J0 gene (A130051J06Rik), transcript variant X1, ncRNA",16.1903,19 / 21,||||| || ||||||||||||,0,8
+22_rev,gi|326439089|ref|NM_001205025.1|,"Mus musculus jagunal homolog 1 (Jagn1), transcript variant 2, mRNA",16.1903,19 / 21,|||||| | ||||||||||||,0,6
+22_rev,gi|344179113|ref|NM_001243739.1|,"Mus musculus jagunal homolog 1 (Jagn1), transcript variant 3, mRNA",16.1903,19 / 21,|||||| | ||||||||||||,0,6
+22_rev,gi|326439091|ref|NM_026365.3|,"Mus musculus jagunal homolog 1 (Jagn1), transcript variant 1, mRNA",16.1903,19 / 21,|||||| | ||||||||||||,0,6
+23_rev,gi|1720385886|ref|XR_001781754.2|,"PREDICTED: Mus musculus RIKEN cDNA A130051J0 gene (A130051J06Rik), transcript variant X1, ncRNA",16.1903,19 / 21,|||||| || |||||||||||,0,9

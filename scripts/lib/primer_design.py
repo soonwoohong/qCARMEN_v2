@@ -17,7 +17,7 @@ from Bio.SeqUtils import gc_fraction
 from Bio.Align import MultipleSeqAlignment
 from Bio.Seq import Seq
 from Bio.SeqRecord import SeqRecord
-from dataclasses import dataclass
+from dataclasses import dataclass, asdict
 
 import primer3
 import logging
@@ -125,7 +125,10 @@ class CommonPrimerDesign:
 
         primers_C = self._design_on_conserved_primers(gene_name)
 
-        return primers_A, primers_B, primers_C
+        primers = pd.DataFrame([asdict(obj) for lst in [primers_A, primers_B, primers_C] for obj in lst])
+        primers = primers.drop_duplicates(subset=['amplicon_seq'], ignore_index=True)
+
+        return primers
 
 
     def _load_isoforms(self, genbank_files: List[str]) -> Dict[str, Dict]:
@@ -220,8 +223,9 @@ class CommonPrimerDesign:
         exon_3_min_match = self.default_params['PRIMER_EXON_3_MIN_MATCH']
         exon_3_max_match = self.default_params['PRIMER_EXON_3_MAX_MATCH']
 
-        Tm_min = self.default_params['PRIMER_OPT_TM'] - self.default_params['PRIMER_MAX_TM_DIFF']
-        Tm_max = self.default_params['PRIMER_OPT_TM'] + self.default_params['PRIMER_MAX_TM_DIFF']
+        Tm_min = self.default_params['PRIMER_MIN_TM']
+        Tm_max = self.default_params['PRIMER_MAX_TM']
+        Tm_max_diff = self.default_params['PRIMER_MAX_TM_DIFF']
 
         desired_amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
 
@@ -290,7 +294,8 @@ class CommonPrimerDesign:
                                         rev_seq = conserved_down_seq[rev_start:rev_end]
                                         rev_primer_tm = primer3.calc_tm(rev_seq)
                                         rev_gc = gc_fraction(rev_seq)
-                                        if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC:
+                                        tm_diff = abs(rev_primer_tm - fwd_primer_tm)
+                                        if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC and tm_diff <= Tm_max_diff:
                                             rev_seq = Seq(rev_seq).reverse_complement()
                                             amplicon_seq = fwd_seq[:overlap]+conserved_down_seq[:rev_end]
                                             primers_A.append(
@@ -355,7 +360,8 @@ class CommonPrimerDesign:
                                         fwd_seq = conserved_up_seq[-fwd_start:-fwd_end]
                                         fwd_primer_tm = primer3.calc_tm(fwd_seq)
                                         fwd_gc = gc_fraction(fwd_seq)
-                                        if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC:
+                                        tm_diff = abs(fwd_primer_tm - rev_primer_tm)
+                                        if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC and tm_diff <= Tm_max_diff:
                                             amplicon_seq = conserved_up_seq[-fwd_start:]+overlap_seq
                                             primers_B.append(
                                                 PrimerPair(gene,

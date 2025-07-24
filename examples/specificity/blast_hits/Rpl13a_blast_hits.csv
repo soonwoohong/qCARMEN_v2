@@ -1,0 +1,62 @@
+query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+0_fwd,gi|1907126243|ref|XM_006523354.5|,"PREDICTED: Mus musculus T cell activation Rho GTPase activating protein (Tagap), transcript variant X1, mRNA",16.1963,19 / 21,||||| |||||||||| ||||,0,16
+0_fwd,gi|218505751|ref|NM_145968.2|,"Mus musculus T cell activation Rho GTPase activating protein (Tagap), mRNA",16.1963,19 / 21,||||| |||||||||| ||||,0,16
+2_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.000735011,22 / 22,||||||||||||||||||||||,0,22
+3_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.00073511,22 / 22,||||||||||||||||||||||,0,22
+4_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.00073511,22 / 22,||||||||||||||||||||||,0,22
+5_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.000735011,22 / 22,||||||||||||||||||||||,0,22
+6_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.000210556,23 / 23,|||||||||||||||||||||||,0,23
+7_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",1.72811e-05,25 / 25,|||||||||||||||||||||||||,0,25
+8_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",6.03252e-05,24 / 24,||||||||||||||||||||||||,0,24
+9_fwd,gi|1907070755|ref|XM_011248112.4|,"PREDICTED: Mus musculus armadillo repeat containing 9 (Armc9), transcript variant X17, mRNA",16.1963,19 / 21,||||||||| || ||||||||,0,9
+12_fwd,gi|1907070755|ref|XM_011248112.4|,"PREDICTED: Mus musculus armadillo repeat containing 9 (Armc9), transcript variant X17, mRNA",16.1963,19 / 21,||||||||| || ||||||||,0,9
+9_fwd,gi|1907070754|ref|XM_011248111.4|,"PREDICTED: Mus musculus armadillo repeat containing 9 (Armc9), transcript variant X16, mRNA",16.1963,19 / 21,||||||||| || ||||||||,0,9
+12_fwd,gi|1907070754|ref|XM_011248111.4|,"PREDICTED: Mus musculus armadillo repeat containing 9 (Armc9), transcript variant X16, mRNA",16.1963,19 / 21,||||||||| || ||||||||,0,9
+10_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+19_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+16_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+18_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+20_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+21_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,||||||||| ||||||||||,0,20
+22_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+24_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+26_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+27_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+28_fwd,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,|||||| |||||||||||||,0,20
+4_rev,gi|110347494|ref|NM_177093.3|,"Mus musculus leucine rich repeat containing 58 (Lrrc58), mRNA",16.1963,19 / 21,||||| |||| ||||||||||,0,5
+7_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.00073511,22 / 22,||||||||||||||||||||||,0,22
+8_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.00256613,21 / 21,|||||||||||||||||||||,0,21
+9_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+10_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,|||||||||| |||||||||,0,20
+11_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,|||||||||| |||||||||,0,20
+12_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+12_rev,gi|189491667|ref|NM_029936.2|,"Mus musculus DEAD box helicase 10 (Ddx10), mRNA",16.1963,19 / 21,||||||||||||| || ||||,0,13
+13_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,||||||||||||| ||||||,0,20
+14_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,||||||||||||| ||||||,0,20
+15_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+16_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,|||||||||||||||| |||,0,20
+18_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,|||||||||||||||| |||,0,20
+19_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,||||||||| ||||||||||,0,20
+20_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.380899,19 / 20,||||||||| ||||||||||,0,20
+19_rev,gi|244790190|ref|NM_001162523.1|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 2, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+20_rev,gi|244790190|ref|NM_001162523.1|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 2, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+19_rev,gi|244790135|ref|NM_026087.3|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 1, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+20_rev,gi|244790135|ref|NM_026087.3|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 1, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+19_rev,gi|1257171209|ref|NM_001162524.2|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 3, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+20_rev,gi|1257171209|ref|NM_001162524.2|,"Mus musculus CEA cell adhesion molecule 12 (Ceacam12), transcript variant 3, mRNA",4.6403,19 / 20,||||| ||||||||||||||,1,6
+21_rev,gi|1907129108|ref|XM_030250368.2|,"PREDICTED: Mus musculus spalt like transcription factor 3 (Sall3), transcript variant X1, mRNA",56.5305,19 / 22,|||||||  ||||||||| |||,0,7
+28_rev,gi|1907129108|ref|XM_030250368.2|,"PREDICTED: Mus musculus spalt like transcription factor 3 (Sall3), transcript variant X1, mRNA",56.5305,19 / 22,|||||||  ||||||||| |||,0,7
+21_rev,gi|1907129124|ref|XM_036161040.1|,"PREDICTED: Mus musculus spalt like transcription factor 3 (Sall3), transcript variant X2, mRNA",56.5305,19 / 22,|||||||  ||||||||| |||,0,7
+28_rev,gi|1907129124|ref|XM_036161040.1|,"PREDICTED: Mus musculus spalt like transcription factor 3 (Sall3), transcript variant X2, mRNA",56.5305,19 / 22,|||||||  ||||||||| |||,0,7
+24_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+25_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+26_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20
+27_rev,gi|1845866038|ref|NR_168619.1|,"Mus musculus predicted gene 11478 (Gm11478), non-coding RNA",0.0089579,20 / 20,||||||||||||||||||||,0,20

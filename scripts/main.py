@@ -104,6 +104,8 @@ def main():
 
 
     primer_dir = os.path.join(output_dir, "primer")
+    valid_primer_dir = os.path.join(output_dir, "valid_primer")
+    os.makedirs(valid_primer_dir, exist_ok=True)
     primer_design = CommonPrimerDesign(output_dir)
     specificity_checker = PrimerBlast(output_dir, organism)
 
@@ -112,15 +114,13 @@ def main():
         genbank_files = [os.path.join(parent_path, genfile) for genfile in os.listdir(parent_path) if ".gb" in genfile]
 
         # designing primers
-        primers_A, primers_B, primers_C = primer_design.design_primers(gene_name, genbank_files)
-        primers = pd.DataFrame([asdict(obj) for lst in [primers_A, primers_B, primers_C] for obj in lst])
+        primers = primer_design.design_primers(gene_name, genbank_files)
         primers.to_csv(os.path.join(primer_dir, gene_name+"_primers.csv"))
 
         # specificity checking
-        specificity_checker.check_primer_specificity(gene_name, primers)
-
-
-
+        valid_primers = specificity_checker.check_primer_specificity(gene_name, primers)
+        valid_primers_df = pd.DataFrame(valid_primers)
+        valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
     #conserved_regions, num_fasta = primer_design.find_conserved_regions()
 
