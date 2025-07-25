@@ -127,7 +127,8 @@ def main():
         valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
         # design crRNA
-        crRNA_design.load_primers(gene_name, valid_primers)
+        print(valid_primers_df)
+        crRNA_design.read_valid_primers(gene_name, valid_primers_df)
 
 
 
