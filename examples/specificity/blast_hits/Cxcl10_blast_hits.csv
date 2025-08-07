@@ -1,70 +1,40 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-9_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",0.380983,19 / 20,||||| ||||||||||||||,0,20
-10_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",0.380983,19 / 20,||||| ||||||||||||||,0,20
-11_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",0.380983,19 / 20,||||| ||||||||||||||,0,20
-13_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.1998,19 / 21,|||| |||||||||| |||||,0,15
-14_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.1998,19 / 21,|||| |||||||||| |||||,0,15
-15_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.1998,19 / 21,|||| |||||||||| |||||,0,15
-23_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.1998,19 / 21,|||| |||||||||| |||||,0,15
-19_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-25_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-32_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-19_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-25_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-32_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-19_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-25_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-32_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-19_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-25_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-32_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-19_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-25_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-32_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64133,19 / 20,||||||| ||||||||||||,0,7
-28_fwd,gi|1907069755|ref|XM_006496142.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X2, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|568906694|ref|XM_006496144.1|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X4, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|1907069758|ref|XM_036152430.1|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X6, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|1907069760|ref|XM_030255544.2|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X7, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|1907069756|ref|XM_006496143.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X3, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|229577277|ref|NM_018817.2|,"Mus musculus SNF2 related chromatin remodeling ATPase like 1 (Smarcal1), mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|1907069757|ref|XM_011238557.4|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X5, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-28_fwd,gi|1907069754|ref|XM_006496141.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X1, mRNA",4.64133,20 / 22,||||||||  ||||||||||||,0,8
-29_fwd,gi|1907069755|ref|XM_006496142.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X2, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|568906694|ref|XM_006496144.1|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X4, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|1907069758|ref|XM_036152430.1|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X6, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|1907069760|ref|XM_030255544.2|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X7, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|1907069756|ref|XM_006496143.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X3, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|229577277|ref|NM_018817.2|,"Mus musculus SNF2 related chromatin remodeling ATPase like 1 (Smarcal1), mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|1907069757|ref|XM_011238557.4|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X5, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-29_fwd,gi|1907069754|ref|XM_006496141.5|,"PREDICTED: Mus musculus SWI/SNF related matrix associated, actin dependent regulator of chromatin, subfamily a-like 1 (Smarcal1), transcript variant X1, mRNA",4.64133,20 / 22,|||||||||  |||||||||||,0,9
-30_fwd,gi|1039752358|ref|XR_001782000.1|,"PREDICTED: Mus musculus small integral membrane protein 34 (Smim34), transcript variant X2, misc_RNA",0.380983,19 / 20,|||| |||||||||||||||,0,20
-8_rev,gi|566559948|ref|NM_001130693.3|,"Mus musculus guanylate cyclase 2d (Gucy2d), mRNA",0.380983,19 / 20,||||| ||||||||||||||,0,20
-13_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-16_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-19_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-13_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-16_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-19_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-13_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-16_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-19_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-13_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-16_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-19_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5429,19 / 22,|||||||   ||||||||||||,0,7
-21_rev,gi|1907137000|ref|XR_003951556.2|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X7, misc_RNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136998|ref|XM_017316709.3|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X6, mRNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136996|ref|XR_004939166.1|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X5, misc_RNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|983131838|ref|NM_001319156.1|,"Mus musculus ryanodine receptor 3 (Ryr3), mRNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136995|ref|XR_004939164.1|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X4, misc_RNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136993|ref|XM_017316705.3|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X3, mRNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136990|ref|XM_017316700.3|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X1, mRNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|1907136992|ref|XM_017316702.3|,"PREDICTED: Mus musculus ryanodine receptor 3 (Ryr3), transcript variant X2, mRNA",0.380983,19 / 20,|||||||||| |||||||||,0,20
-21_rev,gi|254911077|ref|NM_145584.2|,"Mus musculus spondin 1, (f-spondin) extracellular matrix protein (Spon1), mRNA",1.32976,20 / 21,||||||||||| |||||||||,0,11
-22_rev,gi|718551013|ref|NM_001302752.1|,"Mus musculus engulfment and cell motility 2 (Elmo2), transcript variant 4, mRNA",16.1998,19 / 21,||||||||||| || ||||||,0,11
-22_rev,gi|1907135239|ref|XM_011239284.2|,"PREDICTED: Mus musculus engulfment and cell motility 2 (Elmo2), transcript variant X2, mRNA",16.1998,19 / 21,||||||||||| || ||||||,0,11
-23_rev,gi|1907201959|ref|XR_001779272.3|,"PREDICTED: Mus musculus predicted gene, 46129 (Gm46129), transcript variant X1, ncRNA",16.1998,19 / 21,|| |||| |||||||||||||,0,7
-23_rev,gi|1907201961|ref|XR_001779273.3|,"PREDICTED: Mus musculus predicted gene, 46129 (Gm46129), transcript variant X2, ncRNA",16.1998,19 / 21,|| |||| |||||||||||||,0,7
+5_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
+7_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
+8_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
+9_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
+5_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
+7_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
+8_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
+9_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
+6_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",16.2073,16 / 17,|||||| ||||||||||,0,17
+6_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",16.2073,16 / 17,||||| |||||||||||,0,17
+13_fwd,gi|2500286971|ref|NM_001420514.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 3, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
+13_fwd,gi|2500286839|ref|NM_001420513.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 2, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
+13_fwd,gi|2500286977|ref|NM_001029982.3|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 1, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
+13_fwd,gi|1720396428|ref|XR_003952936.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X1, ncRNA",56.5558,19 / 22,|||||||||||||   ||||||,0,13
+13_fwd,gi|1720396429|ref|XR_003952937.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X2, ncRNA",56.5558,19 / 22,|||||||||||||   ||||||,0,13
+14_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
+15_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
+17_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
+22_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
+22_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
+22_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
+22_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
+22_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
+14_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+18_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+21_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+14_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+18_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+21_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+14_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+18_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+21_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+14_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+18_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+21_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7

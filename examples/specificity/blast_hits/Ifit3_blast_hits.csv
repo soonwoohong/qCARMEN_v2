@@ -1,14 +1,8 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-11_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2036,19 / 21,|||| ||||||||| ||||||,0,4
-16_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2036,19 / 21,|||| ||||||||| ||||||,0,4
-17_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2036,19 / 21,|||| ||||||||| ||||||,0,4
-20_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2036,19 / 21,|||| ||||||||| ||||||,0,4
-2_rev,gi|755529540|ref|XR_379323.2|,"PREDICTED: Mus musculus predicted gene, 29909 (Gm29909), ncRNA",0.381072,19 / 20,|||||||||||||| |||||,0,20
-3_rev,gi|755529540|ref|XR_379323.2|,"PREDICTED: Mus musculus predicted gene, 29909 (Gm29909), ncRNA",1.33022,18 / 19,||||||||||||||| |||,0,19
-3_rev,gi|1039778411|ref|XM_017322192.1|,"PREDICTED: Mus musculus pleckstrin homology domain containing, family A member 7 (Plekha7), transcript variant X10, mRNA",197.422,18 / 21,|| ||||||||||  ||||||,0,13
-3_rev,gi|1907126050|ref|XM_006524892.5|,"PREDICTED: Mus musculus protein phosphatase 4, regulatory subunit 1 (Ppp4r1), transcript variant X7, mRNA",197.422,18 / 21,|||||||| |||||  |||||,0,14
-3_rev,gi|2227368211|ref|NM_001305190.2|,"Mus musculus pleckstrin homology domain containing, family A member 7 (Plekha7), transcript variant 5, mRNA",197.422,18 / 21,|| ||||||||||  ||||||,0,13
-3_rev,gi|1907126048|ref|XM_006524891.5|,"PREDICTED: Mus musculus protein phosphatase 4, regulatory subunit 1 (Ppp4r1), transcript variant X6, mRNA",197.422,18 / 21,|||||||| |||||  |||||,0,14
-4_rev,gi|1907171072|ref|XM_017321401.3|,"PREDICTED: Mus musculus hexokinase 2 (Hk2), transcript variant X1, mRNA",197.422,18 / 21,|||||| |||  |||||||||,0,10
-15_rev,gi|1907158118|ref|XR_881138.3|,"PREDICTED: Mus musculus predicted gene, 29883 (Gm29883), transcript variant X1, ncRNA",16.2036,19 / 21,||||||||  |||||||||||,1,9
-17_rev,gi|1907158118|ref|XR_881138.3|,"PREDICTED: Mus musculus predicted gene, 29883 (Gm29883), transcript variant X1, ncRNA",16.2036,19 / 21,||||||||  |||||||||||,1,9
+10_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2097,19 / 21,|||| ||||||||| ||||||,0,4
+1_rev,gi|1447727817|ref|NM_008427.5|,"Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), mRNA",197.509,17 / 19,||||||||||| | |||||,0,11
+1_rev,gi|1907110326|ref|XM_006520488.4|,"PREDICTED: Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), transcript variant X3, mRNA",197.509,17 / 19,||||||||||| | |||||,0,11
+4_rev,gi|1907171074|ref|XM_036165880.1|,"PREDICTED: Mus musculus hexokinase 2 (Hk2), transcript variant X2, mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
+4_rev,gi|2275452373|ref|NM_013820.4|,"Mus musculus hexokinase 2 (Hk2), mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
+4_rev,gi|1907171072|ref|XM_017321401.3|,"PREDICTED: Mus musculus hexokinase 2 (Hk2), transcript variant X1, mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
+14_rev,gi|1907158118|ref|XR_881138.3|,"PREDICTED: Mus musculus predicted gene, 29883 (Gm29883), transcript variant X1, ncRNA",16.2097,19 / 21,||||||||  |||||||||||,1,9

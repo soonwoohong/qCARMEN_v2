@@ -1,19 +1,50 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-2_fwd,gi|260274389|ref|NM_177175.4|,"Mus musculus transmembrane protein 215 (Tmem215), transcript variant 1, mRNA",56.5608,19 / 22,||||| |||||||||  |||||,0,15
-30_fwd,gi|1907106783|ref|XR_383260.4|,"PREDICTED: Mus musculus predicted gene, 31720 (Gm31720), ncRNA",16.2049,19 / 21,||||| |||||| ||||||||,0,5
-31_fwd,gi|1907106783|ref|XR_383260.4|,"PREDICTED: Mus musculus predicted gene, 31720 (Gm31720), ncRNA",16.2049,19 / 21,||||| |||||| ||||||||,0,5
-2_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
-2_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
-2_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
-2_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",16.2066,18 / 19,|||||||||||| ||||||,0,12
-3_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",56.5725,17 / 18,||||||||||| ||||||,0,11
-3_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",56.5725,17 / 18,||||||||||| ||||||,0,11
-3_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",56.5725,17 / 18,||||||||||| ||||||,0,11
-3_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",56.5725,17 / 18,||||||||||| ||||||,0,11
-7_rev,gi|1720411268|ref|XR_003955364.1|,"PREDICTED: Mus musculus predicted gene, 32823 (Gm32823), transcript variant X2, ncRNA",16.2049,19 / 21,|||||||||||  ||||||||,0,11
-8_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",56.5667,18 / 20,||||| ||||||| ||||||,0,13
-8_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",56.5667,18 / 20,||||| ||||||| ||||||,0,13
-9_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",16.2049,19 / 21,|||||| ||||||| ||||||,0,14
-9_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",16.2049,19 / 21,|||||| ||||||| ||||||,0,14
-10_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",16.2049,19 / 21,||||||| ||||||| |||||,0,15
-10_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",16.2049,19 / 21,||||||| ||||||| |||||,0,15
+8_fwd,gi|260274389|ref|NM_177175.4|,"Mus musculus transmembrane protein 215 (Tmem215), transcript variant 1, mRNA",56.5526,19 / 22,||||| |||||||||  |||||,0,15
+14_fwd,gi|2719985444|ref|NR_190737.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 7, non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719985444|ref|NR_190737.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 7, non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1907077418|ref|XR_380431.5|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X3, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1907077418|ref|XR_380431.5|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X3, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1907077487|ref|XR_004936261.1|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X12, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1907077487|ref|XR_004936261.1|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X12, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984221|ref|NM_001429479.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 4, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984221|ref|NM_001429479.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 4, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1907077479|ref|XR_003948786.2|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X11, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1907077479|ref|XR_003948786.2|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X11, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984954|ref|NM_030114.3|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 1, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984954|ref|NM_030114.3|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 1, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1720362028|ref|XM_006513986.4|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X2, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1720362028|ref|XM_006513986.4|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X2, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719985458|ref|NR_190738.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 8, non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719985458|ref|NR_190738.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 8, non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1820344492|ref|NR_166111.1|,"Mus musculus RIKEN cDNA 1700120B22 gene (1700120B22Rik), long non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1820344492|ref|NR_166111.1|,"Mus musculus RIKEN cDNA 1700120B22 gene (1700120B22Rik), long non-coding RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984401|ref|NM_001429481.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 6, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984401|ref|NM_001429481.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 6, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984523|ref|NM_001359484.2|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 3, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984523|ref|NM_001359484.2|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 3, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984229|ref|NM_026101.5|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 2, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984229|ref|NM_026101.5|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 2, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|2719984769|ref|NM_001429480.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 5, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|2719984769|ref|NM_001429480.1|,"Mus musculus hect domain and RLD 4 (Herc4), transcript variant 5, mRNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1907077463|ref|XR_004936260.1|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X9, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+19_fwd,gi|1907077463|ref|XR_004936260.1|,"PREDICTED: Mus musculus hect domain and RLD 4 (Herc4), transcript variant X9, misc_RNA",56.5653,17 / 18,||||| ||||||||||||,0,5
+14_fwd,gi|1907091433|ref|XR_381949.5|,"PREDICTED: Mus musculus predicted gene, 35558 (Gm35558), transcript variant X1, ncRNA",197.432,17 / 19,||||| | |||||||||||,0,7
+19_fwd,gi|1907091433|ref|XR_381949.5|,"PREDICTED: Mus musculus predicted gene, 35558 (Gm35558), transcript variant X1, ncRNA",197.432,17 / 19,||||| | |||||||||||,0,7
+14_fwd,gi|1907091436|ref|XR_381950.5|,"PREDICTED: Mus musculus predicted gene, 35558 (Gm35558), transcript variant X2, ncRNA",197.432,17 / 19,||||| | |||||||||||,0,7
+19_fwd,gi|1907091436|ref|XR_381950.5|,"PREDICTED: Mus musculus predicted gene, 35558 (Gm35558), transcript variant X2, ncRNA",197.432,17 / 19,||||| | |||||||||||,0,7
+15_fwd,gi|2464178095|ref|NR_184829.1|,"Mus musculus polymerase (DNA-directed), delta interacting protein 2 (Poldip2), transcript variant 2, non-coding RNA",197.432,17 / 19,|||||||||| ||| ||||,0,14
+15_fwd,gi|2464170511|ref|NM_026389.4|,"Mus musculus polymerase (DNA-directed), delta interacting protein 2 (Poldip2), transcript variant 1, mRNA",197.432,17 / 19,|||||||||| ||| ||||,0,14
+15_fwd,gi|2464177777|ref|NR_184830.1|,"Mus musculus polymerase (DNA-directed), delta interacting protein 2 (Poldip2), transcript variant 3, non-coding RNA",197.432,17 / 19,|||||||||| ||| ||||,0,14
+8_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",16.2062,18 / 19,|||||||||||| ||||||,0,12
+8_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",16.2062,18 / 19,|||||||||||| ||||||,0,12
+8_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",16.2062,18 / 19,|||||||||||| ||||||,0,12
+8_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",16.2062,18 / 19,|||||||||||| ||||||,0,12
+9_rev,gi|1907067751|ref|XM_011247940.4|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X2, mRNA",56.5653,17 / 18,||||||||||| ||||||,0,11
+9_rev,gi|1907067750|ref|XR_001783189.3|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X1, misc_RNA",56.5653,17 / 18,||||||||||| ||||||,0,11
+9_rev,gi|1907067752|ref|XR_387152.5|,"PREDICTED: Mus musculus cyclin dependent kinase 18 (Cdk18), transcript variant X3, misc_RNA",56.5653,17 / 18,||||||||||| ||||||,0,11
+9_rev,gi|162417989|ref|NM_008795.2|,"Mus musculus cyclin dependent kinase 18 (Cdk18), mRNA",56.5653,17 / 18,||||||||||| ||||||,0,11
+27_rev,gi|1720411268|ref|XR_003955364.1|,"PREDICTED: Mus musculus predicted gene, 32823 (Gm32823), transcript variant X2, ncRNA",16.2026,19 / 21,|||||||||||  ||||||||,0,11
+28_rev,gi|1907187421|ref|XM_030243305.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X2, mRNA",56.559,18 / 20,||||| ||||||| ||||||,0,13
+28_rev,gi|1907187423|ref|XM_017312580.2|,"PREDICTED: Mus musculus interferon regulatory factor 2 (Irf2), transcript variant X3, mRNA",56.559,18 / 20,||||| ||||||| ||||||,0,13
+34_rev,gi|2324175248|ref|NM_001281954.2|,"Mus musculus cytotoxic and regulatory T cell molecule (Crtam), transcript variant 1, mRNA",56.5526,20 / 22,|||||||| |||||||| ||||,0,8
+36_rev,gi|2324175248|ref|NM_001281954.2|,"Mus musculus cytotoxic and regulatory T cell molecule (Crtam), transcript variant 1, mRNA",56.5526,20 / 22,|||||||| |||||||| ||||,0,8

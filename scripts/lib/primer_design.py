@@ -82,8 +82,8 @@ class CommonPrimerDesign:
             'PRIMER_MAX_TM': 64.0,
             'PRIMER_OPT_TM': 61,
             'PRIMER_MAX_TM_DIFF': 1.5,
-            'PRIMER_MIN_GC': 0.4,
-            'PRIMER_MAX_GC': 0.6,
+            'PRIMER_MIN_GC': 0.3,
+            'PRIMER_MAX_GC': 0.7,
             'PRIMER_PRODUCT_MIN': 70,
             'PRIMER_PRODUCT_MAX': 1000,
             'DESIRED_AMPLICON_LENGTH': 300,
@@ -225,6 +225,7 @@ class CommonPrimerDesign:
 
         Tm_min = self.default_params['PRIMER_MIN_TM']
         Tm_max = self.default_params['PRIMER_MAX_TM']
+        Tm_opt = self.default_params['PRIMER_OPT_TM']
         Tm_max_diff = self.default_params['PRIMER_MAX_TM_DIFF']
 
         desired_amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
@@ -253,6 +254,9 @@ class CommonPrimerDesign:
             # [-----exon1----]--[-----exon2-----]
             #        {-----fwd-----}
             #        <overlap>
+
+            temp_primers_A = []
+
             try:
                 conserved_down_seq, down_start, down_end, down_identity = self._find_conserved_regions_around_junction(val_junction, isoforms)['downstream']
             except:
@@ -286,30 +290,53 @@ class CommonPrimerDesign:
                                 #                                   (rev_end_pos)
                                 # <------------------------------------> amplicon length
 
-                                amplicon_length = min(desired_amplicon_length, down_end+overlap)
-                                for rev_primer_len in range(min_len, max_len + 1):
-                                    rev_end = amplicon_length - overlap
-                                    rev_start = rev_end - rev_primer_len
-                                    if rev_start >= 0 and rev_end < down_end:
-                                        rev_seq = conserved_down_seq[rev_start:rev_end]
-                                        rev_primer_tm = primer3.calc_tm(rev_seq)
-                                        rev_gc = gc_fraction(rev_seq)
-                                        tm_diff = abs(rev_primer_tm - fwd_primer_tm)
-                                        if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC and tm_diff <= Tm_max_diff:
-                                            rev_seq = Seq(rev_seq).reverse_complement()
-                                            amplicon_seq = fwd_seq[:overlap]+conserved_down_seq[:rev_end]
-                                            primers_A.append(
-                                                PrimerPair(
-                                                    gene,
-                                                    fwd_seq,
-                                                    str(rev_seq).upper(),
-                                                    fwd_primer_tm,
-                                                    rev_primer_tm,
-                                                    fwd_gc*100,
-                                                    rev_gc*100,
-                                                    amplicon_seq,
-                                                    amplicon_length,
-                                                    primer_class=1))
+                                #amplicon_length = min(desired_amplicon_length, down_end+overlap)
+                                target_amplicon_length = min(desired_amplicon_length, down_end + overlap)
+                                for amplicon_length in range(target_amplicon_length-10, target_amplicon_length+10):
+                                    for rev_primer_len in range(min_len, max_len + 1):
+                                        rev_end = amplicon_length - overlap
+                                        rev_start = rev_end - rev_primer_len
+                                        if rev_start >= 0 and rev_end < down_end:
+                                            rev_seq = conserved_down_seq[rev_start:rev_end]
+                                            rev_primer_tm = primer3.calc_tm(rev_seq)
+                                            rev_gc = gc_fraction(rev_seq)
+                                            tm_diff = abs(rev_primer_tm - fwd_primer_tm)
+                                            if Tm_min <= rev_primer_tm <= Tm_max and min_GC <= rev_gc <= max_GC and tm_diff <= Tm_max_diff:
+                                                rev_seq = Seq(rev_seq).reverse_complement()
+                                                amplicon_seq = fwd_seq[:overlap]+conserved_down_seq[:rev_end]
+                                                temp_primers_A.append(
+                                                    PrimerPair(gene,
+                                                        fwd_seq,
+                                                        str(rev_seq).upper(),
+                                                        fwd_primer_tm,
+                                                        rev_primer_tm,
+                                                        fwd_gc*100,
+                                                        rev_gc*100,
+                                                        amplicon_seq,
+                                                        amplicon_length,
+                                                        primer_class=1))
+
+            # Option A
+            # sort them by the difference between their melting temp and the optimal melting temp.
+            """
+            temp_primers_A_sorted = sorted(
+                temp_primers_A,
+                key=lambda x: abs(x.forward_tm-Tm_opt)+abs(x.reverse_tm-Tm_opt)
+                )
+            """
+            # Option B
+            # sort them by the difference between their amplicon length and the optimal amplicon length.
+            temp_primers_A_sorted = sorted(
+                temp_primers_A,
+                key=lambda x: abs(x.amplicon_len - desired_amplicon_length)
+            )
+            # pick only top 5 and add them to the final list
+            if len(temp_primers_A_sorted)>0:
+                for i in range(min(len(temp_primers_A_sorted), 5)):
+                    primers_A.append(temp_primers_A_sorted[i])
+
+
+
 
         # Case 2: num_junctions >= 1, rev primer on junction / fwd primer on conserved regions
 
@@ -320,6 +347,8 @@ class CommonPrimerDesign:
             # [-----exon1----]--[-----exon2-----]
             #        {-----rev------------}
             #                    <overlap>
+            temp_primers_B = []
+
             try:
                 conserved_up_seq, up_start, up_end, up_identity = self._find_conserved_regions_around_junction(val_junction, isoforms)['upstream']
             except:
@@ -350,31 +379,53 @@ class CommonPrimerDesign:
                    ^ (fwd_start_pos)
                     <--------------------------------------> amplicon length
                                 """
-                                amplicon_length = min(desired_amplicon_length, up_end+overlap)
-                                for fwd_primer_len in range(min_len, max_len+1):
-                                    # fwd_primer will be upstream_seq[-fwd_start:-fwd_end]
-                                    # position on upstream_seq (backward)
-                                    fwd_start = amplicon_length - overlap
-                                    fwd_end = fwd_start - fwd_primer_len
-                                    if fwd_start >= 0 and fwd_end < up_end:
-                                        fwd_seq = conserved_up_seq[-fwd_start:-fwd_end]
-                                        fwd_primer_tm = primer3.calc_tm(fwd_seq)
-                                        fwd_gc = gc_fraction(fwd_seq)
-                                        tm_diff = abs(fwd_primer_tm - rev_primer_tm)
-                                        if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC and tm_diff <= Tm_max_diff:
-                                            amplicon_seq = conserved_up_seq[-fwd_start:]+overlap_seq
-                                            primers_B.append(
-                                                PrimerPair(gene,
-                                                    fwd_seq,
-                                                    str(rev_seq).upper(),
-                                                    fwd_primer_tm,
-                                                    rev_primer_tm,
-                                                    fwd_gc*100,
-                                                    rev_gc*100,
-                                                    amplicon_seq,
-                                                    amplicon_length,
-                                                    primer_class=2))
+                                #amplicon_length = min(desired_amplicon_length, up_end+overlap)
+                                target_amplicon_length = min(desired_amplicon_length, up_end + overlap)
+                                for amplicon_length in range(target_amplicon_length - 10, target_amplicon_length + 10):
+                                    for fwd_primer_len in range(min_len, max_len+1):
+                                        # fwd_primer will be upstream_seq[-fwd_start:-fwd_end]
+                                        # position on upstream_seq (backward)
+                                        fwd_start = amplicon_length - overlap
+                                        fwd_end = fwd_start - fwd_primer_len
+                                        if fwd_start >= 0 and fwd_end < up_end:
+                                            fwd_seq = conserved_up_seq[-fwd_start:-fwd_end]
+                                            fwd_primer_tm = primer3.calc_tm(fwd_seq)
+                                            fwd_gc = gc_fraction(fwd_seq)
+                                            tm_diff = abs(fwd_primer_tm - rev_primer_tm)
+                                            if Tm_min <= fwd_primer_tm <= Tm_max and min_GC <= fwd_gc <= max_GC and tm_diff <= Tm_max_diff:
+                                                amplicon_seq = conserved_up_seq[-fwd_start:]+overlap_seq
+                                                temp_primers_B.append(
+                                                    PrimerPair(gene,
+                                                        fwd_seq,
+                                                        str(rev_seq).upper(),
+                                                        fwd_primer_tm,
+                                                        rev_primer_tm,
+                                                        fwd_gc*100,
+                                                        rev_gc*100,
+                                                        amplicon_seq,
+                                                        amplicon_length,
+                                                        primer_class=2))
 
+            # Option A
+            # sort them by the difference between their melting temp and the optimal melting temp.
+            """
+            temp_primers_B_sorted = sorted(
+                temp_primers_B,
+                key=lambda x: abs(x.forward_tm - Tm_opt) + abs(x.reverse_tm - Tm_opt)
+            )
+            """
+
+            # Option B
+            # sort them by the difference between their amplicon length and the optimal amplicon length.
+            temp_primers_B_sorted = sorted(
+                temp_primers_B,
+                key=lambda x: abs(x.amplicon_len - desired_amplicon_length)
+            )
+
+            # pick only top 5 per junction and add them to the final list
+            if len(temp_primers_B_sorted) > 0:
+                for i in range(min(len(temp_primers_B_sorted), 5)):
+                    primers_B.append(temp_primers_B_sorted[i])
 
                                 #            upstream seq
                                 #  ----------------------------> <junction>
@@ -516,7 +567,7 @@ class CommonPrimerDesign:
                 'PRIMER_MIN_GC': self.default_params['PRIMER_MIN_GC']*100,
                 'PRIMER_MAX_GC': self.default_params['PRIMER_MAX_GC']*100,
                 'PRIMER_PRODUCT_SIZE_RANGE': [[int(opt_size*0.85), int(opt_size)*1.15]],
-                'PRIMER_NUM_RETURN': self.default_params['PRIMER_NUM_RETURN']*2,
+                'PRIMER_NUM_RETURN': self.default_params['PRIMER_NUM_RETURN'],
 
             }
 

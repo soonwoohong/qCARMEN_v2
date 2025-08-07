@@ -1,605 +1,351 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-4_fwd,gi|1907143832|ref|XR_003953740.2|,"PREDICTED: Mus musculus uridine phosphorylase 2 (Upp2), transcript variant X13, misc_RNA",197.311,18 / 21,||||||   ||||||||||||,0,6
-5_fwd,gi|1907143832|ref|XR_003953740.2|,"PREDICTED: Mus musculus uridine phosphorylase 2 (Upp2), transcript variant X13, misc_RNA",197.28,18 / 21,||||||   ||||||||||||,1,7
-7_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-7_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-8_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-8_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-9_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-9_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-9_fwd,gi|2897351010|ref|NM_001436131.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 7, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897350997|ref|NM_001037136.2|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 2, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897350988|ref|NM_001436130.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 6, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897351002|ref|NM_001436128.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 4, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897351008|ref|NM_001436129.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 5, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897351013|ref|NM_001436132.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 8, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897350990|ref|NM_001436127.1|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 3, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-9_fwd,gi|2897351016|ref|NM_178119.4|,"Mus musculus ArfGAP with GTPase domain, ankyrin repeat and PH domain 1 (Agap1), transcript variant 1, mRNA",56.5217,18 / 20,||||| | ||||||||||||,0,5
-10_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-10_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-11_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-11_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-12_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-12_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-13_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-13_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-14_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-14_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-15_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-15_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-16_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-16_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-17_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_fwd,gi|2720899626|ref|NM_001429639.1|,"Mus musculus olfactory receptor family 1 subfamily J member 8 (Or1j8), transcript variant coding, mRNA",56.5217,18 / 20,|||||||||||| || ||||,0,12
-17_fwd,gi|1907189340|ref|XM_011248388.4|,"PREDICTED: Mus musculus disrupted in schizophrenia 1 (Disc1), transcript variant X2, mRNA",56.5217,18 / 20,||||||| |||||| |||||,0,14
-17_fwd,gi|2720990187|ref|NR_190753.1|,"Mus musculus olfactory receptor family 1 subfamily J member 8 (Or1j8), transcript variant non-coding, non-coding RNA",56.5217,18 / 20,|||||||||||| || ||||,0,12
-18_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,||||||||||||||| ||||,0,20
-19_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,||||||||||||||| ||||,0,20
-18_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.380782,19 / 20,||||||||||||||| ||||,0,20
-19_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.380782,19 / 20,||||||||||||||| ||||,0,20
-18_fwd,gi|755518181|ref|XR_140771.3|,"PREDICTED: Mus musculus predicted gene, 19665 (Gm19665), misc_RNA",16.1913,19 / 21,||||||||||| || ||||||,0,11
-19_fwd,gi|755518181|ref|XR_140771.3|,"PREDICTED: Mus musculus predicted gene, 19665 (Gm19665), misc_RNA",16.1913,19 / 21,||||||||||| || ||||||,0,11
-20_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-24_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-20_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-24_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-22_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-23_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-27_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-30_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-21_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-22_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-23_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-27_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-30_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-21_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-22_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-23_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-27_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-30_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-21_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-22_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-23_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-27_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-30_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||| ||||||| ||,0,10
-25_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-26_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-25_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,||| ||||||||||||||||,0,20
-26_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,||| ||||||||||||||||,0,20
-25_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-26_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-25_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-26_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-25_fwd,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-26_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-25_fwd,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-26_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,||||||||||||| ||||||,0,20
-25_fwd,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-26_fwd,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-25_fwd,gi|1907100729|ref|XM_006518881.5|,"PREDICTED: Mus musculus X-linked Kx blood group related 6 (Xkr6), transcript variant X4, mRNA",197.25,19 / 21,||||||||||| ||| |||||,1,12
-26_fwd,gi|1907100729|ref|XM_006518881.5|,"PREDICTED: Mus musculus X-linked Kx blood group related 6 (Xkr6), transcript variant X4, mRNA",197.25,19 / 21,||||||||||| ||| |||||,1,12
-31_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-32_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-32_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-32_fwd,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.1913,19 / 21,||||||||  |||||||||||,1,9
-32_fwd,gi|255522818|ref|NM_001163848.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522820|ref|NM_001163849.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 3, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.1913,19 / 21,|||| ||||||||| ||||||,0,14
-32_fwd,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.1913,19 / 21,|||| ||||||||| ||||||,0,14
-32_fwd,gi|255522816|ref|NM_001163847.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522824|ref|NM_001163850.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 5, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522826|ref|NM_001163851.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 6, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522830|ref|NM_001163853.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 8, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522822|ref|NM_173186.4|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 4, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-32_fwd,gi|255522828|ref|NM_001163852.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 7, mRNA",16.1913,19 / 21,|||||||||||| ||||| ||,0,12
-33_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-33_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-33_fwd,gi|226874928|ref|NM_145606.3|,"Mus musculus charged multivesicular body protein 1A (Chmp1a), mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-33_fwd,gi|1720419113|ref|XM_030255666.1|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X2, mRNA",4.63888,19 / 20,||||||||||| ||||||||,0,11
-33_fwd,gi|902763189|ref|NM_001311087.1|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 2, mRNA",4.63888,19 / 20,||||||||||| ||||||||,0,11
-33_fwd,gi|1907173884|ref|XM_017321829.2|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X1, mRNA",4.63888,19 / 20,||||||||||| ||||||||,0,11
-33_fwd,gi|902763199|ref|NM_029742.3|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 1, mRNA",4.63888,19 / 20,||||||||||| ||||||||,0,11
-33_fwd,gi|1907115146|ref|XR_384473.3|,"PREDICTED: Mus musculus predicted gene, 36510 (Gm36510), ncRNA",16.1913,19 / 21,|||| |||| |||||||||||,0,4
-34_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-34_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-34_fwd,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.1913,19 / 21,||||||||  |||||||||||,0,8
-34_fwd,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.1913,19 / 21,||| ||||||||| |||||||,0,13
-34_fwd,gi|324710985|ref|NM_010295.2|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 1, mRNA",16.1913,19 / 21,|||||| |||||||||| |||,0,6
-34_fwd,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.1913,19 / 21,||| ||||||||| |||||||,0,13
-34_fwd,gi|1274096300|ref|NR_151778.1|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 2, non-coding RNA",16.1913,19 / 21,|||||| |||||||||| |||,0,6
-34_fwd,gi|1907194956|ref|XM_006510812.2|,"PREDICTED: Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant X1, mRNA",16.1913,19 / 21,|||||| |||||||||| |||,0,6
-35_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-37_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-37_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_fwd,gi|1720409249|ref|XM_006538072.4|,"PREDICTED: Mus musculus regulator of G-protein signaling 3 (Rgs3), transcript variant X14, mRNA",56.5131,19 / 22,||||||   |||||||||||||,0,6
-37_fwd,gi|1720409249|ref|XM_006538072.4|,"PREDICTED: Mus musculus regulator of G-protein signaling 3 (Rgs3), transcript variant X14, mRNA",56.5131,19 / 22,||||||   |||||||||||||,0,6
-36_fwd,gi|1907156539|ref|XM_017320308.3|,"PREDICTED: Mus musculus regulator of G-protein signaling 3 (Rgs3), transcript variant X13, mRNA",56.5131,19 / 22,||||||   |||||||||||||,0,6
-37_fwd,gi|1907156539|ref|XM_017320308.3|,"PREDICTED: Mus musculus regulator of G-protein signaling 3 (Rgs3), transcript variant X13, mRNA",56.5131,19 / 22,||||||   |||||||||||||,0,6
-0_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.380782,19 / 20,||||||||||||||||| ||,0,20
-0_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.380782,19 / 20,||||||||||||||||| ||,0,20
-1_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.380782,19 / 20,|||||||||||||||| |||,0,20
-1_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.380782,19 / 20,|||||||||||||||| |||,0,20
-1_rev,gi|2482564341|ref|XR_008604648.1|,"PREDICTED: Mus musculus RIKEN cDNA 1700007E05 gene (1700007E05Rik), misc_RNA",16.1913,19 / 21,|||||| || |||||||||||,0,9
-2_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-2_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.109079,20 / 21,||||||||||||||| |||||,0,21
-2_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.109079,20 / 21,||||||||||||||| |||||,0,21
-3_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-3_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.380782,19 / 20,|||||||||||||| |||||,0,20
-3_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.380782,19 / 20,|||||||||||||| |||||,0,20
-4_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|1907158519|ref|XR_004942218.1|,"PREDICTED: Mus musculus predicted gene, 34074 (Gm34074), transcript variant X2, ncRNA",1.32926,18 / 19,|||||||| ||||||||||,0,19
-4_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-4_rev,gi|1907158521|ref|XR_004942219.1|,"PREDICTED: Mus musculus predicted gene, 34074 (Gm34074), transcript variant X4, ncRNA",1.32926,18 / 19,|||||||| ||||||||||,0,19
-4_rev,gi|1907158518|ref|XR_004942217.1|,"PREDICTED: Mus musculus predicted gene, 34074 (Gm34074), transcript variant X1, ncRNA",1.32926,18 / 19,|||||||| ||||||||||,0,19
-4_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-5_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|1907186403|ref|XR_004934746.1|,"PREDICTED: Mus musculus glutamic pyruvate transaminase (alanine aminotransferase) 2 (Gpt2), transcript variant X3, misc_RNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-5_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",1.32926,18 / 19,|||||||||||| ||||||,0,19
-5_rev,gi|1907186398|ref|XM_036153711.1|,"PREDICTED: Mus musculus glutamic pyruvate transaminase (alanine aminotransferase) 2 (Gpt2), transcript variant X1, mRNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-5_rev,gi|1402371358|ref|NM_173866.4|,"Mus musculus glutamic pyruvate transaminase (alanine aminotransferase) 2 (Gpt2), mRNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-5_rev,gi|1907186401|ref|XM_006530559.4|,"PREDICTED: Mus musculus glutamic pyruvate transaminase (alanine aminotransferase) 2 (Gpt2), transcript variant X2, mRNA",1.32926,18 / 19,||||||||||||| |||||,0,19
-5_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",1.32926,18 / 19,|||||||||||| ||||||,0,19
-5_rev,gi|1720388510|ref|XR_875902.2|,"PREDICTED: Mus musculus predicted gene 15558 (Gm15558), transcript variant X1, ncRNA",56.5217,18 / 20,|||||||  |||||||||||,1,8
-5_rev,gi|1720388512|ref|XR_875903.2|,"PREDICTED: Mus musculus predicted gene 15558 (Gm15558), transcript variant X3, ncRNA",56.5217,18 / 20,|||||||  |||||||||||,1,8
-5_rev,gi|1720388511|ref|XR_384655.3|,"PREDICTED: Mus musculus predicted gene 15558 (Gm15558), transcript variant X2, ncRNA",56.5217,18 / 20,|||||||  |||||||||||,1,8
-6_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-6_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.109079,20 / 21,||||||||||| |||||||||,0,21
-6_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.109079,20 / 21,||||||||||| |||||||||,0,21
-7_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-7_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0025653,21 / 21,|||||||||||||||||||||,0,21
-8_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|||||||| |||||||||||,0,20
-8_rev,gi|2289229281|ref|NR_177236.1|,"Mus musculus alpha-methylacyl-CoA racemase (Amacr), transcript variant 2, non-coding RNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-8_rev,gi|2289229269|ref|NM_008537.5|,"Mus musculus alpha-methylacyl-CoA racemase (Amacr), transcript variant 1, mRNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-9_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-9_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-9_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-9_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-9_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-9_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-9_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-9_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-10_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-10_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-10_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-10_rev,gi|1907083477|ref|XM_006534399.5|,"PREDICTED: Mus musculus testicular cell adhesion molecule 1 (Tcam1), transcript variant X1, mRNA",16.1913,19 / 21,||||||||||||  |||||||,1,13
-11_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-11_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-12_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-12_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109129,18 / 18,||||||||||||||||||,0,18
-13_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-13_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-14_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.000734857,22 / 22,||||||||||||||||||||||,0,22
-14_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.000734857,22 / 22,||||||||||||||||||||||,0,22
-15_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",6.03022e-05,24 / 24,||||||||||||||||||||||||,0,24
-15_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",6.03022e-05,24 / 24,||||||||||||||||||||||||,0,24
-16_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",6.03022e-05,24 / 24,||||||||||||||||||||||||,0,24
-16_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",6.03022e-05,24 / 24,||||||||||||||||||||||||,0,24
-17_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.0312613,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|2697889989|ref|NM_001428492.1|,"Mus musculus gamma-glutamyltransferase 1 (Ggt1), transcript variant 10, mRNA",56.5217,18 / 20,|||| || ||||||||||||,0,7
-17_rev,gi|2697889988|ref|NM_001305992.2|,"Mus musculus gamma-glutamyltransferase 1 (Ggt1), transcript variant 2, mRNA",56.5217,18 / 20,|||| || ||||||||||||,0,7
-18_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-28_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-18_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-28_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-19_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-29_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-19_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,|||||||||||||||| |||,0,20
-29_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.380782,19 / 20,|||||||||||||||| |||,0,20
-19_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-29_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-19_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-29_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-19_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-29_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-19_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-29_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-19_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-29_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-19_rev,gi|1907100729|ref|XM_006518881.5|,"PREDICTED: Mus musculus X-linked Kx blood group related 6 (Xkr6), transcript variant X4, mRNA",197.25,19 / 21,||||| ||| |||||||||||,0,5
-29_rev,gi|1907100729|ref|XM_006518881.5|,"PREDICTED: Mus musculus X-linked Kx blood group related 6 (Xkr6), transcript variant X4, mRNA",197.25,19 / 21,||||| ||| |||||||||||,0,5
-20_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-20_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-21_rev,gi|226874928|ref|NM_145606.3|,"Mus musculus charged multivesicular body protein 1A (Chmp1a), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-21_rev,gi|1720419113|ref|XM_030255666.1|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X2, mRNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-21_rev,gi|902763189|ref|NM_001311087.1|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 2, mRNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-21_rev,gi|1907173884|ref|XM_017321829.2|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X1, mRNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-21_rev,gi|902763199|ref|NM_029742.3|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 1, mRNA",4.63888,19 / 20,|||||||| |||||||||||,0,8
-21_rev,gi|1907115146|ref|XR_384473.3|,"PREDICTED: Mus musculus predicted gene, 36510 (Gm36510), ncRNA",16.1913,19 / 21,||||||||||| |||| ||||,0,16
-22_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-22_rev,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,0,11
-22_rev,gi|255522818|ref|NM_001163848.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 2, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522820|ref|NM_001163849.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 3, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.1913,19 / 21,|||||| ||||||||| ||||,0,6
-22_rev,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.1913,19 / 21,|||||| ||||||||| ||||,0,6
-22_rev,gi|255522816|ref|NM_001163847.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 1, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522824|ref|NM_001163850.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 5, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522826|ref|NM_001163851.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 6, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522830|ref|NM_001163853.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 8, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522822|ref|NM_173186.4|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 4, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-22_rev,gi|255522828|ref|NM_001163852.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 7, mRNA",16.1913,19 / 21,|| ||||| ||||||||||||,0,8
-23_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-23_rev,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.1913,19 / 21,|||||||||||  ||||||||,1,12
-23_rev,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.1913,19 / 21,||||||| ||||||||| |||,0,7
-23_rev,gi|324710985|ref|NM_010295.2|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 1, mRNA",16.1913,19 / 21,||| |||||||||| ||||||,0,14
-23_rev,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.1913,19 / 21,||||||| ||||||||| |||,0,7
-23_rev,gi|1274096300|ref|NR_151778.1|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 2, non-coding RNA",16.1913,19 / 21,||| |||||||||| ||||||,0,14
-23_rev,gi|1907194956|ref|XM_006510812.2|,"PREDICTED: Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant X1, mRNA",16.1913,19 / 21,||| |||||||||| ||||||,0,14
-24_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-25_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-24_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-25_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-24_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-24_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-25_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-26_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-26_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-26_rev,gi|1720387381|ref|XM_006522364.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X8, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387388|ref|XR_001781844.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X18, misc_RNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387403|ref|XM_017317074.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X33, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118539|ref|XM_036160014.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X4, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387383|ref|XM_011245957.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X10, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387389|ref|XM_011245963.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X19, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387377|ref|XM_011245953.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X3, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387385|ref|XM_011245960.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X14, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118667|ref|XM_036160017.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X21, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118704|ref|XM_036160020.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X26, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387386|ref|XM_011245961.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X15, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118722|ref|XM_036160021.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X30, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387398|ref|XM_017317073.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X29, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118759|ref|XM_011245968.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X37, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387382|ref|XM_011245956.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X9, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387401|ref|XM_030249192.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X32, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118702|ref|XM_017317072.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X25, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387391|ref|XM_011245965.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X23, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387418|ref|XM_006522386.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X48, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387395|ref|XM_011245967.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X27, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118677|ref|XM_036160019.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X22, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118790|ref|XM_017317076.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X41, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387376|ref|XM_011245952.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X2, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118771|ref|XM_006522383.5|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X39, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387392|ref|XM_011245966.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X24, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387387|ref|XM_017317071.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X16, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387399|ref|XM_030249191.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X31, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118635|ref|XM_036160016.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X17, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1907118782|ref|XM_017317075.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X40, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387396|ref|XM_030249190.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X28, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387375|ref|XM_011245951.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X1, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387390|ref|XR_001781845.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X20, misc_RNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-26_rev,gi|1720387384|ref|XM_006522370.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X11, mRNA",56.5131,19 / 22,|||||||||   ||||||||||,1,10
-27_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-27_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.0312565,19 / 19,|||||||||||||||||||,0,19
-27_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.0312565,19 / 19,|||||||||||||||||||,0,19
-27_rev,gi|1907093720|ref|XM_006516479.3|,"PREDICTED: Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant X1, mRNA",0.380782,19 / 20,||||||||| ||||||||||,0,20
-27_rev,gi|2633575833|ref|NM_001426388.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 2, mRNA",0.380782,19 / 20,||||||||| ||||||||||,0,20
-27_rev,gi|2633575890|ref|NM_001426389.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 3, mRNA",0.380782,19 / 20,||||||||| ||||||||||,0,20
-27_rev,gi|224809299|ref|NM_001033879.3|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 1, mRNA",0.380782,19 / 20,||||||||| ||||||||||,0,20
-27_rev,gi|2633575892|ref|NM_001426391.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 4, mRNA",0.380782,19 / 20,||||||||| ||||||||||,0,20
-30_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-30_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-30_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.380782,19 / 20,|| |||||||||||||||||,0,20
-30_rev,gi|2284970932|ref|NM_001410637.1|,"Mus musculus UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1 (B3galnt1), transcript variant 2, mRNA",16.1913,19 / 21,||||| ||||||||| |||||,0,5
-30_rev,gi|2284975696|ref|NM_001410638.1|,"Mus musculus UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1 (B3galnt1), transcript variant 3, mRNA",16.1913,19 / 21,||||| ||||||||| |||||,0,5
-30_rev,gi|1907150775|ref|XM_036163123.1|,"PREDICTED: Mus musculus UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1 (B3galnt1), transcript variant X2, mRNA",16.1913,19 / 21,||||| ||||||||| |||||,0,5
-30_rev,gi|2284976180|ref|NM_020026.5|,"Mus musculus UDP-GalNAc:betaGlcNAc beta 1,3-galactosaminyltransferase, polypeptide 1 (B3galnt1), transcript variant 1, mRNA",16.1913,19 / 21,||||| ||||||||| |||||,0,5
-31_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-31_rev,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.380782,19 / 20,|||||||||||| |||||||,0,20
-31_rev,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.1913,19 / 21,|| ||||||| ||||||||||,0,10
-31_rev,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.1913,19 / 21,|| ||||||| ||||||||||,0,10
-31_rev,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.1913,19 / 21,|| ||||||| ||||||||||,0,10
-35_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-35_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-36_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-36_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-36_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-36_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,|||||| |||||||||||||,0,20
-36_rev,gi|1820480120|ref|NM_011175.4|,"Mus musculus legumain (Lgmn), transcript variant 1, mRNA",4.63888,19 / 20,|||||| |||||||||||||,1,7
-36_rev,gi|1820480155|ref|NM_001378875.1|,"Mus musculus legumain (Lgmn), transcript variant 2, mRNA",4.63888,19 / 20,|||||| |||||||||||||,1,7
-36_rev,gi|575771778|ref|NM_001289601.1|,"Mus musculus platelet endothelial aggregation receptor 1 (Pear1), transcript variant 6, mRNA",4.63888,19 / 20,||||||||||||||| ||||,0,15
-36_rev,gi|1039766166|ref|XR_880708.2|,"PREDICTED: Mus musculus predicted gene, 42195 (Gm42195), ncRNA",16.1913,19 / 21,|||||||||||| ||| ||||,0,16
-37_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-37_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00895514,20 / 20,||||||||||||||||||||,0,20
-37_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-37_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-37_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
-37_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.380782,19 / 20,||||||| ||||||||||||,0,20
+2_fwd,gi|124486828|ref|NM_001081295.1|,"Mus musculus Rho guanine nucleotide exchange factor 26 (Arhgef26), mRNA",197.429,17 / 19,||||||||||||  |||||,1,13
+3_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.0312814,19 / 19,|||||||||||||||||||,0,19
+3_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.0312814,19 / 19,|||||||||||||||||||,0,19
+4_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+4_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|1907070952|ref|XR_387378.4|,"PREDICTED: Mus musculus predicted gene, 30104 (Gm30104), ncRNA",4.6431,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|1907158511|ref|XR_004942216.1|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X4, ncRNA",56.5645,18 / 20,||||||||||||  ||||||,0,12
+6_fwd,gi|1907158509|ref|XR_881532.2|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X2, ncRNA",56.5645,18 / 20,||||||||||||  ||||||,0,12
+6_fwd,gi|1907158512|ref|XR_881533.2|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X5, ncRNA",56.5645,18 / 20,||||||||||||  ||||||,0,12
+6_fwd,gi|1907158508|ref|XR_001784468.2|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X1, ncRNA",56.5645,18 / 20,||||||||||||  ||||||,0,12
+6_fwd,gi|1907158510|ref|XR_001784469.2|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X3, ncRNA",56.5645,18 / 20,||||||||||||  ||||||,0,12
+7_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|1907070952|ref|XR_387378.4|,"PREDICTED: Mus musculus predicted gene, 30104 (Gm30104), ncRNA",4.6431,17 / 18,|| |||||||||||||||,0,18
+7_fwd,gi|1907158512|ref|XR_881533.2|,"PREDICTED: Mus musculus predicted gene, 33304 (Gm33304), transcript variant X5, ncRNA",197.429,17 / 19,|||||||||||  ||||||,0,11
+7_fwd,gi|2439300178|ref|NM_001416447.1|,"Mus musculus cadherin 11 (Cdh11), transcript variant 2, mRNA",197.429,18 / 21,|||||||   |||||||||||,0,7
+8_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+9_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+8_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+9_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+8_fwd,gi|755518181|ref|XR_140771.3|,"PREDICTED: Mus musculus predicted gene, 19665 (Gm19665), misc_RNA",16.2023,19 / 21,||||||||||| || ||||||,0,11
+9_fwd,gi|755518181|ref|XR_140771.3|,"PREDICTED: Mus musculus predicted gene, 19665 (Gm19665), misc_RNA",16.2023,19 / 21,||||||||||| || ||||||,0,11
+10_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+10_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+14_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+12_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+13_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+17_fwd,gi|114431226|ref|NM_009449.3|,"Mus musculus tubulin, alpha 3B (Tuba3b), mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+11_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+12_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+13_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+17_fwd,gi|239985493|ref|NM_001161798.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+11_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+12_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+13_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+17_fwd,gi|239985495|ref|NR_027809.1|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 3, non-coding RNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+11_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+12_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+13_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+17_fwd,gi|239985492|ref|NM_010840.3|,"Mus musculus methylenetetrahydrofolate reductase (Mthfr), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||| ||||||| ||,0,10
+15_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+16_fwd,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+16_fwd,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+15_fwd,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.381042,19 / 20,||| ||||||||||||||||,0,20
+16_fwd,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.381042,19 / 20,||| ||||||||||||||||,0,20
+15_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+16_fwd,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+15_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+16_fwd,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+15_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+16_fwd,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.381042,19 / 20,||||||||||||| ||||||,0,20
+15_fwd,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+15_fwd,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+16_fwd,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.381042,19 / 20,|||||||||||| |||||||,0,20
+0_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.381042,19 / 20,||||||||||||||||| ||,0,20
+0_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.381042,19 / 20,||||||||||||||||| ||,0,20
+1_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.381042,19 / 20,|||||||||||||||| |||,0,20
+1_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.381042,19 / 20,|||||||||||||||| |||,0,20
+1_rev,gi|2482564341|ref|XR_008604648.1|,"PREDICTED: Mus musculus RIKEN cDNA 1700007E05 gene (1700007E05Rik), misc_RNA",16.2023,19 / 21,|||||| || |||||||||||,0,9
+2_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+2_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+2_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.381042,19 / 20,||||||||||||||| ||||,0,20
+3_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00256715,21 / 21,|||||||||||||||||||||,0,21
+3_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00256715,21 / 21,|||||||||||||||||||||,0,21
+4_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+4_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+5_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+5_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+6_rev,gi|1907123284|ref|XM_036160426.1|,"PREDICTED: Mus musculus SRY (sex determining region Y)-box 8 (Sox8), transcript variant X1, mRNA",4.6431,17 / 18,||||||| ||||||||||,0,18
+6_rev,gi|1907201701|ref|XR_004935794.1|,"PREDICTED: Mus musculus predicted gene, 53527 (Gm53527), ncRNA",4.6431,17 / 18,||||||||||| ||||||,0,18
+6_rev,gi|226958526|ref|NM_011447.3|,"Mus musculus SRY (sex determining region Y)-box 8 (Sox8), mRNA",4.6431,17 / 18,||||||| ||||||||||,0,18
+6_rev,gi|1907066844|ref|XM_036165614.1|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X7, mRNA",56.5645,17 / 18,||||||||||||| ||||,0,13
+6_rev,gi|1907066839|ref|XM_006496603.5|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X3, mRNA",56.5645,17 / 18,||||||||||||| ||||,0,13
+6_rev,gi|373251169|ref|NR_046022.1|,"Mus musculus predicted gene, 20751 (Gm20751), long non-coding RNA",56.5645,17 / 18,||||||||||||| ||||,0,13
+6_rev,gi|1720424958|ref|XR_003946666.1|,"PREDICTED: Mus musculus predicted gene, 51454 (Gm51454), ncRNA",56.5645,17 / 18,|||||| |||||||||||,1,7
+6_rev,gi|1907066841|ref|XM_030254626.2|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X5, mRNA",56.5645,17 / 18,||||||||||||| ||||,0,13
+6_rev,gi|1907066846|ref|XR_004942591.1|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X9, misc_RNA",56.5645,17 / 18,||||||||||||| ||||,0,13
+7_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.109195,18 / 18,||||||||||||||||||,0,18
+7_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.381128,17 / 17,|||||||||||||||||,0,17
+7_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.381128,17 / 17,|||||||||||||||||,0,17
+7_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.381128,17 / 17,|||||||||||||||||,0,17
+7_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.381128,17 / 17,|||||||||||||||||,0,17
+7_rev,gi|1907199984|ref|XM_006511404.4|,"PREDICTED: Mus musculus stomatin-like 1 (Stoml1), transcript variant X2, mRNA",4.6431,17 / 18,|||||||||||||| |||,0,18
+7_rev,gi|1720432559|ref|XM_006511402.4|,"PREDICTED: Mus musculus stomatin-like 1 (Stoml1), transcript variant X1, mRNA",4.6431,17 / 18,|||||||||||||| |||,0,18
+7_rev,gi|255522835|ref|NM_026942.3|,"Mus musculus stomatin-like 1 (Stoml1), transcript variant 1, mRNA",4.6431,17 / 18,|||||||||||||| |||,0,18
+7_rev,gi|255522837|ref|NR_028146.1|,"Mus musculus stomatin-like 1 (Stoml1), transcript variant 2, non-coding RNA",4.6431,17 / 18,|||||||||||||| |||,0,18
+7_rev,gi|1907199986|ref|XM_030244558.2|,"PREDICTED: Mus musculus stomatin-like 1 (Stoml1), transcript variant X3, mRNA",4.6431,17 / 18,|||||||||||||| |||,0,18
+7_rev,gi|1907066844|ref|XM_036165614.1|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X7, mRNA",56.5645,17 / 18,||||||||||||| ||||,1,14
+7_rev,gi|1907066839|ref|XM_006496603.5|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X3, mRNA",56.5645,17 / 18,||||||||||||| ||||,1,14
+7_rev,gi|1907066841|ref|XM_030254626.2|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X5, mRNA",56.5645,17 / 18,||||||||||||| ||||,1,14
+7_rev,gi|1907066846|ref|XR_004942591.1|,"PREDICTED: Mus musculus dynamin 3 (Dnm3), transcript variant X9, misc_RNA",56.5645,17 / 18,||||||||||||| ||||,1,14
+8_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+8_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+9_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+9_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|1907150771|ref|XM_017319590.3|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X3, mRNA",0.381042,19 / 20,|||||| |||||||||||||,0,20
+9_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.381042,19 / 20,|||||||||||||||| |||,0,20
+9_rev,gi|80861466|ref|NM_011990.2|,"Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), mRNA",0.381042,19 / 20,|||||| |||||||||||||,0,20
+9_rev,gi|1907150769|ref|XM_006500777.4|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X2, mRNA",0.381042,19 / 20,|||||| |||||||||||||,0,20
+9_rev,gi|1907150767|ref|XM_006500776.5|,"PREDICTED: Mus musculus solute carrier family 7 (cationic amino acid transporter, y+ system), member 11 (Slc7a11), transcript variant X1, mRNA",0.381042,19 / 20,|||||| |||||||||||||,0,20
+9_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+9_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+10_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+10_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+11_rev,gi|226874928|ref|NM_145606.3|,"Mus musculus charged multivesicular body protein 1A (Chmp1a), mRNA",0.381042,19 / 20,||||||| ||||||||||||,0,20
+11_rev,gi|902763189|ref|NM_001311087.1|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 2, mRNA",4.64205,19 / 20,|||||||| |||||||||||,0,8
+11_rev,gi|902763199|ref|NM_029742.3|,"Mus musculus kelch domain containing 10 (Klhdc10), transcript variant 1, mRNA",4.64205,19 / 20,|||||||| |||||||||||,0,8
+11_rev,gi|1907173884|ref|XM_017321829.2|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X1, mRNA",4.64205,19 / 20,|||||||| |||||||||||,0,8
+11_rev,gi|1720419113|ref|XM_030255666.1|,"PREDICTED: Mus musculus kelch domain containing 10 (Klhdc10), transcript variant X2, mRNA",4.64205,19 / 20,|||||||| |||||||||||,0,8
+11_rev,gi|1907115146|ref|XR_384473.3|,"PREDICTED: Mus musculus predicted gene, 36510 (Gm36510), ncRNA",16.2023,19 / 21,||||||||||| |||| ||||,0,16
+12_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+12_rev,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,0,11
+12_rev,gi|255522820|ref|NM_001163849.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 3, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522828|ref|NM_001163852.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 7, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522830|ref|NM_001163853.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 8, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.2023,19 / 21,|||||| ||||||||| ||||,0,6
+12_rev,gi|255522822|ref|NM_173186.4|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 4, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522826|ref|NM_001163851.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 6, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522824|ref|NM_001163850.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 5, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522818|ref|NM_001163848.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 2, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|255522816|ref|NM_001163847.1|,"Mus musculus TBC1 domain family, member 24 (Tbc1d24), transcript variant 1, mRNA",16.2023,19 / 21,|| ||||| ||||||||||||,0,8
+12_rev,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.2023,19 / 21,|||||| ||||||||| ||||,0,6
+13_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+13_rev,gi|1907131580|ref|XM_036161412.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X19, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131585|ref|XM_030250719.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X22, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131566|ref|XM_036161408.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X9, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131573|ref|XM_006526614.5|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X13, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131589|ref|XM_030250721.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X27, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|2277250958|ref|NM_001409992.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 10, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131569|ref|XM_036161409.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X10, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1335348611|ref|NM_001360126.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 8, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131582|ref|XM_036161413.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X20, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394433|ref|XM_006526615.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X25, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394422|ref|XM_030250715.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X14, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131565|ref|XM_030250713.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X8, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394440|ref|XM_011247127.3|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X29, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131571|ref|XM_011247121.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X11, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131561|ref|XM_011247119.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X3, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|161086885|ref|NM_009771.3|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 2, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131588|ref|XM_006526613.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X24, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131576|ref|XM_036161411.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X16, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394425|ref|XM_030250716.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X18, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394434|ref|XM_030250720.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X26, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394438|ref|XM_030250722.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X28, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|161086886|ref|NM_001037758.2|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 1, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131557|ref|XM_036161405.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X1, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131574|ref|XM_036161410.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X15, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1335348581|ref|NM_001360124.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 7, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|557128963|ref|NM_001286465.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 3, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131584|ref|XM_030250718.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X21, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394413|ref|XM_030250712.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X6, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1335348607|ref|NM_001360127.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 9, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1720394411|ref|XM_030250711.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X5, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1335348699|ref|NM_001360120.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 5, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131578|ref|XM_011247123.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X17, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131559|ref|XM_036161406.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X2, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|557128944|ref|NM_001286466.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 4, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131572|ref|XM_030250714.2|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X12, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1335348627|ref|NM_001360122.1|,"Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant 6, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131562|ref|XM_036161407.1|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X4, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|1907131587|ref|XM_006526612.4|,"PREDICTED: Mus musculus beta-transducin repeat containing protein (Btrc), transcript variant X23, mRNA",16.2023,19 / 21,|||||||||||  ||||||||,1,12
+13_rev,gi|324710985|ref|NM_010295.2|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 1, mRNA",16.2023,19 / 21,||| |||||||||| ||||||,0,14
+13_rev,gi|2923447221|ref|NM_001436357.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 12 (Or5bb12), mRNA",16.2023,19 / 21,||||||| ||||||||| |||,0,7
+13_rev,gi|1274096300|ref|NR_151778.1|,"Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant 2, non-coding RNA",16.2023,19 / 21,||| |||||||||| ||||||,0,14
+13_rev,gi|1907194956|ref|XM_006510812.2|,"PREDICTED: Mus musculus glutamate-cysteine ligase, catalytic subunit (Gclc), transcript variant X1, mRNA",16.2023,19 / 21,||| |||||||||| ||||||,0,14
+13_rev,gi|696221380|ref|NM_001011788.1|,"Mus musculus olfactory receptor family 5 subfamily BB member 10 (Or5bb10), mRNA",16.2023,19 / 21,||||||| ||||||||| |||,0,7
+14_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+15_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+14_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+15_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+14_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+14_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+15_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.381042,19 / 20,|| |||||||||||||||||,0,20
+16_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+16_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+16_rev,gi|1907118759|ref|XM_011245968.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X37, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387381|ref|XM_006522364.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X8, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387375|ref|XM_011245951.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X1, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118667|ref|XM_036160017.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X21, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387377|ref|XM_011245953.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X3, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387403|ref|XM_017317074.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X33, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387385|ref|XM_011245960.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X14, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118704|ref|XM_036160020.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X26, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387384|ref|XM_006522370.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X11, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387392|ref|XM_011245966.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X24, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387376|ref|XM_011245952.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X2, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387386|ref|XM_011245961.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X15, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387387|ref|XM_017317071.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X16, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387396|ref|XM_030249190.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X28, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118722|ref|XM_036160021.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X30, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387399|ref|XM_030249191.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X31, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118782|ref|XM_017317075.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X40, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387390|ref|XR_001781845.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X20, misc_RNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387382|ref|XM_011245956.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X9, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387391|ref|XM_011245965.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X23, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387398|ref|XM_017317073.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X29, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118677|ref|XM_036160019.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X22, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387418|ref|XM_006522386.4|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X48, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118771|ref|XM_006522383.5|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X39, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118790|ref|XM_017317076.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X41, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387383|ref|XM_011245957.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X10, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387401|ref|XM_030249192.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X32, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387395|ref|XM_011245967.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X27, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118539|ref|XM_036160014.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X4, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387389|ref|XM_011245963.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X19, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1720387388|ref|XR_001781844.2|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X18, misc_RNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118635|ref|XM_036160016.1|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X17, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+16_rev,gi|1907118702|ref|XM_017317072.3|,"PREDICTED: Mus musculus kalirin, RhoGEF kinase (Kalrn), transcript variant X25, mRNA",56.5517,19 / 22,|||||||||   ||||||||||,1,10
+17_rev,gi|1720354772|ref|XM_006496478.2|,"PREDICTED: Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant X1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356804|ref|NM_009447.5|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 1, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|111186463|ref|NM_011654.2|,"Mus musculus tubulin, alpha 1B (Tuba1b), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356637|ref|NM_001313723.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 2, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|118130393|ref|NM_009448.4|,"Mus musculus tubulin, alpha 1C (Tuba1c), mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356986|ref|NM_001420874.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 4, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356878|ref|NM_001420875.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 5, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356811|ref|NM_001313724.2|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 3, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|2501356738|ref|NM_001420876.1|,"Mus musculus tubulin, alpha 4A (Tuba4a), transcript variant 6, mRNA",0.00896126,20 / 20,||||||||||||||||||||,0,20
+17_rev,gi|1907173123|ref|XM_036166283.1|,"PREDICTED: Mus musculus tubulin, alpha 8 (Tuba8), transcript variant X1, mRNA",0.0312779,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|930697462|ref|NM_017379.2|,"Mus musculus tubulin, alpha 8 (Tuba8), mRNA",0.0312779,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|1907093720|ref|XM_006516479.3|,"PREDICTED: Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant X1, mRNA",0.381042,19 / 20,||||||||| ||||||||||,0,20
+17_rev,gi|224809299|ref|NM_001033879.3|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 1, mRNA",0.381042,19 / 20,||||||||| ||||||||||,0,20
+17_rev,gi|2633575890|ref|NM_001426389.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 3, mRNA",0.381042,19 / 20,||||||||| ||||||||||,0,20
+17_rev,gi|2633575892|ref|NM_001426391.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 4, mRNA",0.381042,19 / 20,||||||||| ||||||||||,0,20
+17_rev,gi|2633575833|ref|NM_001426388.1|,"Mus musculus tubulin, alpha-like 3 (Tubal3), transcript variant 2, mRNA",0.381042,19 / 20,||||||||| ||||||||||,0,20

@@ -1,184 +1,79 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-2_fwd,gi|1907206977|ref|XR_878056.3|,"PREDICTED: Mus musculus predicted gene, 39495 (Gm39495), ncRNA",4.63921,22 / 26,||||||||||| ||   |||||||||,0,14
-9_fwd,gi|1907127284|ref|XR_385204.3|,"PREDICTED: Mus musculus predicted gene, 34321 (Gm34321), ncRNA",16.1986,19 / 21,||| |||||||||||| ||||,0,16
-13_fwd,gi|1907127284|ref|XR_385204.3|,"PREDICTED: Mus musculus predicted gene, 34321 (Gm34321), ncRNA",16.1986,19 / 21,||| |||||||||||| ||||,0,16
-15_fwd,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-15_fwd,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5386,19 / 22,|| ||||||  |||||||||||,0,9
-16_fwd,gi|1907070004|ref|XR_001785519.3|,"PREDICTED: Mus musculus methyltransferase 21A, HSPA lysine (Mettl21a), transcript variant X1, misc_RNA",4.64097,19 / 20,|||| |||||||||||||||,0,4
-17_fwd,gi|1907070004|ref|XR_001785519.3|,"PREDICTED: Mus musculus methyltransferase 21A, HSPA lysine (Mettl21a), transcript variant X1, misc_RNA",4.64097,19 / 20,|||| |||||||||||||||,0,4
-18_fwd,gi|1907174489|ref|XR_004933707.1|,"PREDICTED: Mus musculus predicted gene, 53294 (Gm53294), ncRNA",56.5386,19 / 22,||| |||||  |||||||||||,0,9
-19_fwd,gi|1907174489|ref|XR_004933707.1|,"PREDICTED: Mus musculus predicted gene, 53294 (Gm53294), ncRNA",56.5386,19 / 22,||| |||||  |||||||||||,0,9
-21_fwd,gi|1907165520|ref|XR_001784732.3|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X3, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1907165520|ref|XR_001784732.3|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X3, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1720414537|ref|XR_003955687.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X4, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1720414537|ref|XR_003955687.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X4, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1907165515|ref|XR_004942546.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X1, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1907165515|ref|XR_004942546.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X1, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1907165524|ref|XR_003955688.2|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X5, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1907165524|ref|XR_003955688.2|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X5, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1376334589|ref|NR_155269.1|,"Mus musculus zinc finger protein 951 (Zfp951), transcript variant 2, non-coding RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1376334589|ref|NR_155269.1|,"Mus musculus zinc finger protein 951 (Zfp951), transcript variant 2, non-coding RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1720414541|ref|XR_003955689.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X6, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1720414541|ref|XR_003955689.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X6, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1907165533|ref|XR_004942547.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X10, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1907165533|ref|XR_004942547.1|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X10, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1907165527|ref|XR_003955690.2|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X7, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-22_fwd,gi|1907165527|ref|XR_003955690.2|,"PREDICTED: Mus musculus zinc finger protein 951 (Zfp951), transcript variant X7, misc_RNA",4.64097,19 / 20,|||||| |||||||||||||,0,6
-21_fwd,gi|1907100678|ref|XM_017315974.3|,"PREDICTED: Mus musculus spermatogenesis associated 13 (Spata13), transcript variant X13, mRNA",16.1986,19 / 21,|||| || |||||||||||||,0,4
-22_fwd,gi|1907100678|ref|XM_017315974.3|,"PREDICTED: Mus musculus spermatogenesis associated 13 (Spata13), transcript variant X13, mRNA",16.1986,19 / 21,|||| || |||||||||||||,0,4
-23_fwd,gi|227908841|ref|NM_213733.2|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 2, mRNA",16.1986,19 / 21,|||||| |||| |||||||||,0,6
-23_fwd,gi|1907139318|ref|XR_374463.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X2, misc_RNA",16.1986,19 / 21,|||||| |||| |||||||||,0,6
-23_fwd,gi|1907139316|ref|XR_374462.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X1, misc_RNA",16.1986,19 / 21,|||||| |||| |||||||||,0,6
-23_fwd,gi|1820342417|ref|NM_001378793.1|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 1, mRNA",16.1986,19 / 21,|||||| |||| |||||||||,0,6
-25_fwd,gi|1907172750|ref|XM_030255425.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X22, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172735|ref|XM_036166186.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X12, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172731|ref|XM_036166184.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X10, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|355390257|ref|NM_001252083.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 2, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172733|ref|XM_036166185.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X11, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172724|ref|XM_030255419.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X4, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172738|ref|XM_036166187.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X15, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1108846992|ref|NM_001347452.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 3, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1720418058|ref|XM_030255423.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X13, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1732634141|ref|NM_001372422.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 5, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1720418054|ref|XM_030255421.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X5, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172726|ref|XM_036166182.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X7, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1720418061|ref|XM_030255424.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X21, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1732634005|ref|NM_001372420.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 4, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172730|ref|XM_006506204.4|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X9, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1732634175|ref|NM_001372424.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 6, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172740|ref|XM_036166188.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X16, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1039775138|ref|XM_006506202.3|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X3, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172746|ref|XM_036166191.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X19, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172723|ref|XM_006506200.5|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X1, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172742|ref|XM_036166189.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X17, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172737|ref|XM_006506205.5|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X14, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172748|ref|XM_036166192.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X20, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172744|ref|XM_036166190.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X18, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|355390256|ref|NM_175557.5|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 1, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1720418048|ref|XM_006506201.3|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X2, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172725|ref|XM_030255422.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X6, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172751|ref|XM_036166193.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X23, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-25_fwd,gi|1907172728|ref|XM_036166183.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X8, mRNA",16.1986,19 / 21,||||||||||||  |||||||,0,12
-2_rev,gi|1907127684|ref|XR_004939683.1|,"PREDICTED: Mus musculus predicted gene, 36907 (Gm36907), transcript variant X4, ncRNA",16.1986,19 / 21,||||| |||||| ||||||||,0,5
-2_rev,gi|1907127678|ref|XR_876646.2|,"PREDICTED: Mus musculus predicted gene, 36907 (Gm36907), transcript variant X1, ncRNA",16.1986,19 / 21,||||| |||||| ||||||||,0,5
-2_rev,gi|1907127682|ref|XR_876647.2|,"PREDICTED: Mus musculus predicted gene, 36907 (Gm36907), transcript variant X3, ncRNA",16.1986,19 / 21,||||| |||||| ||||||||,0,5
-2_rev,gi|1907127680|ref|XR_004939682.1|,"PREDICTED: Mus musculus predicted gene, 36907 (Gm36907), transcript variant X2, ncRNA",16.1986,19 / 21,||||| |||||| ||||||||,0,5
-6_rev,gi|1907158120|ref|XR_003955371.2|,"PREDICTED: Mus musculus predicted gene, 52724 (Gm52724), ncRNA",16.2006,18 / 19,||||||||||||| |||||,0,13
-6_rev,gi|1907132360|ref|XM_006527041.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X20, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132346|ref|XM_017318172.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X2, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1108847311|ref|NM_001347459.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 7, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132370|ref|XM_030250919.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X31, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132359|ref|XM_006527040.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X19, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1720395195|ref|XM_030250916.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X18, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132369|ref|XM_017318184.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X30, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132353|ref|XM_006527036.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X11, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132368|ref|XM_030250918.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X29, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132367|ref|XM_006527048.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X28, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132361|ref|XM_017318178.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X21, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1720395181|ref|XM_030250912.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X8, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132347|ref|XM_017318173.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X3, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577865|ref|NM_001362445.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 8, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132345|ref|XM_006527028.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X1, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132350|ref|XM_006527033.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X6, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1720395183|ref|XM_030250913.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X9, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577753|ref|NM_001103178.3|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 3, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132358|ref|XM_006527039.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X16, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132365|ref|XM_017318182.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X26, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132363|ref|XM_006527044.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X24, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132351|ref|XM_006527034.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X7, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132355|ref|XM_006527037.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X13, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132371|ref|XM_017318186.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X32, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1720395200|ref|XM_030250917.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X22, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132362|ref|XM_017318179.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X23, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132356|ref|XM_006527038.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X14, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132352|ref|XM_006527035.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X10, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577782|ref|NM_001103177.3|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 2, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577834|ref|NM_001290816.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 6, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132366|ref|XM_017318183.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X27, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132348|ref|XM_017318174.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X4, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577760|ref|NM_001362446.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 9, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577735|ref|NM_178688.4|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 1, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132364|ref|XM_017318181.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X25, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1720395193|ref|XM_030250915.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X17, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132354|ref|XM_030250914.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X12, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577841|ref|NM_001290813.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 4, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1378577820|ref|NM_001290815.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 5, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132349|ref|XM_017318175.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X5, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-6_rev,gi|1907132357|ref|XM_017318177.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X15, mRNA",56.5458,18 / 20,|||||||||||||  |||||,0,13
-10_rev,gi|227908841|ref|NM_213733.2|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 2, mRNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-13_rev,gi|227908841|ref|NM_213733.2|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 2, mRNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-10_rev,gi|1907139318|ref|XR_374463.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X2, misc_RNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-13_rev,gi|1907139318|ref|XR_374463.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X2, misc_RNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-10_rev,gi|1907139316|ref|XR_374462.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X1, misc_RNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-13_rev,gi|1907139316|ref|XR_374462.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X1, misc_RNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-10_rev,gi|1820342417|ref|NM_001378793.1|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 1, mRNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-13_rev,gi|1820342417|ref|NM_001378793.1|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 1, mRNA",16.1986,19 / 21,||||||||| |||| ||||||,0,14
-12_rev,gi|1907084267|ref|XR_381066.5|,"PREDICTED: Mus musculus predicted gene, 31674 (Gm31674), transcript variant X1, ncRNA",16.1986,19 / 21,|||| ||||||||| ||||||,0,14
-12_rev,gi|1907084268|ref|XR_872259.3|,"PREDICTED: Mus musculus predicted gene 28401 (Gm28401), ncRNA",16.1986,19 / 21,|||| ||||||||| ||||||,0,14
-16_rev,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-16_rev,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-18_rev,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-21_rev,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5386,19 / 22,|||||||||||  |||||| ||,0,11
-26_rev,gi|1907172750|ref|XM_030255425.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X22, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172735|ref|XM_036166186.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X12, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172731|ref|XM_036166184.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X10, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|355390257|ref|NM_001252083.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 2, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172733|ref|XM_036166185.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X11, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172724|ref|XM_030255419.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X4, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172738|ref|XM_036166187.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X15, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1108846992|ref|NM_001347452.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 3, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1720418058|ref|XM_030255423.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X13, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1732634141|ref|NM_001372422.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 5, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1720418054|ref|XM_030255421.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X5, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172726|ref|XM_036166182.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X7, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1720418061|ref|XM_030255424.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X21, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1732634005|ref|NM_001372420.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 4, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172730|ref|XM_006506204.4|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X9, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1732634175|ref|NM_001372424.1|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 6, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172740|ref|XM_036166188.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X16, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1039775138|ref|XM_006506202.3|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X3, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172746|ref|XM_036166191.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X19, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172723|ref|XM_006506200.5|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X1, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172742|ref|XM_036166189.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X17, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172737|ref|XM_006506205.5|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X14, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172748|ref|XM_036166192.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X20, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172744|ref|XM_036166190.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X18, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|355390256|ref|NM_175557.5|,"Mus musculus zinc finger protein 384 (Zfp384), transcript variant 1, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1720418048|ref|XM_006506201.3|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X2, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172725|ref|XM_030255422.2|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X6, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172751|ref|XM_036166193.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X23, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
-26_rev,gi|1907172728|ref|XM_036166183.1|,"PREDICTED: Mus musculus zinc finger protein 384 (Zfp384), transcript variant X8, mRNA",16.1986,19 / 21,|||||||  ||||||||||||,1,8
+9_fwd,gi|1907127284|ref|XR_385204.3|,"PREDICTED: Mus musculus predicted gene, 34321 (Gm34321), ncRNA",16.2004,19 / 21,||| |||||||||||| ||||,0,16
+13_fwd,gi|1907127284|ref|XR_385204.3|,"PREDICTED: Mus musculus predicted gene, 34321 (Gm34321), ncRNA",16.2004,19 / 21,||| |||||||||||| ||||,0,16
+15_fwd,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+15_fwd,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5448,19 / 22,|| ||||||  |||||||||||,0,9
+16_fwd,gi|1907070004|ref|XR_001785519.3|,"PREDICTED: Mus musculus methyltransferase 21A, HSPA lysine (Mettl21a), transcript variant X1, misc_RNA",4.64148,19 / 20,|||| |||||||||||||||,0,4
+17_fwd,gi|1907070004|ref|XR_001785519.3|,"PREDICTED: Mus musculus methyltransferase 21A, HSPA lysine (Mettl21a), transcript variant X1, misc_RNA",4.64148,19 / 20,|||| |||||||||||||||,0,4
+5_rev,gi|254028204|ref|NM_023341.3|,"Mus musculus coenzyme Q8A (Coq8a), transcript variant 1, mRNA; nuclear gene for mitochondrial product",0.380996,19 / 20,||||||||||| ||||||||,0,20
+5_rev,gi|254028216|ref|NM_001163290.1|,"Mus musculus coenzyme Q8A (Coq8a), transcript variant 2, mRNA; nuclear gene for mitochondrial product",0.380996,19 / 20,||||||||||| ||||||||,0,20
+6_rev,gi|1907158120|ref|XR_003955371.2|,"PREDICTED: Mus musculus predicted gene, 52724 (Gm52724), ncRNA",16.2023,18 / 19,||||||||||||| |||||,0,13
+6_rev,gi|1907132347|ref|XM_017318173.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X3, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132361|ref|XM_017318178.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X21, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132353|ref|XM_006527036.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X11, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577841|ref|NM_001290813.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 4, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132348|ref|XM_017318174.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X4, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132370|ref|XM_030250919.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X31, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132366|ref|XM_017318183.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X27, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132346|ref|XM_017318172.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X2, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577753|ref|NM_001103178.3|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 3, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132345|ref|XM_006527028.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X1, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1720395195|ref|XM_030250916.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X18, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132362|ref|XM_017318179.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X23, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132371|ref|XM_017318186.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X32, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132367|ref|XM_006527048.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X28, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577865|ref|NM_001362445.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 8, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577782|ref|NM_001103177.3|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 2, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132358|ref|XM_006527039.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X16, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577834|ref|NM_001290816.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 6, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132352|ref|XM_006527035.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X10, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577735|ref|NM_178688.4|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 1, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1720395181|ref|XM_030250912.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X8, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1720395183|ref|XM_030250913.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X9, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132363|ref|XM_006527044.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X24, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1720395200|ref|XM_030250917.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X22, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132350|ref|XM_006527033.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X6, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577820|ref|NM_001290815.2|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 5, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132349|ref|XM_017318175.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X5, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132369|ref|XM_017318184.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X30, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1720395193|ref|XM_030250915.1|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X17, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132351|ref|XM_006527034.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X7, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1378577760|ref|NM_001362446.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 9, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132368|ref|XM_030250918.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X29, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132355|ref|XM_006527037.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X13, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132357|ref|XM_017318177.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X15, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132365|ref|XM_017318182.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X26, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132356|ref|XM_006527038.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X14, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132354|ref|XM_030250914.2|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X12, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132364|ref|XM_017318181.3|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X25, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132360|ref|XM_006527041.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X20, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1108847311|ref|NM_001347459.1|,"Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant 7, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+6_rev,gi|1907132359|ref|XM_006527040.5|,"PREDICTED: Mus musculus actin-binding LIM protein 1 (Ablim1), transcript variant X19, mRNA",56.5516,18 / 20,|||||||||||||  |||||,0,13
+10_rev,gi|227908841|ref|NM_213733.2|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 2, mRNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+13_rev,gi|227908841|ref|NM_213733.2|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 2, mRNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+10_rev,gi|1907139318|ref|XR_374463.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X2, misc_RNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+13_rev,gi|1907139318|ref|XR_374463.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X2, misc_RNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+10_rev,gi|1820342417|ref|NM_001378793.1|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 1, mRNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+13_rev,gi|1820342417|ref|NM_001378793.1|,"Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant 1, mRNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+10_rev,gi|1907139316|ref|XR_374462.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X1, misc_RNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+13_rev,gi|1907139316|ref|XR_374462.2|,"PREDICTED: Mus musculus aminopeptidase-like 1 (Npepl1), transcript variant X1, misc_RNA",16.2004,19 / 21,||||||||| |||| ||||||,0,14
+12_rev,gi|1907084268|ref|XR_872259.3|,"PREDICTED: Mus musculus predicted gene 28401 (Gm28401), ncRNA",16.2004,19 / 21,|||| ||||||||| ||||||,0,14
+12_rev,gi|1907084267|ref|XR_381066.5|,"PREDICTED: Mus musculus predicted gene, 31674 (Gm31674), transcript variant X1, ncRNA",16.2004,19 / 21,|||| ||||||||| ||||||,0,14
+16_rev,gi|1907191256|ref|XM_006509507.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X7, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1720428438|ref|XM_006509505.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X5, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1720428435|ref|XM_011242242.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X1, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1686254395|ref|NM_001293774.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 3, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1907191257|ref|XM_036154308.1|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X8, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1907191254|ref|XM_006509508.5|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X6, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1720428437|ref|XM_006509504.4|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X4, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1720428436|ref|XM_006509503.3|,"PREDICTED: Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant X2, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1686254389|ref|NM_001293773.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 2, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11
+16_rev,gi|1686254391|ref|NM_001293772.2|,"Mus musculus palladin, cytoskeletal associated protein (Palld), transcript variant 1, mRNA",56.5448,19 / 22,|||||||||||  |||||| ||,0,11

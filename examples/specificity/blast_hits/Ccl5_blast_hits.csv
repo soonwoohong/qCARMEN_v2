@@ -1,52 +1,25 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-0_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",16.2069,18 / 19,|||| ||||||||||||||,0,4
-0_fwd,gi|1907185347|ref|XR_004934271.1|,"PREDICTED: Mus musculus uncharacterized LOC118567478 (LOC118567478), ncRNA",56.5677,18 / 20,||||||||||||  ||||||,0,12
-1_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-1_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-1_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-1_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-1_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-1_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",4.64289,19 / 20,||||| ||||||||||||||,0,5
-2_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-2_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-2_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-2_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-2_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-2_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",16.2069,18 / 19,||||| |||||||||||||,1,6
-31_fwd,gi|1565522747|ref|NR_028417.2|,"Mus musculus predicted gene 7854 (Gm7854), long non-coding RNA",16.2053,19 / 21,|||||||||| || |||||||,0,10
-33_fwd,gi|1039760493|ref|XM_006500601.3|,"PREDICTED: Mus musculus helicase with zinc finger 2, transcriptional coactivator (Helz2), transcript variant X4, mRNA",4.64289,19 / 20,|||| |||||||||||||||,0,4
-33_fwd,gi|1907139355|ref|XR_004940251.1|,"PREDICTED: Mus musculus helicase with zinc finger 2, transcriptional coactivator (Helz2), transcript variant X2, misc_RNA",4.64289,19 / 20,|||| |||||||||||||||,0,4
-33_fwd,gi|1720399017|ref|XR_003952779.1|,"PREDICTED: Mus musculus helicase with zinc finger 2, transcriptional coactivator (Helz2), transcript variant X3, misc_RNA",4.64289,19 / 20,|||| |||||||||||||||,0,4
-33_fwd,gi|1039760492|ref|XM_006500599.3|,"PREDICTED: Mus musculus helicase with zinc finger 2, transcriptional coactivator (Helz2), transcript variant X1, mRNA",4.64289,19 / 20,|||| |||||||||||||||,0,4
-33_fwd,gi|125347766|ref|NM_183162.2|,"Mus musculus helicase with zinc finger 2, transcriptional coactivator (Helz2), mRNA",4.64289,19 / 20,|||| |||||||||||||||,0,4
-33_fwd,gi|312596930|ref|NM_152808.3|,"Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant 2, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|1317840732|ref|NM_001359227.1|,"Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant 3, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|1720407490|ref|XM_006538575.2|,"PREDICTED: Mus musculus perlecan (heparan sulfate proteoglycan 2) (Hspg2), transcript variant X2, mRNA",16.2053,19 / 21,|||||| |||||||||| |||,0,6
-33_fwd,gi|1720432535|ref|XM_011242593.3|,"PREDICTED: Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant X1, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|2658368308|ref|NM_008305.4|,"Mus musculus perlecan (heparan sulfate proteoglycan 2) (Hspg2), mRNA",16.2053,19 / 21,|||||| |||||||||| |||,0,6
-33_fwd,gi|1720432538|ref|XM_006510576.3|,"PREDICTED: Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant X4, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|312596931|ref|NM_001199186.1|,"Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant 1, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|1907195784|ref|XM_011242682.4|,"PREDICTED: Mus musculus RAR-related orphan receptor alpha (Rora), transcript variant X10, mRNA",16.2053,19 / 21,|||| ||||| ||||||||||,0,4
-33_fwd,gi|1907199935|ref|XM_036155232.1|,"PREDICTED: Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant X2, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-33_fwd,gi|1720407487|ref|XM_030253229.1|,"PREDICTED: Mus musculus perlecan (heparan sulfate proteoglycan 2) (Hspg2), transcript variant X1, mRNA",16.2053,19 / 21,|||||| |||||||||| |||,0,6
-33_fwd,gi|1720432536|ref|XM_030244550.1|,"PREDICTED: Mus musculus solute carrier family 44, member 2 (Slc44a2), transcript variant X3, mRNA",16.2053,19 / 21,|||||| ||| ||||||||||,0,6
-2_rev,gi|569010790|ref|XM_006528353.1|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X2, mRNA",16.2053,19 / 21,||||||| |||||||||| ||,0,7
-2_rev,gi|1720436212|ref|XM_006528354.4|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X3, mRNA",16.2053,19 / 21,||||||| |||||||||| ||,0,7
-2_rev,gi|1720436211|ref|XM_006528352.4|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X1, mRNA",16.2053,19 / 21,||||||| |||||||||| ||,0,7
-3_rev,gi|341926178|ref|NM_026346.3|,"Mus musculus F-box protein 32 (Fbxo32), mRNA",56.5735,17 / 18,|||||||||||| |||||,1,13
-4_rev,gi|78354982|ref|NM_029835.1|,"Mus musculus TOPBP1-interacting checkpoint and replication regulator (Ticrr), mRNA",16.2053,19 / 21,||||||| | |||||||||||,0,7
-5_rev,gi|78354982|ref|NM_029835.1|,"Mus musculus TOPBP1-interacting checkpoint and replication regulator (Ticrr), mRNA",56.5677,18 / 20,|||||| | |||||||||||,0,6
-9_rev,gi|1907173170|ref|XM_006506394.5|,"PREDICTED: Mus musculus glycoprotein 9 platelet (Gp9), transcript variant X2, mRNA",197.441,18 / 21,||| ||||  |||||||||||,0,8
-9_rev,gi|1907173169|ref|XM_011241410.4|,"PREDICTED: Mus musculus glycoprotein 9 platelet (Gp9), transcript variant X1, mRNA",197.441,18 / 21,||| ||||  |||||||||||,0,8
-16_rev,gi|578888061|ref|NM_021331.4|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 1, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-30_rev,gi|578888061|ref|NM_021331.4|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 1, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-16_rev,gi|578888062|ref|NM_001289856.1|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 2, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-30_rev,gi|578888062|ref|NM_001289856.1|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 2, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-16_rev,gi|578888064|ref|NM_001289857.1|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 3, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-30_rev,gi|578888064|ref|NM_001289857.1|,"Mus musculus glucose-6-phosphatase, catalytic, 2 (G6pc2), transcript variant 3, mRNA",4.64289,19 / 20,|||||||||||||| |||||,0,14
-22_rev,gi|1907153750|ref|XM_030253068.2|,"PREDICTED: Mus musculus doublecortin domain containing 2b (Dcdc2b), transcript variant X5, mRNA",16.2053,19 / 21,|||||| ||||||||| ||||,0,6
+0_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",16.2159,18 / 19,|||| ||||||||||||||,0,4
+0_fwd,gi|1907185347|ref|XR_004934271.1|,"PREDICTED: Mus musculus uncharacterized LOC118567478 (LOC118567478), ncRNA",56.5991,18 / 20,||||||||||||  ||||||,0,12
+1_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+1_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+1_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+1_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+1_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+1_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",4.64562,19 / 20,||||| ||||||||||||||,0,5
+2_fwd,gi|1907203883|ref|XM_030251355.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X6, mRNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_fwd,gi|1907203876|ref|XR_003953009.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X2, misc_RNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_fwd,gi|1907203881|ref|XR_003953011.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X5, misc_RNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_fwd,gi|1907203878|ref|XR_003953010.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X3, misc_RNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_fwd,gi|1907203873|ref|XM_030251354.2|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X1, mRNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_fwd,gi|1907203879|ref|XR_004940338.1|,"PREDICTED: Mus musculus integrin beta 1 binding protein 2 (Itgb1bp2), transcript variant X4, misc_RNA",16.2159,18 / 19,||||| |||||||||||||,1,6
+2_rev,gi|569010790|ref|XM_006528353.1|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X2, mRNA",16.2148,19 / 21,||||||| |||||||||| ||,0,7
+2_rev,gi|1720436212|ref|XM_006528354.4|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X3, mRNA",16.2148,19 / 21,||||||| |||||||||| ||,0,7
+2_rev,gi|1720436211|ref|XM_006528352.4|,"PREDICTED: Mus musculus predicted gene, 35953 (Gm35953), transcript variant X1, mRNA",16.2148,19 / 21,||||||| |||||||||| ||,0,7
+4_rev,gi|1907173170|ref|XM_006506394.5|,"PREDICTED: Mus musculus glycoprotein 9 platelet (Gp9), transcript variant X2, mRNA",197.55,18 / 21,||| ||||  |||||||||||,0,8
+4_rev,gi|1907173169|ref|XM_011241410.4|,"PREDICTED: Mus musculus glycoprotein 9 platelet (Gp9), transcript variant X1, mRNA",197.55,18 / 21,||| ||||  |||||||||||,0,8
