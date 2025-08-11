@@ -1,0 +1,30 @@
+name: qCARMEN_v2
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - pandas=2.1.4
+  - "numpy>=1.23,<2.0"      # pandas 2.1.x expects NumPy < 2.0
+  - scipy=1.11.*            # compatible with NumPy < 2.0
+  - scikit-learn            # solver will pick a compatible build
+  - biopython
+  - adapt=1.6.0
+  - blast
+  - mafft
+  - primer3
+  - entrez-direct
+  - ncbi-vdb
+  - tqdm
+  - requests
+  - jinja2
+  - matplotlib
+  - h5py
+  - tensorflow=2.15     # matches your local; safe on most clusters
+  - git-lfs                 # so `git lfs pull` works on cluster
+  - pip:
+      - flexs               # PyPI; works with the shim above
+      - scipy=1.15.3
+      - scikit-learn=1.7.1
