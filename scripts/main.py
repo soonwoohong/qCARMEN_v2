@@ -28,6 +28,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_type", help="csv or genebank folder", type=str)
     parser.add_argument("-o", "--output_dir", help="enter the output directory", type=str, required=True)
+    parser.add_argument("-top", "--num_top_guides", help="number of top guides", type=str, required=True, default = 5)
     parser.add_argument("-pad", "--padding", help="padding for desiging crRNA on amplicon", type=int, required=True, default=20)
     parser.add_argument("-g", "--genbank_dir", help="enter the genbank directory", type=str)
     parser.add_argument("-t", "--target", help="input file", type=str)
@@ -47,6 +48,7 @@ def main():
     output_dir = args.output_dir
     organism = args.organism
     padding = args.padding
+    num_top_guides = args.num_top_guides
 
     if input_type == 'csv':
         if not ncbi_key:
@@ -111,7 +113,7 @@ def main():
     os.makedirs(valid_primer_dir, exist_ok=True)
     primer_design = CommonPrimerDesign(output_dir)
     specificity_checker = PrimerBlast(output_dir, organism)
-    crRNA_design = crRNA_Design(output_dir, padding=padding)
+    crRNA_design = crRNA_Design(output_dir, padding=padding, num_top_guides=num_top_guides)
 
 
     for gene_name in gene_list:
@@ -128,8 +130,13 @@ def main():
         valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
         # design crRNA
-        crRNA_design.design_crRNA(gene_name, valid_primers_df)
+        crRNA_df = crRNA_design.design_crRNA(gene_name, valid_primers_df)
 
+        print('test_results')
+        print(valid_primers_df)
+        print(crRNA_df)
+        # summarize the final output (report top 5)
+        # merge crRNA and primer and add
 
 
 

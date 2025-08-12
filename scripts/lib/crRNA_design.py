@@ -17,12 +17,14 @@ class crRNA_Design:
     def __init__(self,
                  output_dir: str,
                  padding: int = 20, # to avoid crRNA located on the edge of amplicon
+                 num_top_guides: int = 5,
                  max_amplicon_num: int = 5):
         self.output_dir = output_dir
         self.crRNA_dir = os.path.join(output_dir, "crRNA")
         os.makedirs(self.crRNA_dir, exist_ok=True)
         self.max_amplicon_num = max_amplicon_num
         self.padding = padding
+        self.num_top_guides = num_top_guides
         _load_params = CommonPrimerDesign(output_dir)
 
         self.default_params = _load_params.default_params
@@ -34,6 +36,7 @@ class crRNA_Design:
         primer_idx = filtered_primers.index.to_list()
         primer_amplicon = filtered_primers['amplicon_seq']
 
+        all_crRNA = []
 
         for i in range(len(filtered_primers)):
             primer_id = f"{gene_name}_{primer_idx[i]}"
@@ -47,7 +50,7 @@ class crRNA_Design:
 
             temp_amplicon = primer_amplicon.iloc[i]
             if len(temp_amplicon) < self.padding*2:
-                range_start, range_end = 0, len(temp_amplicon)
+                range_start, range_end = max(10, len(temp_amplicon)//2-50), min(len(temp_amplicon),len(temp_amplicon)//2+50)
             else:
                 range_start, range_end = self.padding, len(temp_amplicon)-self.padding
             with open(temp_fasta_file, "w") as f:
@@ -56,23 +59,19 @@ class crRNA_Design:
                 f.write(f"{range_start}\t{range_end}\n")
 
             BADGERS_script = f'python3 scripts/badgers-cas13/design_guides.py multi both {temp_fasta_file} {BADGERS_dir} --use_range {temp_range_file}'
-            BADGERS_script = BADGERS_script + f' --n_top_guides 10'
-            BADGERS_script = BADGERS_script + f' --n_top_guides_per_site 3'
+            BADGERS_script = BADGERS_script + f' --n_top_guides {self.num_top_guides}'
+            BADGERS_script = BADGERS_script + f' --n_top_guides_per_site {max(int(self.num_top_guides)//2, 1)}'
             #print(BADGERS_script)
             subprocess.run(BADGERS_script, shell=True)
-        # Save amplicons as a temp FASTA file for running badgers
-        # these amplicons will be the input for badgers
-        """
-        temp_fasta_file = os.path.join(self.crRNA_dir, "temp.fasta")
-        fasta_records = []
-        for i in range(len(amplicons)):
-            amplicon_seq = amplicons[i]
-            amplicon_id = f"{gene_name}_amplicon_{i}"
-            fasta_records.append(SeqRecord(Seq(amplicon_seq), id=amplicon_id, description=""))
+            BADGERS_result_file = os.path.join(BADGERS_dir, "final_results.tsv")
+            part_crRNA = pd.read_csv(BADGERS_result_file, sep="\t")
+            part_crRNA.insert(0, "primer_id", primer_id)
+            all_crRNA.append(part_crRNA)
 
-        with open(temp_fasta_file, "w") as f:
-            SeqIO.write(fasta_records, f, "fasta")
-        """
+        all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).sort_values(by='fitness', ascending=False)
+        all_crRNA_df.iloc[0:self.num_top_guides].to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
+
+        return all_crRNA_df.iloc[0:self.num_top_guides]
 
     def _read_valid_primers(self,
                            gene_name,
