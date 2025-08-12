@@ -14,7 +14,6 @@ dependencies:
   - adapt=1.6.0
   - blast
   - mafft
-  - primer3
   - entrez-direct
   - ncbi-vdb
   - tqdm
@@ -28,3 +27,4 @@ dependencies:
       - flexs               # PyPI; works with the shim above
       - scipy==1.15.3
       - scikit-learn==1.7.1
+      - primer3-py
