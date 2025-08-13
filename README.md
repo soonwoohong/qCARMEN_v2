@@ -6,7 +6,7 @@
 
 # (optional) load conda module
 module purge
-module load anaconda3/2025.6 
+module load anaconda3/2023.9 
 
 # Clone the repository
 git lfs clone https://github.com/soonwoohong/qCARMEN_v2.git 
