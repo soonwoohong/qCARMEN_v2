@@ -135,23 +135,9 @@ def main():
         # design crRNA
         crRNA_df = crRNA_design.design_crRNA(gene_name, valid_primers_df)
 
-        print('test_results')
-        print(valid_primers_df)
-        print(crRNA_df)
+
         # summarize the final output (report top 5)
         # merge crRNA and primer and add
-
-
-
-    #conserved_regions, num_fasta = primer_design.find_conserved_regions()
-
-    #print(gene_isoform_dict)
-
-    #project_name = args.project_name
-    #target_file = args.target
-
-    #organism_species = args.organism
-    #num_cpu = args.num_cpu
 
 
 

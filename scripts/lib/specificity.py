@@ -10,7 +10,7 @@ https://www.ncbi.nlm.nih.gov/books/NBK279690/pdf/Bookshelf_NBK279690.pdf
 
 - SpecificityChecking: narrowing down primers that are specific to the target
                        against species.
-- TODO: against off-target (not necessary in most case but required for checking specificity across different species)
+- potential feature: against off-target (not necessary in most case but required for checking specificity across different species)
 
 - NOTE that the direction of sequences is from 5' to 3' in most cases.
 

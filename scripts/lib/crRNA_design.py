@@ -10,8 +10,6 @@ import subprocess
 from .primer_design import CommonPrimerDesign
 
 
-
-
 class crRNA_Design:
     def __init__(self,
                  output_dir: str,
@@ -36,7 +34,6 @@ class crRNA_Design:
         primer_amplicon = filtered_primers['amplicon_seq']
 
         all_crRNA = []
-
         for i in range(len(filtered_primers)):
             primer_id = f"{gene_name}_{primer_idx[i]}"
             BADGERS_dir = os.path.join(self.crRNA_dir, gene_name, primer_id)
@@ -64,13 +61,17 @@ class crRNA_Design:
             subprocess.run(BADGERS_script, shell=True)
             BADGERS_result_file = os.path.join(BADGERS_dir, "final_results.tsv")
             part_crRNA = pd.read_csv(BADGERS_result_file, sep="\t").nlargest(self.num_top_guides, 'fitness')
-            part_crRNA.insert(0, "primer_id", primer_id)
+            part_crRNA.insert(0, "primer_id", primer_idx[i])
             all_crRNA.append(part_crRNA)
 
-        all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).nlargest(self.num_top_guides, 'fitness')
-        all_crRNA_df.to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
 
-        return all_crRNA_df
+        all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).drop_duplicates(subset=['guide_sequence']).nlargest(self.num_top_guides, 'fitness')
+        valid_primer_idx = all_crRNA_df['primer_id'].to_list()
+
+        final_crRNA = pd.concat([filtered_primers.loc[valid_primer_idx], all_crRNA_df], axis=1)
+        final_crRNA.to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
+
+        return final_crRNA
 
     def _read_valid_primers(self,
                            gene_name,
