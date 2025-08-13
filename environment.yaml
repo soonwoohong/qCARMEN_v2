@@ -28,3 +28,4 @@ dependencies:
       - scipy==1.15.3
       - scikit-learn==1.7.1
       - primer3-py
+      - fastaparser==1.1

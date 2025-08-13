@@ -1,3 +1,0 @@
-algo	start_pos	guide_sequence	fitness	perc_highly_active	shannon_entropy
-wgan_am	147	ACACAGATCTGTGCTAACCCCAGTGAGC	-1.1556434631347656	1.0	0.0
-wgan_am	147	AGACAGATCTGTGCTAACCCCAGTGAGC	-1.1814441680908203	1.0	0.0

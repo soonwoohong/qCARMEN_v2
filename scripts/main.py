@@ -6,7 +6,10 @@ import logging
 from Bio import SeqIO
 import pandas as pd
 from dataclasses import dataclass, asdict
-import subprocess
+import warnings
+warnings.filterwarnings("ignore",
+                        category=DeprecationWarning,
+                        module=r"random")
 
 # from local
 from lib import NCBIGeneFetcher
@@ -28,7 +31,7 @@ def main():
     parser = argparse.ArgumentParser()
     parser.add_argument("input_type", help="csv or genebank folder", type=str)
     parser.add_argument("-o", "--output_dir", help="enter the output directory", type=str, required=True)
-    parser.add_argument("-top", "--num_top_guides", help="number of top guides", type=str, required=True, default = 5)
+    parser.add_argument("-top", "--num_top_guides", help="number of top guides", type=int, required=True, default = 5)
     parser.add_argument("-pad", "--padding", help="padding for desiging crRNA on amplicon", type=int, required=True, default=20)
     parser.add_argument("-g", "--genbank_dir", help="enter the genbank directory", type=str)
     parser.add_argument("-t", "--target", help="input file", type=str)

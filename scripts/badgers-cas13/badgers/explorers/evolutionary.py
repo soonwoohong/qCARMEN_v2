@@ -105,13 +105,12 @@ class EvolutionaryExplorer(flexs.Explorer):
         Returns:
             A tuple of numpy arrays containing the generated guides and their fitnesses."""
 
-        guides_df = pd.DataFrame(columns=["guide", "fitness"])
+        #guides_df = pd.DataFrame(columns=["guide", "fitness"])
 
         # Sample guides from the input target guides proportional to their fitness.
         parent_guides, parent_fitness = self.sample_guides(self.model.parent_df.sequence, self.model.parent_df.fitness, self.S)
 
-        guides_df = pd.concat(
-            [guides_df, pd.DataFrame({"guide": parent_guides,"fitness": parent_fitness})], ignore_index = True)
+        guides_df = pd.DataFrame({"guide": parent_guides,"fitness": parent_fitness})
 
         current_generation = 0
         total_guides_evaluated = 0
