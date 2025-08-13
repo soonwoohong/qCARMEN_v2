@@ -7,9 +7,9 @@ from Bio import SeqIO
 import pandas as pd
 from dataclasses import dataclass, asdict
 import warnings
-warnings.filterwarnings("ignore",
-                        category=DeprecationWarning,
-                        module=r"random")
+warnings.filterwarnings("ignore", category=DeprecationWarning)
+warnings.filterwarnings("ignore", category=FutureWarning)
+warnings.filterwarnings("ignore", message="Gym has been unmaintained since 2022")
 
 # from local
 from lib import NCBIGeneFetcher

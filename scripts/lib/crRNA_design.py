@@ -12,7 +12,6 @@ from .primer_design import CommonPrimerDesign
 
 
 
-
 class crRNA_Design:
     def __init__(self,
                  output_dir: str,
@@ -64,14 +63,14 @@ class crRNA_Design:
             #print(BADGERS_script)
             subprocess.run(BADGERS_script, shell=True)
             BADGERS_result_file = os.path.join(BADGERS_dir, "final_results.tsv")
-            part_crRNA = pd.read_csv(BADGERS_result_file, sep="\t")
+            part_crRNA = pd.read_csv(BADGERS_result_file, sep="\t").nlargest(self.num_top_guides, 'fitness')
             part_crRNA.insert(0, "primer_id", primer_id)
             all_crRNA.append(part_crRNA)
 
-        all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).sort_values(by='fitness', ascending=False)
-        all_crRNA_df.iloc[0:self.num_top_guides].to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
+        all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).nlargest(self.num_top_guides, 'fitness')
+        all_crRNA_df.to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
 
-        return all_crRNA_df.iloc[0:self.num_top_guides]
+        return all_crRNA_df
 
     def _read_valid_primers(self,
                            gene_name,
