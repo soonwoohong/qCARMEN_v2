@@ -1,0 +1,15 @@
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+
+# PyCharm/JetBrains
+.idea/
+scripts/badgers-cas13/badgers/utils/gan_data/*.npy
+scripts/badgers-cas13/badgers/utils/gan_data/*.pkl
+
+scripts/badgers-cas13/badgers/utils/gan_data/*.npy
+scripts/badgers-cas13/badgers/utils/gan_data/*.pkl
