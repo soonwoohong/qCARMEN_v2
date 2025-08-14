@@ -42,6 +42,10 @@ class crRNA_Design:
             temp_fasta_file = os.path.join(BADGERS_dir, "temp.fasta")
             temp_range_file = os.path.join(BADGERS_dir, "range.tsv")
             if os.path.exists(os.path.join(BADGERS_dir, "final_results.tsv")):
+                BADGERS_result_file = os.path.join(BADGERS_dir, "final_results.tsv")
+                part_crRNA = pd.read_csv(BADGERS_result_file, sep="\t").nlargest(self.num_top_guides, 'fitness')
+                part_crRNA.insert(0, "primer_id", primer_idx[i])
+                all_crRNA.append(part_crRNA)
                 continue
 
             temp_amplicon = primer_amplicon.iloc[i]
