@@ -76,7 +76,7 @@ class crRNA_Design:
                                     , all_crRNA_df.reset_index(drop=True)], axis=1)
         # reorder columns
         final_crRNA.insert(3, 'guide_sequence', final_crRNA.pop('guide_sequence'))
-        final_crRNA.to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
+        final_crRNA.to_csv(os.path.join(self.crRNA_dir,f"{gene_name}_final_crRNA.csv"), index=False)
 
         return final_crRNA
 
