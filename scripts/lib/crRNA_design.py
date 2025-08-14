@@ -68,7 +68,8 @@ class crRNA_Design:
         all_crRNA_df = pd.concat(all_crRNA, ignore_index=True).drop_duplicates(subset=['guide_sequence']).nlargest(self.num_top_guides, 'fitness')
         valid_primer_idx = all_crRNA_df['primer_id'].to_list()
 
-        final_crRNA = pd.concat([filtered_primers.loc[valid_primer_idx], all_crRNA_df], axis=1)
+        final_crRNA = pd.concat([filtered_primers.loc[valid_primer_idx].reset_index(drop=True)
+                                    , all_crRNA_df.reset_index(drop=True)], axis=1)
         final_crRNA.to_csv(os.path.join(self.crRNA_dir,gene_name,f"{gene_name}_final_crRNA.csv"), index=False)
 
         return final_crRNA
