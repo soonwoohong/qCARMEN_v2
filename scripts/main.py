@@ -16,7 +16,7 @@ from lib import NCBIGeneFetcher
 from lib import CommonPrimerDesign
 from lib import PrimerBlast
 from lib import crRNA_Design
-from lib import final_mod
+from lib.final_mod import final_mod
 
 # Set up logging
 logging.basicConfig(
