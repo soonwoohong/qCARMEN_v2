@@ -1,189 +1,190 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-0_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256492,21 / 21,|||||||||||||||||||||,0,21
-1_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734744,22 / 22,||||||||||||||||||||||,0,22
-2_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734744,22 / 22,||||||||||||||||||||||,0,22
-3_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-4_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-5_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-6_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-7_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-8_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312573,19 / 19,|||||||||||||||||||,0,19
-8_fwd,gi|2283599723|ref|NM_001347342.2|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 1, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599610|ref|NM_001410479.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 4, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599706|ref|NM_001410478.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 3, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599680|ref|NM_001410484.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 9, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599632|ref|NM_001410481.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 6, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|118130303|ref|NM_025578.4|,"Mus musculus mitochondrial ribosomal protein S25 (Mrps25), mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599662|ref|NM_001410483.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 8, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599648|ref|NM_011630.4|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 2, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599757|ref|NM_001410480.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 5, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599726|ref|NM_001410485.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 10, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-8_fwd,gi|2283599763|ref|NM_001410482.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 7, mRNA",1.32909,18 / 19,|||||| ||||||||||||,0,19
-9_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312573,19 / 19,|||||||||||||||||||,0,19
-13_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312573,19 / 19,|||||||||||||||||||,0,19
-13_fwd,gi|1720433721|ref|XR_870963.2|,"PREDICTED: Mus musculus predicted gene, 39384 (Gm39384), ncRNA",56.5144,18 / 20,|||||||||||| || ||||,0,12
-14_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312573,19 / 19,|||||||||||||||||||,0,19
-15_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-15_fwd,gi|1720433721|ref|XR_870963.2|,"PREDICTED: Mus musculus predicted gene, 39384 (Gm39384), ncRNA",16.189,19 / 21,||||||||||||| || ||||,0,13
-16_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734388,24 / 25,|||||||||||||| ||||||||||,0,25
-18_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734388,24 / 25,|||||||||||||| ||||||||||,0,25
-17_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256368,23 / 24,||||||||||||||| ||||||||,0,24
-19_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256368,23 / 24,|||||||||||||||| |||||||,0,24
-22_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000210474,23 / 23,|||||||||||||||||||||||,0,23
-22_fwd,gi|1907202238|ref|XM_030251161.2|,"PREDICTED: Mus musculus NHS like 2 (Nhsl2), transcript variant X1, mRNA",16.1812,22 / 27,|||||||||||| |    |||||||||,0,14
-23_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000210474,23 / 23,|||||||||||||||||||||||,0,23
-23_fwd,gi|1907129312|ref|XM_036161066.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X15, mRNA",0.109028,22 / 23,||||||||||||| |||||||||,1,14
-23_fwd,gi|1907129327|ref|XM_036161069.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X21, mRNA",0.109028,22 / 23,||||||||||||| |||||||||,1,14
-23_fwd,gi|1907202238|ref|XM_030251161.2|,"PREDICTED: Mus musculus NHS like 2 (Nhsl2), transcript variant X1, mRNA",16.1812,22 / 27,||||||||||| |    ||||||||||,0,13
-24_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734744,22 / 22,||||||||||||||||||||||,0,22
+0_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256493,21 / 21,|||||||||||||||||||||,0,21
+1_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734747,22 / 22,||||||||||||||||||||||,0,22
+2_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734747,22 / 22,||||||||||||||||||||||,0,22
+3_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+4_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+5_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+6_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+7_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+8_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312574,19 / 19,|||||||||||||||||||,0,19
+8_fwd,gi|2283599723|ref|NM_001347342.2|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 1, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599648|ref|NM_011630.4|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 2, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599763|ref|NM_001410482.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 7, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599726|ref|NM_001410485.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 10, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599632|ref|NM_001410481.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 6, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599610|ref|NM_001410479.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 4, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599706|ref|NM_001410478.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 3, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599662|ref|NM_001410483.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 8, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599680|ref|NM_001410484.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 9, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|2283599757|ref|NM_001410480.1|,"Mus musculus nuclear receptor subfamily 2, group C, member 2 (Nr2c2), transcript variant 5, mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+8_fwd,gi|118130303|ref|NM_025578.4|,"Mus musculus mitochondrial ribosomal protein S25 (Mrps25), mRNA",1.3291,18 / 19,|||||| ||||||||||||,0,19
+9_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312574,19 / 19,|||||||||||||||||||,0,19
+13_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312574,19 / 19,|||||||||||||||||||,0,19
+13_fwd,gi|1720433721|ref|XR_870963.2|,"PREDICTED: Mus musculus predicted gene, 39384 (Gm39384), ncRNA",56.5146,18 / 20,|||||||||||| || ||||,0,12
+14_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.0312574,19 / 19,|||||||||||||||||||,0,19
+15_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+15_fwd,gi|1720433721|ref|XR_870963.2|,"PREDICTED: Mus musculus predicted gene, 39384 (Gm39384), ncRNA",16.1891,19 / 21,||||||||||||| || ||||,0,13
+16_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734391,24 / 25,|||||||||||||| ||||||||||,0,25
+18_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734391,24 / 25,|||||||||||||| ||||||||||,0,25
+17_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256369,23 / 24,||||||||||||||| ||||||||,0,24
+19_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256369,23 / 24,|||||||||||||||| |||||||,0,24
+22_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000210475,23 / 23,|||||||||||||||||||||||,0,23
+22_fwd,gi|1907202238|ref|XM_030251161.2|,"PREDICTED: Mus musculus NHS like 2 (Nhsl2), transcript variant X1, mRNA",16.1813,22 / 27,|||||||||||| |    |||||||||,0,14
+23_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000210475,23 / 23,|||||||||||||||||||||||,0,23
+23_fwd,gi|1907129312|ref|XM_036161066.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X15, mRNA",0.109029,22 / 23,||||||||||||| |||||||||,1,14
+23_fwd,gi|1907129327|ref|XM_036161069.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X21, mRNA",0.109029,22 / 23,||||||||||||| |||||||||,1,14
+23_fwd,gi|1907202238|ref|XM_030251161.2|,"PREDICTED: Mus musculus NHS like 2 (Nhsl2), transcript variant X1, mRNA",16.1813,22 / 27,||||||||||| |    ||||||||||,0,13
+23_fwd,gi|755536006|ref|XR_380876.2|,"PREDICTED: Mus musculus predicted gene, 34952 (Gm34952), ncRNA",56.4782,22 / 25,||||||||||| || ||| ||||||,0,11
+24_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734747,22 / 22,||||||||||||||||||||||,0,22
 24_fwd,gi|1907129312|ref|XM_036161066.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X15, mRNA",0.109046,22 / 23,||||||||||||| |||||||||,0,13
 24_fwd,gi|1907129327|ref|XM_036161069.1|,"PREDICTED: Mus musculus zinc finger E-box binding homeobox 1 (Zeb1), transcript variant X21, mRNA",0.109046,22 / 23,||||||||||||| |||||||||,0,13
-25_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-25_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",56.4962,20 / 24,||||||||||||    ||||||||,0,12
-26_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-26_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",4.63674,22 / 26,||||||||||||||    ||||||||,0,14
-28_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-28_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",4.63674,22 / 26,|||||||||||||||    |||||||,0,15
-29_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-29_fwd,gi|1907184798|ref|XM_036153518.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X11, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1566846677|ref|NM_001368290.1|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 4, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184786|ref|XM_036153515.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X2, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184792|ref|XM_006541245.5|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X6, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184789|ref|XM_006541244.5|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X4, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184800|ref|XM_030243057.2|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X12, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1566846657|ref|NM_001357650.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 2, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1566846644|ref|NM_001368291.1|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 5, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1566846662|ref|NM_028169.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 1, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1566846679|ref|NM_001357651.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 3, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184788|ref|XM_006541243.4|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X3, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184796|ref|XM_006541248.3|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X9, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184785|ref|XM_006541242.3|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X1, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184790|ref|XM_036153516.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X5, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184793|ref|XM_036153517.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X7, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184795|ref|XM_011250907.4|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X8, mRNA",0.0312522,19 / 19,|||||||||||||||||||,1,20
-29_fwd,gi|1907184640|ref|XR_004934196.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X10, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184635|ref|XR_378277.4|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X7, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184653|ref|XM_036153501.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X17, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184638|ref|XR_004934195.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X9, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184646|ref|XR_004934198.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X13, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184632|ref|XM_036153500.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X6, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|371122313|ref|NM_199009.3|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 2, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184622|ref|XM_030243032.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X1, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1720424373|ref|XM_030243034.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X5, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|371122401|ref|NM_001242364.2|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 3, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184644|ref|XR_004934197.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X12, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184657|ref|XM_030243038.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X18, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184629|ref|XM_006508251.5|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X4, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|371122351|ref|NM_001242363.2|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 1, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184624|ref|XM_030243033.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X2, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184649|ref|XM_030243036.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X15, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184651|ref|XM_030243037.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X16, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184637|ref|XR_003946573.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X8, misc_RNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-29_fwd,gi|1907184626|ref|XM_036153499.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X3, mRNA",16.189,19 / 21,|||| ||||||||||||| ||,0,4
-30_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,||||||||||| ||||||||,0,20
-32_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,||||||||||| ||||||||,0,20
-33_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,||||||||||| ||||||||,0,20
-38_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,||||||||||| ||||||||,0,20
-31_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-31_fwd,gi|257467640|ref|NM_001164663.1|,"Mus musculus microtubule crosslinking factor 2 (Mtcl2), mRNA",4.63824,19 / 20,||||||||||| ||||||||,0,11
-31_fwd,gi|1907140594|ref|XM_017319023.3|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X2, mRNA",4.63824,19 / 20,||||||||||| ||||||||,0,11
-31_fwd,gi|1907140591|ref|XM_036162310.1|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X1, mRNA",4.63824,19 / 20,||||||||||| ||||||||,0,11
-31_fwd,gi|242332519|ref|NM_001162903.1|,"Mus musculus coiled-coil domain containing 71 like (Ccdc71l), mRNA",16.189,19 / 21,|||||||||||| |||| |||,0,12
-35_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,||||||| ||||||||||||,0,20
-35_fwd,gi|257467640|ref|NM_001164663.1|,"Mus musculus microtubule crosslinking factor 2 (Mtcl2), mRNA",4.63824,19 / 20,|||||||||| |||||||||,0,10
-35_fwd,gi|1907140594|ref|XM_017319023.3|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X2, mRNA",4.63824,19 / 20,|||||||||| |||||||||,0,10
-35_fwd,gi|1907140591|ref|XM_036162310.1|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X1, mRNA",4.63824,19 / 20,|||||||||| |||||||||,0,10
-36_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-37_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
+25_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+25_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",56.4964,20 / 24,||||||||||||    ||||||||,0,12
+26_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+26_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",4.63676,22 / 26,||||||||||||||    ||||||||,0,14
+28_fwd,gi|1907194310|ref|XM_036154517.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X23, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194265|ref|XM_030243964.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X5, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194279|ref|XM_036154510.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X10, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194281|ref|XM_036154511.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X11, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194298|ref|XM_036154514.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X19, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194296|ref|XM_030243973.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X18, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194256|ref|XM_030243954.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X2, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194283|ref|XM_030243969.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X12, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194294|ref|XM_030243972.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X17, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194301|ref|XM_030243974.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X20, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194262|ref|XM_030243962.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X4, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194335|ref|XM_036154520.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X28, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194288|ref|XM_036154513.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X14, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194304|ref|XM_036154515.1|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X21, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194272|ref|XM_030243966.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X7, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194259|ref|XM_030243956.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X3, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194277|ref|XM_030243968.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X9, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194269|ref|XM_030243965.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X6, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194326|ref|XM_030243976.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X26, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194253|ref|XM_030243953.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X1, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194275|ref|XM_030243967.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X8, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194292|ref|XM_030243971.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X16, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+28_fwd,gi|1907194313|ref|XM_030243975.2|,"PREDICTED: Mus musculus pleckstrin homology like domain, family B, member 1 (Phldb1), transcript variant X24, mRNA",4.63676,22 / 26,|||||||||||||||    |||||||,0,15
+29_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+29_fwd,gi|1907184790|ref|XM_036153516.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X5, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184795|ref|XM_011250907.4|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X8, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184792|ref|XM_006541245.5|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X6, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184800|ref|XM_030243057.2|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X12, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1566846657|ref|NM_001357650.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 2, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184798|ref|XM_036153518.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X11, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184786|ref|XM_036153515.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X2, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1566846679|ref|NM_001357651.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 3, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184796|ref|XM_006541248.3|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X9, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1566846677|ref|NM_001368290.1|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 4, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184793|ref|XM_036153517.1|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X7, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1566846644|ref|NM_001368291.1|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 5, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1566846662|ref|NM_028169.2|,"Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant 1, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184789|ref|XM_006541244.5|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X4, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184788|ref|XM_006541243.4|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X3, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|1907184785|ref|XM_006541242.3|,"PREDICTED: Mus musculus golgi associated RAB2 interactor 5A (Garin5a), transcript variant X1, mRNA",0.0312523,19 / 19,|||||||||||||||||||,1,20
+29_fwd,gi|371122351|ref|NM_001242363.2|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 1, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184640|ref|XR_004934196.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X10, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184629|ref|XM_006508251.5|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X4, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184646|ref|XR_004934198.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X13, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184644|ref|XR_004934197.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X12, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|371122313|ref|NM_199009.3|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 2, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184651|ref|XM_030243037.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X16, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1720424373|ref|XM_030243034.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X5, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|371122401|ref|NM_001242364.2|,"Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant 3, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184622|ref|XM_030243032.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X1, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184638|ref|XR_004934195.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X9, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184626|ref|XM_036153499.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X3, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184649|ref|XM_030243036.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X15, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184653|ref|XM_036153501.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X17, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184635|ref|XR_378277.4|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X7, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184632|ref|XM_036153500.1|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X6, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184657|ref|XM_030243038.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X18, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184624|ref|XM_030243033.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X2, mRNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+29_fwd,gi|1907184637|ref|XR_003946573.2|,"PREDICTED: Mus musculus FHF complex subunit HOOK interacting protein 1B (Fhip1b), transcript variant X8, misc_RNA",16.1891,19 / 21,|||| ||||||||||||| ||,0,4
+30_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,||||||||||| ||||||||,0,20
+32_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,||||||||||| ||||||||,0,20
+33_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,||||||||||| ||||||||,0,20
+38_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,||||||||||| ||||||||,0,20
+31_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+31_fwd,gi|1907140591|ref|XM_036162310.1|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X1, mRNA",4.63826,19 / 20,||||||||||| ||||||||,0,11
+31_fwd,gi|1907140594|ref|XM_017319023.3|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X2, mRNA",4.63826,19 / 20,||||||||||| ||||||||,0,11
+31_fwd,gi|257467640|ref|NM_001164663.1|,"Mus musculus microtubule crosslinking factor 2 (Mtcl2), mRNA",4.63826,19 / 20,||||||||||| ||||||||,0,11
+31_fwd,gi|242332519|ref|NM_001162903.1|,"Mus musculus coiled-coil domain containing 71 like (Ccdc71l), mRNA",16.1891,19 / 21,|||||||||||| |||| |||,0,12
+35_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,||||||| ||||||||||||,0,20
+35_fwd,gi|1907140591|ref|XM_036162310.1|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X1, mRNA",4.63826,19 / 20,|||||||||| |||||||||,0,10
+35_fwd,gi|1907140594|ref|XM_017319023.3|,"PREDICTED: Mus musculus microtubule crosslinking factor 2 (Mtcl2), transcript variant X2, mRNA",4.63826,19 / 20,|||||||||| |||||||||,0,10
+35_fwd,gi|257467640|ref|NM_001164663.1|,"Mus musculus microtubule crosslinking factor 2 (Mtcl2), mRNA",4.63826,19 / 20,|||||||||| |||||||||,0,10
+36_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+37_fwd,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
 0_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",1.72712e-05,25 / 25,|||||||||||||||||||||||||,0,25
 1_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",1.72712e-05,25 / 25,|||||||||||||||||||||||||,0,25
-2_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-3_rev,gi|2645216785|ref|NR_190172.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 4, long non-coding RNA",1.32845,21 / 23,||| ||||||||||| |||||||,0,15
+2_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
 3_rev,gi|2645216786|ref|NR_190171.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 3, long non-coding RNA",1.32845,21 / 23,||| ||||||||||| |||||||,0,15
-4_rev,gi|2645216785|ref|NR_190172.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 4, long non-coding RNA",1.32845,21 / 23,|| ||||||||||| ||||||||,0,14
+3_rev,gi|2645216785|ref|NR_190172.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 4, long non-coding RNA",1.32845,21 / 23,||| ||||||||||| |||||||,0,15
 4_rev,gi|2645216786|ref|NR_190171.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 3, long non-coding RNA",1.32845,21 / 23,|| ||||||||||| ||||||||,0,14
+4_rev,gi|2645216785|ref|NR_190172.1|,"Mus musculus predicted gene 13571 (Gm13571), transcript variant 4, long non-coding RNA",1.32845,21 / 23,|| ||||||||||| ||||||||,0,14
 11_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",1.72712e-05,25 / 25,|||||||||||||||||||||||||,0,25
-12_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.0292e-05,24 / 24,||||||||||||||||||||||||,0,24
-13_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256368,23 / 24,||||||| ||||||||||||||||,0,24
-14_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256368,23 / 24,||||||| ||||||||||||||||,0,24
-15_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256368,23 / 24,||||||| ||||||||||||||||,0,24
-20_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734744,22 / 22,||||||||||||||||||||||,0,22
-21_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734744,22 / 22,||||||||||||||||||||||,0,22
-22_rev,gi|755566798|ref|XR_878281.1|,"PREDICTED: Mus musculus predicted gene, 41902 (Gm41902), ncRNA",4.63749,20 / 22,|||||||| ||||||| |||||,0,16
+12_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",6.02922e-05,24 / 24,||||||||||||||||||||||||,0,24
+13_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256369,23 / 24,||||||| ||||||||||||||||,0,24
+14_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256369,23 / 24,||||||| ||||||||||||||||,0,24
+15_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00256369,23 / 24,||||||| ||||||||||||||||,0,24
+20_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734747,22 / 22,||||||||||||||||||||||,0,22
+21_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.000734747,22 / 22,||||||||||||||||||||||,0,22
+22_rev,gi|755566798|ref|XR_878281.1|,"PREDICTED: Mus musculus predicted gene, 41902 (Gm41902), ncRNA",4.63751,20 / 22,|||||||| ||||||| |||||,0,16
 23_rev,gi|755566798|ref|XR_878281.1|,"PREDICTED: Mus musculus predicted gene, 41902 (Gm41902), ncRNA",1.32845,21 / 23,||||||||| ||||||| |||||,0,17
 24_rev,gi|755566798|ref|XR_878281.1|,"PREDICTED: Mus musculus predicted gene, 41902 (Gm41902), ncRNA",1.32845,21 / 23,|||||||||| ||||||| ||||,0,18
-29_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-31_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-35_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-36_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-37_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.38073,19 / 20,|||||||| |||||||||||,0,20
-30_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-32_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-33_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
-33_rev,gi|1907147155|ref|XR_003953884.2|,"PREDICTED: Mus musculus predicted gene, 57687 (Gm57687), ncRNA",16.189,19 / 21,||||| ||||||||||| |||,0,5
-33_rev,gi|1907139886|ref|XM_030251566.2|,"PREDICTED: Mus musculus mitogen-activated protein kinase binding protein 1 (Mapkbp1), transcript variant X3, mRNA",56.5053,20 / 22,||||| |||| |||||||||||,0,5
-33_rev,gi|2839823802|ref|NM_001355293.2|,"Mus musculus mitogen-activated protein kinase binding protein 1 (Mapkbp1), transcript variant 1, mRNA",56.5053,20 / 22,||||| |||| |||||||||||,0,5
-38_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895391,20 / 20,||||||||||||||||||||,0,20
+29_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+31_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+35_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+36_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+37_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.380731,19 / 20,|||||||| |||||||||||,0,20
+30_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+32_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20
+33_rev,gi|1907147155|ref|XR_003953884.2|,"PREDICTED: Mus musculus predicted gene, 57687 (Gm57687), ncRNA",16.1891,19 / 21,||||| ||||||||||| |||,0,5
+33_rev,gi|2839823802|ref|NM_001355293.2|,"Mus musculus mitogen-activated protein kinase binding protein 1 (Mapkbp1), transcript variant 1, mRNA",56.5055,20 / 22,||||| |||| |||||||||||,0,5
+33_rev,gi|2839823846|ref|NM_011941.4|,"Mus musculus mitogen-activated protein kinase binding protein 1 (Mapkbp1), transcript variant 2, mRNA",56.5055,20 / 22,||||| |||| |||||||||||,0,5
+38_rev,gi|160333316|ref|NM_001024721.2|,"Mus musculus interferon activated gene 214 (Ifi214), mRNA",0.00895394,20 / 20,||||||||||||||||||||,0,20

@@ -1,68 +1,63 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
 0_fwd,gi|1907074256|ref|XM_006513438.5|,"PREDICTED: Mus musculus DIRAS family, GTP-binding RAS-like 1 (Diras1), transcript variant X1, mRNA",4.64464,17 / 18,|||||||||||| |||||,0,18
 0_fwd,gi|40254099|ref|NM_145217.2|,"Mus musculus DIRAS family, GTP-binding RAS-like 1 (Diras1), mRNA",4.64464,17 / 18,|||||||||||| |||||,0,18
-0_fwd,gi|1720407788|ref|XM_006538630.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X2, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
+0_fwd,gi|1720407789|ref|XM_006538631.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X3, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
 0_fwd,gi|2301398299|ref|NM_011039.3|,"Mus musculus paired box 7 (Pax7), mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
 0_fwd,gi|1720407787|ref|XM_006538629.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X1, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
-0_fwd,gi|1720407789|ref|XM_006538631.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X3, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
-1_fwd,gi|1344538369|ref|NM_022019.6|,"Mus musculus dual specificity phosphatase 10 (Dusp10), mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
-1_fwd,gi|1907074256|ref|XM_006513438.5|,"PREDICTED: Mus musculus DIRAS family, GTP-binding RAS-like 1 (Diras1), transcript variant X1, mRNA",4.64464,17 / 18,||||||||||||| ||||,0,18
+0_fwd,gi|1720407788|ref|XM_006538630.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X2, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
 1_fwd,gi|1907069949|ref|XM_036152719.1|,"PREDICTED: Mus musculus dual specificity phosphatase 10 (Dusp10), transcript variant X3, mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
+1_fwd,gi|1907074256|ref|XM_006513438.5|,"PREDICTED: Mus musculus DIRAS family, GTP-binding RAS-like 1 (Diras1), transcript variant X1, mRNA",4.64464,17 / 18,||||||||||||| ||||,0,18
+1_fwd,gi|1344538369|ref|NM_022019.6|,"Mus musculus dual specificity phosphatase 10 (Dusp10), mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
 1_fwd,gi|40254099|ref|NM_145217.2|,"Mus musculus DIRAS family, GTP-binding RAS-like 1 (Diras1), mRNA",4.64464,17 / 18,||||||||||||| ||||,0,18
+1_fwd,gi|1907069948|ref|XM_006497189.3|,"PREDICTED: Mus musculus dual specificity phosphatase 10 (Dusp10), transcript variant X2, mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
 1_fwd,gi|1907069947|ref|XM_006497188.3|,"PREDICTED: Mus musculus dual specificity phosphatase 10 (Dusp10), transcript variant X1, mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
 1_fwd,gi|1845866023|ref|NR_168597.1|,"Mus musculus predicted gene, 33070 (Gm33070), long non-coding RNA",4.64464,17 / 18,|||||||||| |||||||,0,18
-1_fwd,gi|1907069948|ref|XM_006497189.3|,"PREDICTED: Mus musculus dual specificity phosphatase 10 (Dusp10), transcript variant X2, mRNA",4.64464,17 / 18,||||||||||||||| ||,0,18
+1_fwd,gi|1720407789|ref|XM_006538631.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X3, mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
 1_fwd,gi|597955321|ref|NM_008180.2|,"Mus musculus glutathione synthetase (Gss), transcript variant 1, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
-1_fwd,gi|1720407788|ref|XM_006538630.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X2, mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
 1_fwd,gi|1907135473|ref|XM_006498781.4|,"PREDICTED: Mus musculus glutathione synthetase (Gss), transcript variant X1, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
 1_fwd,gi|2301398299|ref|NM_011039.3|,"Mus musculus paired box 7 (Pax7), mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
 1_fwd,gi|1720407787|ref|XM_006538629.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X1, mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
-1_fwd,gi|1720407789|ref|XM_006538631.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X3, mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
+1_fwd,gi|1720407788|ref|XM_006538630.2|,"PREDICTED: Mus musculus paired box 7 (Pax7), transcript variant X2, mRNA",56.5833,17 / 18,|||| |||||||||||||,1,5
 1_fwd,gi|597955353|ref|NM_001291111.1|,"Mus musculus glutathione synthetase (Gss), transcript variant 2, mRNA",56.5833,17 / 18,|||| |||||||||||||,0,4
 1_fwd,gi|1811242780|ref|NM_001378508.1|,"Mus musculus RIKEN cDNA 1700024J04 gene (1700024J04Rik), mRNA",56.5833,17 / 18,|||||||||||| |||||,0,12
+2_fwd,gi|1039747957|ref|XM_006520011.3|,"PREDICTED: Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant X1, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
+2_fwd,gi|1720383083|ref|XM_006520012.4|,"PREDICTED: Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant X2, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
+2_fwd,gi|1720382645|ref|XR_383477.4|,"PREDICTED: Mus musculus predicted gene, 34997 (Gm34997), ncRNA",4.64464,17 / 18,|||||||||| |||||||,0,18
 2_fwd,gi|2438326045|ref|NM_001416411.1|,"Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant 3, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
+2_fwd,gi|2438326047|ref|NM_144845.4|,"Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant 1, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
 2_fwd,gi|164450476|ref|NM_207216.2|,"Mus musculus UDP glycosyltransferases 3 family, polypeptide A2 (Ugt3a2), mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
 2_fwd,gi|2438326026|ref|NM_001416410.1|,"Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant 2, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
-2_fwd,gi|1720382645|ref|XR_383477.4|,"PREDICTED: Mus musculus predicted gene, 34997 (Gm34997), ncRNA",4.64464,17 / 18,|||||||||| |||||||,0,18
-2_fwd,gi|2438326047|ref|NM_144845.4|,"Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant 1, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
-2_fwd,gi|1720383083|ref|XM_006520012.4|,"PREDICTED: Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant X2, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
-2_fwd,gi|1039747957|ref|XM_006520011.3|,"PREDICTED: Mus musculus UDP glycosyltransferases 3 family, polypeptide A1 (Ugt3a1), transcript variant X1, mRNA",4.64464,17 / 18,|| |||||||||||||||,0,18
-4_fwd,gi|1907153416|ref|XR_004941632.1|,"PREDICTED: Mus musculus predicted gene, 19343 (Gm19343), misc_RNA",16.2099,18 / 19,|||| ||||||||||||||,0,4
-5_fwd,gi|1907153416|ref|XR_004941632.1|,"PREDICTED: Mus musculus predicted gene, 19343 (Gm19343), misc_RNA",16.2099,18 / 19,|||| ||||||||||||||,0,4
-6_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
-8_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
-10_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
-7_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
-9_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
-11_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
-13_fwd,gi|339895878|ref|NR_040445.1|,"Mus musculus RIKEN cDNA 1700017G19 gene (1700017G19Rik), long non-coding RNA",0.0312897,19 / 19,|||||||||||||||||||,1,20
-15_fwd,gi|339895878|ref|NR_040445.1|,"Mus musculus RIKEN cDNA 1700017G19 gene (1700017G19Rik), long non-coding RNA",0.0312897,19 / 19,|||||||||||||||||||,1,20
-5_rev,gi|1039736861|ref|XR_388421.2|,"PREDICTED: Mus musculus LLGL2 scribble cell polarity complex component (Llgl2), transcript variant X8, misc_RNA",56.5731,19 / 22,||||||| |||||||  |||||,0,15
-5_rev,gi|144922655|ref|NM_145438.2|,"Mus musculus LLGL2 scribble cell polarity complex component (Llgl2), transcript variant 1, mRNA",56.5731,19 / 22,||||||| |||||||  |||||,0,15
-5_rev,gi|357527421|ref|NM_001252532.1|,"Mus musculus LLGL2 scribble cell polarity complex component (Llgl2), transcript variant 2, mRNA",56.5731,19 / 22,||||||| |||||||  |||||,0,15
+5_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
+7_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
+9_fwd,gi|88014719|ref|NM_008379.3|,"Mus musculus karyopherin subunit beta 1 (Kpnb1), mRNA",16.2085,19 / 21,||||||  |||||||||||||,0,6
+6_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
+8_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
+10_fwd,gi|1907131007|ref|XR_004939914.1|,"PREDICTED: Mus musculus predicted gene 15337 (Gm15337), ncRNA",16.2085,19 / 21,|||||||  ||||||||||||,0,8
+12_fwd,gi|339895878|ref|NR_040445.1|,"Mus musculus RIKEN cDNA 1700017G19 gene (1700017G19Rik), long non-coding RNA",0.0312897,19 / 19,|||||||||||||||||||,1,20
+14_fwd,gi|339895878|ref|NR_040445.1|,"Mus musculus RIKEN cDNA 1700017G19 gene (1700017G19Rik), long non-coding RNA",0.0312897,19 / 19,|||||||||||||||||||,1,20
+9_rev,gi|133506655|ref|NM_029979.3|,"Mus musculus tripartite motif-containing 35 (Trim35), mRNA",0.0312897,19 / 19,|||||||||||||||||||,0,19
 10_rev,gi|133506655|ref|NM_029979.3|,"Mus musculus tripartite motif-containing 35 (Trim35), mRNA",0.0312897,19 / 19,|||||||||||||||||||,0,19
-11_rev,gi|133506655|ref|NM_029979.3|,"Mus musculus tripartite motif-containing 35 (Trim35), mRNA",0.0312897,19 / 19,|||||||||||||||||||,0,19
-10_rev,gi|126366050|ref|NM_177195.3|,"Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|126366050|ref|NM_177195.3|,"Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1907156346|ref|XM_006537997.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X3, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156346|ref|XM_006537997.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X3, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156350|ref|XM_006538001.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X8, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
 10_rev,gi|1907156350|ref|XM_006538001.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X8, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156350|ref|XM_006538001.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X8, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1039767975|ref|XM_006537996.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X2, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1039767975|ref|XM_006537996.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X2, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156352|ref|XM_006538003.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X10, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
 10_rev,gi|1907156352|ref|XM_006538003.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X10, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156352|ref|XM_006538003.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X10, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1907156348|ref|XM_030253607.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X6, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156348|ref|XM_030253607.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X6, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1039767978|ref|XM_006537999.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X5, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1039767978|ref|XM_006537999.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X5, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156353|ref|XM_030253608.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X11, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
 10_rev,gi|1907156353|ref|XM_030253608.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X11, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156353|ref|XM_030253608.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X11, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1907156347|ref|XM_006537998.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X4, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156347|ref|XM_006537998.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X4, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-10_rev,gi|1907156351|ref|XM_006538002.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X9, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156351|ref|XM_006538002.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X9, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156346|ref|XM_006537997.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X3, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1907156346|ref|XM_006537997.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X3, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1039767975|ref|XM_006537996.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X2, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1039767975|ref|XM_006537996.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X2, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156348|ref|XM_030253607.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X6, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1907156348|ref|XM_030253607.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X6, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1039767978|ref|XM_006537999.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X5, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1039767978|ref|XM_006537999.3|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X5, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156349|ref|XR_003954967.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X7, misc_RNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
 10_rev,gi|1907156349|ref|XR_003954967.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X7, misc_RNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156349|ref|XR_003954967.2|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X7, misc_RNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156347|ref|XM_006537998.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X4, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1907156347|ref|XM_006537998.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X4, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156351|ref|XM_006538002.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X9, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|1907156351|ref|XM_006538002.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X9, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|126366050|ref|NM_177195.3|,"Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+10_rev,gi|126366050|ref|NM_177195.3|,"Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
+9_rev,gi|1907156345|ref|XM_006537995.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X1, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
 10_rev,gi|1907156345|ref|XM_006537995.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X1, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9
-11_rev,gi|1907156345|ref|XM_006537995.5|,"PREDICTED: Mus musculus ATPase, class I, type 8B, member 5 (Atp8b5), transcript variant X1, mRNA",16.2085,20 / 23,|||||||||   |||||||||||,0,9

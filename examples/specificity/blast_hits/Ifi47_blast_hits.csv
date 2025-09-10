@@ -1,17 +1,16 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-2_fwd,gi|356995931|ref|NM_001252439.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 3, mRNA",16.2091,19 / 21,||||||||||| |||| ||||,0,16
-2_fwd,gi|356995933|ref|NM_001252440.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 4, mRNA",16.2091,19 / 21,||||||||||| |||| ||||,0,16
-2_fwd,gi|356995928|ref|NM_025967.4|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 2, mRNA",16.2091,19 / 21,||||||||||| |||| ||||,0,16
-2_fwd,gi|356995929|ref|NM_001252438.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 1, mRNA",16.2091,19 / 21,||||||||||| |||| ||||,0,16
-2_fwd,gi|1907189086|ref|XM_006509122.2|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X3, mRNA",56.5753,19 / 22,||||||||||||   |||||||,0,12
-2_fwd,gi|1907189083|ref|XM_006509120.5|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X1, mRNA",56.5753,19 / 22,||||||||||||   |||||||,0,12
-2_fwd,gi|1907189084|ref|XM_011242138.2|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X2, mRNA",56.5753,19 / 22,||||||||||||   |||||||,0,12
-2_fwd,gi|171543880|ref|NM_145841.2|,"Mus musculus sarcoglycan zeta (Sgcz), mRNA",56.5753,19 / 22,||||||||||||   |||||||,0,12
-2_fwd,gi|1907181154|ref|XM_036153089.1|,"PREDICTED: Mus musculus zinc finger protein 14 (Zfp14), transcript variant X5, mRNA",56.5753,19 / 22,||| |||||||||  |||||||,0,13
-8_fwd,gi|1907201522|ref|XR_001779329.2|,"PREDICTED: Mus musculus predicted gene, 46137 (Gm46137), ncRNA",16.2091,20 / 23,||||||||||||   ||||||||,0,12
-5_rev,gi|1907113757|ref|XM_006521610.5|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X2, mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
-6_rev,gi|1907113757|ref|XM_006521610.5|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X2, mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
-5_rev,gi|1720384803|ref|XM_006521609.3|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X1, mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
-6_rev,gi|1720384803|ref|XM_006521609.3|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X1, mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
-5_rev,gi|1680979862|ref|NM_001370912.1|,"Mus musculus fer-1 like family member 6 (Fer1l6), mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
-6_rev,gi|1680979862|ref|NM_001370912.1|,"Mus musculus fer-1 like family member 6 (Fer1l6), mRNA",4.64398,19 / 20,||||||||||||||| ||||,0,15
+2_fwd,gi|356995931|ref|NM_001252439.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 3, mRNA",16.2092,19 / 21,||||||||||| |||| ||||,0,16
+2_fwd,gi|356995933|ref|NM_001252440.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 4, mRNA",16.2092,19 / 21,||||||||||| |||| ||||,0,16
+2_fwd,gi|356995928|ref|NM_025967.4|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 2, mRNA",16.2092,19 / 21,||||||||||| |||| ||||,0,16
+2_fwd,gi|356995929|ref|NM_001252438.1|,"Mus musculus DNA segment, Chr 16, ERATO Doi 472, expressed (D16Ertd472e), transcript variant 1, mRNA",16.2092,19 / 21,||||||||||| |||| ||||,0,16
+2_fwd,gi|1907189083|ref|XM_006509120.5|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X1, mRNA",56.5755,19 / 22,||||||||||||   |||||||,0,12
+2_fwd,gi|171543880|ref|NM_145841.2|,"Mus musculus sarcoglycan zeta (Sgcz), mRNA",56.5755,19 / 22,||||||||||||   |||||||,0,12
+2_fwd,gi|1907189086|ref|XM_006509122.2|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X3, mRNA",56.5755,19 / 22,||||||||||||   |||||||,0,12
+2_fwd,gi|1907189084|ref|XM_011242138.2|,"PREDICTED: Mus musculus sarcoglycan zeta (Sgcz), transcript variant X2, mRNA",56.5755,19 / 22,||||||||||||   |||||||,0,12
+8_fwd,gi|1907201522|ref|XR_001779329.2|,"PREDICTED: Mus musculus predicted gene, 46137 (Gm46137), ncRNA",16.2092,20 / 23,||||||||||||   ||||||||,0,12
+5_rev,gi|1720384803|ref|XM_006521609.3|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X1, mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15
+6_rev,gi|1720384803|ref|XM_006521609.3|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X1, mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15
+5_rev,gi|1907113757|ref|XM_006521610.5|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X2, mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15
+6_rev,gi|1907113757|ref|XM_006521610.5|,"PREDICTED: Mus musculus fer-1 like family member 6 (Fer1l6), transcript variant X2, mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15
+5_rev,gi|1680979862|ref|NM_001370912.1|,"Mus musculus fer-1 like family member 6 (Fer1l6), mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15
+6_rev,gi|1680979862|ref|NM_001370912.1|,"Mus musculus fer-1 like family member 6 (Fer1l6), mRNA",4.644,19 / 20,||||||||||||||| ||||,0,15

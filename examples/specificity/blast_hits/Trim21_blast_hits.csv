@@ -1,82 +1,83 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-7_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-7_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-8_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
-8_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
+7_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+7_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+8_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
+8_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
 9_fwd,gi|118130123|ref|NM_010757.2|,"Mus musculus v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) (Mafk), mRNA",1.32915,18 / 19,|||||||| ||||||||||,0,19
 9_fwd,gi|1907160854|ref|XM_006504653.5|,"PREDICTED: Mus musculus v-maf musculoaponeurotic fibrosarcoma oncogene family, protein K (avian) (Mafk), transcript variant X1, mRNA",1.32915,18 / 19,|||||||| ||||||||||,0,19
-9_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",16.1923,18 / 19,|||||| ||||||||||||,1,7
-9_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",16.1923,18 / 19,|||||| ||||||||||||,1,7
-10_fwd,gi|1907192964|ref|XM_036154429.1|,"PREDICTED: Mus musculus POTE ankyrin domain family member 3D (Potefam3d), transcript variant X3, mRNA",0.109068,20 / 21,|||||||||| ||||||||||,0,21
-11_fwd,gi|1907192964|ref|XM_036154429.1|,"PREDICTED: Mus musculus POTE ankyrin domain family member 3D (Potefam3d), transcript variant X3, mRNA",0.109068,20 / 21,||||||||||| |||||||||,0,21
-20_fwd,gi|2277250911|ref|NM_001409907.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 10, mRNA",197.169,21 / 25,|||||| ||||   |||||||||||,1,7
-20_fwd,gi|2277251100|ref|NM_008174.4|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 1, mRNA",197.169,21 / 25,|||||| ||||   |||||||||||,1,7
-20_fwd,gi|2277251103|ref|NM_001311072.2|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 2, mRNA",197.169,21 / 25,|||||| ||||   |||||||||||,1,7
-21_fwd,gi|2277251009|ref|NM_001409908.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 11, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|1720417078|ref|XM_006504991.4|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X4, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277251120|ref|NM_001409904.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 7, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277250924|ref|NM_001361125.2|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 3, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277250911|ref|NM_001409907.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 10, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277251100|ref|NM_008174.4|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 1, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277250861|ref|NM_001409900.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 4, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|1907170910|ref|XM_006504990.5|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X5, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277251093|ref|NM_001409909.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 12, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277251103|ref|NM_001311072.2|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 2, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277250919|ref|NM_001409903.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 6, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|2277250989|ref|NM_001409901.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 5, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-21_fwd,gi|1907170914|ref|XM_030255175.2|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X7, mRNA",56.4899,22 / 26,|||||| ||||   ||||||||||||,0,6
-27_fwd,gi|1907158151|ref|XR_004942083.1|,"PREDICTED: Mus musculus predicted gene, 54236 (Gm54236), transcript variant X6, ncRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
-27_fwd,gi|1907078181|ref|XM_036156021.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X4, mRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
-27_fwd,gi|1907078169|ref|XM_030245285.2|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X2, mRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
-27_fwd,gi|1907078175|ref|XM_036156020.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X3, mRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
-27_fwd,gi|1907078184|ref|XM_036156022.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X5, mRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
-27_fwd,gi|1907078163|ref|XM_017314101.3|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X1, mRNA",56.5078,19 / 22,||||||||||||  |||| |||,0,12
+9_fwd,gi|125656166|ref|NM_146024.1|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 2, mRNA",16.1924,18 / 19,|||||| ||||||||||||,1,7
+9_fwd,gi|125656160|ref|NM_027799.2|,"Mus musculus ankyrin repeat domain 40 (Ankrd40), transcript variant 1, mRNA",16.1924,18 / 19,|||||| ||||||||||||,1,7
+10_fwd,gi|1907192964|ref|XM_036154429.1|,"PREDICTED: Mus musculus POTE ankyrin domain family member 3D (Potefam3d), transcript variant X3, mRNA",0.109069,20 / 21,|||||||||| ||||||||||,0,21
+11_fwd,gi|1907192964|ref|XM_036154429.1|,"PREDICTED: Mus musculus POTE ankyrin domain family member 3D (Potefam3d), transcript variant X3, mRNA",0.109069,20 / 21,||||||||||| |||||||||,0,21
+20_fwd,gi|2277250911|ref|NM_001409907.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 10, mRNA",197.17,21 / 25,|||||| ||||   |||||||||||,1,7
+20_fwd,gi|1907170910|ref|XM_006504990.5|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X5, mRNA",197.17,21 / 25,|||||| ||||   |||||||||||,1,7
+21_fwd,gi|2277250919|ref|NM_001409903.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 6, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277251100|ref|NM_008174.4|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 1, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277251093|ref|NM_001409909.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 12, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277250989|ref|NM_001409901.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 5, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277250911|ref|NM_001409907.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 10, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|1720417078|ref|XM_006504991.4|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X4, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277251120|ref|NM_001409904.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 7, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277250924|ref|NM_001361125.2|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 3, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277251009|ref|NM_001409908.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 11, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|1907170914|ref|XM_030255175.2|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X7, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277251103|ref|NM_001311072.2|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 2, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|2277250861|ref|NM_001409900.1|,"Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant 4, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+21_fwd,gi|1907170910|ref|XM_006504990.5|,"PREDICTED: Mus musculus glutamate receptor, metabotropic 8 (Grm8), transcript variant X5, mRNA",56.4901,22 / 26,|||||| ||||   ||||||||||||,0,6
+27_fwd,gi|1907078163|ref|XM_017314101.3|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X1, mRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
+27_fwd,gi|1907078181|ref|XM_036156021.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X4, mRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
+27_fwd,gi|1907078169|ref|XM_030245285.2|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X2, mRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
+27_fwd,gi|1907158151|ref|XR_004942083.1|,"PREDICTED: Mus musculus predicted gene, 54236 (Gm54236), transcript variant X6, ncRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
+27_fwd,gi|1907078184|ref|XM_036156022.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X5, mRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
+27_fwd,gi|1907078175|ref|XM_036156020.1|,"PREDICTED: Mus musculus family with sequence similarity 13, member C (Fam13c), transcript variant X3, mRNA",56.508,19 / 22,||||||||||||  |||| |||,0,12
 1_rev,gi|1907127123|ref|XR_877087.4|,"PREDICTED: Mus musculus predicted gene, 30284 (Gm30284), ncRNA",16.1898,19 / 21,||||||||  |||||||||||,0,8
-1_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
 1_rev,gi|731441432|ref|NR_126571.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 4, non-coding RNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
-1_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
 1_rev,gi|731441407|ref|NM_133182.3|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 1, mRNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
-2_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
-2_rev,gi|731441432|ref|NR_126571.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 4, non-coding RNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
-2_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
-2_rev,gi|731441407|ref|NM_133182.3|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 1, mRNA",4.63918,19 / 20,|||||| |||||||||||||,0,6
-3_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-3_rev,gi|731441432|ref|NR_126571.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 4, non-coding RNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-3_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-3_rev,gi|731441407|ref|NM_133182.3|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 1, mRNA",16.1923,18 / 19,||||| |||||||||||||,0,5
-4_rev,gi|1907173549|ref|XM_006506625.3|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X2, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|1907173551|ref|XM_006506627.5|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X4, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|1907173552|ref|XM_030255596.2|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X5, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|1907173547|ref|XM_036152308.1|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X1, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|557440772|ref|NM_001037493.2|,"Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant 2, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|1907173550|ref|XM_006506626.5|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X3, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|82734230|ref|NM_027868.2|,"Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant 1, mRNA",0.380747,19 / 20,|||||||||| |||||||||,0,20
-4_rev,gi|1907114584|ref|XR_004938887.1|,"PREDICTED: Mus musculus predicted gene, 53868 (Gm53868), ncRNA",56.5078,19 / 22,|||||||||||   ||||||||,0,11
-13_rev,gi|357588409|ref|NM_001252563.1|,"Mus musculus matrilin 4 (Matn4), transcript variant 2, mRNA",16.1898,20 / 23,||||||||||   ||||||||||,0,10
+1_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
+1_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",16.1898,19 / 21,|| |||||| |||||||||||,0,9
+2_rev,gi|731441432|ref|NR_126571.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 4, non-coding RNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
+2_rev,gi|731441407|ref|NM_133182.3|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 1, mRNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
+2_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
+2_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",4.6392,19 / 20,|||||| |||||||||||||,0,6
+2_rev,gi|2216732217|ref|NM_001403738.1|,"Mus musculus membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3) (Mpp3), transcript variant 2, mRNA",56.517,18 / 20,||||| |||||||||| |||,0,5
+2_rev,gi|2216732167|ref|NM_001403739.1|,"Mus musculus membrane protein, palmitoylated 3 (MAGUK p55 subfamily member 3) (Mpp3), transcript variant 5, mRNA",56.517,18 / 20,||||| |||||||||| |||,0,5
+3_rev,gi|731441432|ref|NR_126571.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 4, non-coding RNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+3_rev,gi|731441407|ref|NM_133182.3|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 1, mRNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+3_rev,gi|731441409|ref|NM_001302965.1|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 3, mRNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+3_rev,gi|731441408|ref|NM_001077638.2|,"Mus musculus protein arginine N-methyltransferase 2 (Prmt2), transcript variant 2, mRNA",16.1924,18 / 19,||||| |||||||||||||,0,5
+4_rev,gi|1907173547|ref|XM_036152308.1|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X1, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|1907173549|ref|XM_006506625.3|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X2, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|82734230|ref|NM_027868.2|,"Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant 1, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|557440772|ref|NM_001037493.2|,"Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant 2, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|1907173550|ref|XM_006506626.5|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X3, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|1907173552|ref|XM_030255596.2|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X5, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|1907173551|ref|XM_006506627.5|,"PREDICTED: Mus musculus solute carrier family 41, member 3 (Slc41a3), transcript variant X4, mRNA",0.380748,19 / 20,|||||||||| |||||||||,0,20
+4_rev,gi|1907114584|ref|XR_004938887.1|,"PREDICTED: Mus musculus predicted gene, 53868 (Gm53868), ncRNA",56.508,19 / 22,|||||||||||   ||||||||,0,11
 13_rev,gi|357588406|ref|NM_013592.4|,"Mus musculus matrilin 4 (Matn4), transcript variant 1, mRNA",16.1898,20 / 23,||||||||||   ||||||||||,0,10
-14_rev,gi|357588409|ref|NM_001252563.1|,"Mus musculus matrilin 4 (Matn4), transcript variant 2, mRNA",16.1898,20 / 23,|||||||||||   |||||||||,0,11
+13_rev,gi|357588409|ref|NM_001252563.1|,"Mus musculus matrilin 4 (Matn4), transcript variant 2, mRNA",16.1898,20 / 23,||||||||||   ||||||||||,0,10
 14_rev,gi|357588406|ref|NM_013592.4|,"Mus musculus matrilin 4 (Matn4), transcript variant 1, mRNA",16.1898,20 / 23,|||||||||||   |||||||||,0,11
+14_rev,gi|357588409|ref|NM_001252563.1|,"Mus musculus matrilin 4 (Matn4), transcript variant 2, mRNA",16.1898,20 / 23,|||||||||||   |||||||||,0,11
 17_rev,gi|485464585|ref|NM_011596.5|,"Mus musculus ATPase, H+ transporting, lysosomal V0 subunit A2 (Atp6v0a2), mRNA",1.32873,20 / 21,||||||| |||||||||||||,1,8
-17_rev,gi|1584775673|ref|NM_001368835.1|,"Mus musculus ciliated left-right organizer protein containing ZP-N domains (Ciroz), transcript variant 1, mRNA",16.1872,20 / 23,|||||||||||  |||| |||||,0,11
-17_rev,gi|1907155849|ref|XM_006538818.2|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X2, mRNA",16.1872,20 / 23,|||||||||||  |||| |||||,0,11
-17_rev,gi|1907155848|ref|XM_006538816.3|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X1, mRNA",16.1872,20 / 23,|||||||||||  |||| |||||,0,11
-17_rev,gi|1907155852|ref|XM_036164088.1|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X4, mRNA",16.1872,20 / 23,|||||||||||  |||| |||||,0,11
-17_rev,gi|1907155850|ref|XM_036164087.1|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X3, mRNA",16.1872,20 / 23,|||||||||||  |||| |||||,0,11
-18_rev,gi|747019223|ref|NM_001304266.1|,"Mus musculus Snf2-related CREBBP activator protein (Srcap), mRNA",16.1923,18 / 19,||||||||||||| |||||,1,14
+17_rev,gi|1584775673|ref|NM_001368835.1|,"Mus musculus ciliated left-right organizer protein containing ZP-N domains (Ciroz), transcript variant 1, mRNA",16.1873,20 / 23,|||||||||||  |||| |||||,0,11
+17_rev,gi|1907155849|ref|XM_006538818.2|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X2, mRNA",16.1873,20 / 23,|||||||||||  |||| |||||,0,11
+17_rev,gi|1907155850|ref|XM_036164087.1|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X3, mRNA",16.1873,20 / 23,|||||||||||  |||| |||||,0,11
+17_rev,gi|1907155852|ref|XM_036164088.1|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X4, mRNA",16.1873,20 / 23,|||||||||||  |||| |||||,0,11
+17_rev,gi|1907155848|ref|XM_006538816.3|,"PREDICTED: Mus musculus predicted gene 572 (Gm572), transcript variant X1, mRNA",16.1873,20 / 23,|||||||||||  |||| |||||,0,11
+18_rev,gi|747019223|ref|NM_001304266.1|,"Mus musculus Snf2-related CREBBP activator protein (Srcap), mRNA",16.1924,18 / 19,||||||||||||| |||||,1,14
 19_rev,gi|281182703|ref|NM_026298.5|,"Mus musculus intraflagellar transport 172 (Ift172), mRNA",16.1898,19 / 21,|||| |||| |||||||||||,0,9
-19_rev,gi|1907153021|ref|XR_004941481.1|,"PREDICTED: Mus musculus predicted gene, 40062 (Gm40062), transcript variant X2, ncRNA",56.5078,19 / 22,||||||||||||   |||||||,0,12
-19_rev,gi|1907153020|ref|XR_867338.2|,"PREDICTED: Mus musculus predicted gene, 40062 (Gm40062), transcript variant X1, ncRNA",56.5078,19 / 22,||||||||||||   |||||||,0,12
-22_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
-24_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
-25_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
+19_rev,gi|1907153021|ref|XR_004941481.1|,"PREDICTED: Mus musculus predicted gene, 40062 (Gm40062), transcript variant X2, ncRNA",56.508,19 / 22,||||||||||||   |||||||,0,12
+19_rev,gi|1907153020|ref|XR_867338.2|,"PREDICTED: Mus musculus predicted gene, 40062 (Gm40062), transcript variant X1, ncRNA",56.508,19 / 22,||||||||||||   |||||||,0,12
 22_rev,gi|1247174045|ref|NM_009547.3|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 1, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
 24_rev,gi|1247174045|ref|NM_009547.3|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 1, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
 25_rev,gi|1247174045|ref|NM_009547.3|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 1, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
 22_rev,gi|1247173953|ref|NM_001356282.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 2, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
 24_rev,gi|1247173953|ref|NM_001356282.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 2, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
 25_rev,gi|1247173953|ref|NM_001356282.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 2, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
-26_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.5078,19 / 22,||||||||||   |||||||||,0,10
-30_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.5078,19 / 22,||||||||||   |||||||||,0,10
-31_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.5078,19 / 22,||||||||||   |||||||||,0,10
-27_rev,gi|251823867|ref|NM_001162923.1|,"Mus musculus RAS-like, family 12 (Rasl12), transcript variant 2, mRNA",4.63845,20 / 22,||||||||||||||  ||||||,0,14
-27_rev,gi|1907200229|ref|XR_379455.5|,"PREDICTED: Mus musculus RAS-like, family 12 (Rasl12), transcript variant X2, misc_RNA",4.63845,20 / 22,||||||||||||||  ||||||,0,14
+22_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
+24_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
+25_rev,gi|1247173963|ref|NM_001356283.1|,"Mus musculus zinc finger and BTB domain containing 14 (Zbtb14), transcript variant 3, mRNA",16.1898,19 / 21,|||||| || |||||||||||,0,9
+26_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.508,19 / 22,||||||||||   |||||||||,0,10
+30_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.508,19 / 22,||||||||||   |||||||||,0,10
+31_rev,gi|158508457|ref|NM_010186.5|,"Mus musculus Fc receptor, IgG, high affinity I (Fcgr1), mRNA",56.508,19 / 22,||||||||||   |||||||||,0,10
+27_rev,gi|251823867|ref|NM_001162923.1|,"Mus musculus RAS-like, family 12 (Rasl12), transcript variant 2, mRNA",4.63846,20 / 22,||||||||||||||  ||||||,0,14
+27_rev,gi|1907200229|ref|XR_379455.5|,"PREDICTED: Mus musculus RAS-like, family 12 (Rasl12), transcript variant X2, misc_RNA",4.63846,20 / 22,||||||||||||||  ||||||,0,14

@@ -1,36 +1,36 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
+5_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
 6_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
 7_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
 8_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
 9_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
-10_fwd,gi|919185125|ref|NM_007644.4|,"Mus musculus scavenger receptor class B, member 2 (Scarb2), mRNA",16.2053,19 / 21,||||| |||||||||| ||||,0,16
-1_rev,gi|1388153548|ref|NM_001166507.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 3, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-3_rev,gi|1388153548|ref|NM_001166507.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 3, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-1_rev,gi|340745341|ref|NR_040505.1|,"Mus musculus RIKEN cDNA 4930405A21 gene (4930405A21Rik), long non-coding RNA",4.64383,17 / 18,|||| |||||||||||||,0,18
-3_rev,gi|340745341|ref|NR_040505.1|,"Mus musculus RIKEN cDNA 4930405A21 gene (4930405A21Rik), long non-coding RNA",4.64383,17 / 18,|||| |||||||||||||,0,18
-1_rev,gi|1388153460|ref|NM_001166506.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 2, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-3_rev,gi|1388153460|ref|NM_001166506.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 2, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-1_rev,gi|1388153542|ref|NM_028777.4|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 1, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-3_rev,gi|1388153542|ref|NM_028777.4|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 1, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-1_rev,gi|1907083369|ref|XM_006534352.2|,"PREDICTED: Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant X1, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-3_rev,gi|1907083369|ref|XM_006534352.2|,"PREDICTED: Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant X1, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-1_rev,gi|1388153485|ref|NM_001363165.1|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 5, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-3_rev,gi|1388153485|ref|NM_001363165.1|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 5, mRNA",4.64383,17 / 18,|||||| |||||||||||,0,18
-1_rev,gi|894216222|ref|NM_001310733.1|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 2, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|894216222|ref|NM_001310733.1|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 2, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-1_rev,gi|1907163101|ref|XR_377055.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X13, misc_RNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|1907163101|ref|XR_377055.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X13, misc_RNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-1_rev,gi|1907163092|ref|XM_006504296.4|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X8, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|1907163092|ref|XM_006504296.4|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X8, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-1_rev,gi|894216239|ref|NM_001081388.2|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 1, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|894216239|ref|NM_001081388.2|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 1, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-1_rev,gi|1907163096|ref|XM_006504297.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X10, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|1907163096|ref|XM_006504297.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X10, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-1_rev,gi|1907163094|ref|XM_017320870.3|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X9, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-3_rev,gi|1907163094|ref|XM_017320870.3|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X9, mRNA",56.5735,18 / 20,|||||  |||||||||||||,0,5
-11_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
-13_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
-11_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
-13_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
-15_rev,gi|142381555|ref|NM_001033783.2|,"Mus musculus prostate and testis expressed 9 (Pate9), mRNA",0.381111,19 / 20,||||||||| ||||||||||,0,20
-15_rev,gi|1845866035|ref|NR_168646.1|,"Mus musculus predicted gene, 34000 (Gm34000), long non-coding RNA",16.2053,19 / 21,|||||||||||| || |||||,0,15
+1_rev,gi|340745341|ref|NR_040505.1|,"Mus musculus RIKEN cDNA 4930405A21 gene (4930405A21Rik), long non-coding RNA",4.64385,17 / 18,|||| |||||||||||||,0,18
+3_rev,gi|340745341|ref|NR_040505.1|,"Mus musculus RIKEN cDNA 4930405A21 gene (4930405A21Rik), long non-coding RNA",4.64385,17 / 18,|||| |||||||||||||,0,18
+1_rev,gi|1907083369|ref|XM_006534352.2|,"PREDICTED: Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant X1, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+3_rev,gi|1907083369|ref|XM_006534352.2|,"PREDICTED: Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant X1, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+1_rev,gi|1388153548|ref|NM_001166507.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 3, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+3_rev,gi|1388153548|ref|NM_001166507.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 3, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+1_rev,gi|1388153485|ref|NM_001363165.1|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 5, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+3_rev,gi|1388153485|ref|NM_001363165.1|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 5, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+1_rev,gi|1388153460|ref|NM_001166506.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 2, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+3_rev,gi|1388153460|ref|NM_001166506.2|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 2, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+1_rev,gi|1388153542|ref|NM_028777.4|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 1, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+3_rev,gi|1388153542|ref|NM_028777.4|,"Mus musculus SEC14-like lipid binding 1 (Sec14l1), transcript variant 1, mRNA",4.64385,17 / 18,|||||| |||||||||||,0,18
+1_rev,gi|1907163101|ref|XR_377055.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X13, misc_RNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|1907163101|ref|XR_377055.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X13, misc_RNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+1_rev,gi|894216222|ref|NM_001310733.1|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 2, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|894216222|ref|NM_001310733.1|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 2, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+1_rev,gi|1907163096|ref|XM_006504297.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X10, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|1907163096|ref|XM_006504297.5|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X10, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+1_rev,gi|1907163094|ref|XM_017320870.3|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X9, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|1907163094|ref|XM_017320870.3|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X9, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+1_rev,gi|894216239|ref|NM_001081388.2|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 1, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|894216239|ref|NM_001081388.2|,"Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant 1, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+1_rev,gi|1907163092|ref|XM_006504296.4|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X8, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+3_rev,gi|1907163092|ref|XM_006504296.4|,"PREDICTED: Mus musculus RIMS binding protein 2 (Rimbp2), transcript variant X8, mRNA",56.5736,18 / 20,|||||  |||||||||||||,0,5
+10_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
+12_rev,gi|808688257|ref|NM_030021.3|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 1, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
+10_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
+12_rev,gi|808688260|ref|NM_001308024.1|,"Mus musculus cutA divalent cation tolerance homolog-like (Cutal), transcript variant 2, mRNA",16.2053,19 / 21,|||||| ||||| ||||||||,0,6
+14_rev,gi|142381555|ref|NM_001033783.2|,"Mus musculus prostate and testis expressed 9 (Pate9), mRNA",0.381112,19 / 20,||||||||| ||||||||||,0,20
+14_rev,gi|1845866035|ref|NR_168646.1|,"Mus musculus predicted gene, 34000 (Gm34000), long non-coding RNA",16.2053,19 / 21,|||||||||||| || |||||,0,15

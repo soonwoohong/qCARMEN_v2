@@ -1,85 +1,118 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-28_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-28_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-28_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-28_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-28_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-28_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-33_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-34_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-35_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5161,19 / 22,|||||||   ||||||||||||,1,8
-3_rev,gi|1907185430|ref|XR_391274.2|,"PREDICTED: Mus musculus predicted gene, 36830 (Gm36830), transcript variant X2, ncRNA",56.5331,17 / 18,|||||| |||||||||||,0,6
-4_rev,gi|1720403158|ref|XM_030252420.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X6, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|239937550|ref|NM_001161765.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 1, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1241781424|ref|NM_001355119.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 4, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1720403154|ref|XM_030252418.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X2, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1907148961|ref|XM_006500995.5|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X1, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1720403156|ref|XM_030252419.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X5, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1240431727|ref|NM_010232.5|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 3, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1907148965|ref|XM_011240013.3|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X4, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|1039763759|ref|XM_006500996.2|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X3, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-4_rev,gi|239937547|ref|NM_001161763.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 2, mRNA",4.64052,17 / 18,||||||||| ||||||||,0,18
-5_rev,gi|914403583|ref|NM_001312644.1|,"Mus musculus tetratricopeptide repeat domain 6 (Ttc6), mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1907089119|ref|XM_030246911.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X7, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372949|ref|XR_001780477.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X8, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372943|ref|XM_017315187.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X4, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372959|ref|XR_001780482.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X16, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372953|ref|XR_001780479.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X11, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372951|ref|XR_001780478.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X10, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372941|ref|XM_017315185.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X2, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372956|ref|XM_017315193.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X13, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372950|ref|XM_017315191.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X9, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372957|ref|XR_001780480.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X14, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1907089114|ref|XM_017315188.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X5, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1907089117|ref|XM_017315189.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X6, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372942|ref|XM_017315186.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X3, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372955|ref|XM_017315192.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X12, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372958|ref|XR_001780481.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X15, misc_RNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-5_rev,gi|1720372939|ref|XM_017315184.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X1, mRNA",56.5246,18 / 20,|||||||||| |||||| ||,0,10
-7_rev,gi|187827011|ref|NM_001126331.1|,"Mus musculus transformation related protein 73 (Trp73), transcript variant 3, mRNA",4.64052,17 / 18,||||||||||||| ||||,0,18
-7_rev,gi|187826978|ref|NM_001126330.1|,"Mus musculus transformation related protein 73 (Trp73), transcript variant 2, mRNA",4.64052,17 / 18,||||||||||||| ||||,0,18
-7_rev,gi|1907140337|ref|XM_006499687.5|,"PREDICTED: Mus musculus MAX gene associated (Mga), transcript variant X2, mRNA",197.32,17 / 19,|||| ||||||||| ||||,0,4
-9_rev,gi|142347945|ref|NM_008710.3|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 1, mRNA; nuclear gene for mitochondrial product",16.1921,19 / 21,||||| ||||||| |||||||,0,5
-9_rev,gi|819023690|ref|NM_001308506.1|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 2, mRNA; nuclear gene for mitochondrial product",16.1921,19 / 21,||||| ||||||| |||||||,0,5
-10_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1921,19 / 21,|||||||  ||||||||||||,1,8
-11_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1921,19 / 21,|||||||  ||||||||||||,1,8
-10_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1921,19 / 21,|||||||  ||||||||||||,1,8
-11_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1921,19 / 21,|||||||  ||||||||||||,1,8
-10_rev,gi|1907155635|ref|XM_017320147.3|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X3, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-11_rev,gi|1907155635|ref|XM_017320147.3|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X3, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-10_rev,gi|1907155634|ref|XR_003954914.2|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X2, misc_RNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-11_rev,gi|1907155634|ref|XR_003954914.2|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X2, misc_RNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-10_rev,gi|2472930870|ref|NM_001419414.1|,"Mus musculus importin 13 (Ipo13), transcript variant 2, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-11_rev,gi|2472930870|ref|NM_001419414.1|,"Mus musculus importin 13 (Ipo13), transcript variant 2, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-10_rev,gi|2472931062|ref|NR_185081.1|,"Mus musculus importin 13 (Ipo13), transcript variant 3, non-coding RNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-11_rev,gi|2472931062|ref|NR_185081.1|,"Mus musculus importin 13 (Ipo13), transcript variant 3, non-coding RNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-10_rev,gi|141802110|ref|NM_146152.3|,"Mus musculus importin 13 (Ipo13), transcript variant 1, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-11_rev,gi|141802110|ref|NM_146152.3|,"Mus musculus importin 13 (Ipo13), transcript variant 1, mRNA",16.1921,19 / 21,||||| |||||||||||| ||,0,5
-22_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-23_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-22_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-23_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-22_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-23_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63912,19 / 20,||||||| ||||||||||||,0,7
-22_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1921,19 / 21,||||||  |||||||||||||,0,6
-23_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1921,19 / 21,||||||  |||||||||||||,0,6
-22_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1921,19 / 21,||||||  |||||||||||||,0,6
-23_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1921,19 / 21,||||||  |||||||||||||,0,6
-25_rev,gi|2416977464|ref|NM_001024856.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 2, mRNA",16.1921,19 / 21,|||| ||||||||| ||||||,0,14
-25_rev,gi|2416977394|ref|NM_080788.4|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 1, mRNA",16.1921,19 / 21,|||| ||||||||| ||||||,0,14
-25_rev,gi|2416977390|ref|NM_001024857.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 3, mRNA",16.1921,19 / 21,|||| ||||||||| ||||||,0,14
+13_fwd,gi|755567124|ref|XR_035333.4|,"PREDICTED: Mus musculus RIKEN cDNA 4932431L22 gene (4932431L22Rik), misc_RNA",1.32912,18 / 19,||| |||||||||||||||,0,19
+14_fwd,gi|755567124|ref|XR_035333.4|,"PREDICTED: Mus musculus RIKEN cDNA 4932431L22 gene (4932431L22Rik), misc_RNA",1.32912,18 / 19,||| |||||||||||||||,0,19
+13_fwd,gi|2214415056|ref|NM_001403453.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 5, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+14_fwd,gi|2214415056|ref|NM_001403453.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 5, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+13_fwd,gi|2264223320|ref|NM_001408958.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 19, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223320|ref|NM_001408958.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 19, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2214415082|ref|NM_001403456.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 8, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+14_fwd,gi|2214415082|ref|NM_001403456.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 8, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+13_fwd,gi|2264223346|ref|NM_001408953.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 14, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223346|ref|NM_001408953.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 14, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223312|ref|NM_001408943.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 5, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223312|ref|NM_001408943.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 5, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223345|ref|NM_001356440.2|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 3, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223345|ref|NM_001356440.2|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 3, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2214414642|ref|NM_001403454.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 6, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+14_fwd,gi|2214414642|ref|NM_001403454.1|,"Mus musculus fuzzy planar cell polarity protein (Fuz), transcript variant 6, mRNA",56.5157,18 / 20,|||||||| |||| ||||||,0,13
+13_fwd,gi|1907172192|ref|XM_006505983.5|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X1, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|1907172192|ref|XM_006505983.5|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X1, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|1907172193|ref|XM_036166051.1|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X3, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|1907172193|ref|XM_036166051.1|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X3, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223336|ref|NM_001134384.2|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 2, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223336|ref|NM_001134384.2|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 2, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223300|ref|NM_001408949.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 10, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223300|ref|NM_001408949.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 10, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|1907172204|ref|XM_017321533.2|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X14, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|1907172204|ref|XM_017321533.2|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X14, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223306|ref|NM_001408957.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 18, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223306|ref|NM_001408957.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 18, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|2264223298|ref|NM_001408942.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 4, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|2264223298|ref|NM_001408942.1|,"Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant 4, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+13_fwd,gi|1907172199|ref|XM_011241302.4|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X8, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+14_fwd,gi|1907172199|ref|XM_011241302.4|,"PREDICTED: Mus musculus IQ motif and Sec7 domain 1 (Iqsec1), transcript variant X8, mRNA",56.5157,18 / 20,|||||||||| |||| ||||,0,10
+15_fwd,gi|86439988|ref|NM_133859.2|,"Mus musculus olfactomedin-like 3 (Olfml3), mRNA",16.192,18 / 19,|||||| ||||||||||||,0,6
+16_fwd,gi|86439988|ref|NM_133859.2|,"Mus musculus olfactomedin-like 3 (Olfml3), mRNA",16.192,18 / 19,|||||| ||||||||||||,0,6
+31_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107936|ref|XR_004938677.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X16, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+31_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107934|ref|XR_004938676.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X15, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+31_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107939|ref|XR_004938679.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X18, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+31_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107937|ref|XR_004938678.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X17, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+31_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107932|ref|XR_004938675.1|,"PREDICTED: Mus musculus predicted gene, 16867 (Gm16867), transcript variant X14, misc_RNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+31_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+36_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+37_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+38_fwd,gi|1907107943|ref|XR_004938681.1|,"PREDICTED: Mus musculus predicted gene 27177 (Gm27177), transcript variant X1, ncRNA",56.5067,19 / 22,|||||||   ||||||||||||,1,8
+3_rev,gi|1907185430|ref|XR_391274.2|,"PREDICTED: Mus musculus predicted gene, 36830 (Gm36830), transcript variant X2, ncRNA",56.5248,17 / 18,|||||| |||||||||||,0,6
+4_rev,gi|1039763759|ref|XM_006500996.2|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X3, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|239937550|ref|NM_001161765.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 1, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1720403158|ref|XM_030252420.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X6, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1907148961|ref|XM_006500995.5|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X1, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1720403154|ref|XM_030252418.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X2, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|239937547|ref|NM_001161763.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 2, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1241781424|ref|NM_001355119.1|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 4, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1240431727|ref|NM_010232.5|,"Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant 3, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1720403156|ref|XM_030252419.1|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X5, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+4_rev,gi|1907148965|ref|XM_011240013.3|,"PREDICTED: Mus musculus flavin containing monooxygenase 5 (Fmo5), transcript variant X4, mRNA",4.63984,17 / 18,||||||||| ||||||||,0,18
+5_rev,gi|1720372956|ref|XM_017315193.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X13, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372939|ref|XM_017315184.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X1, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372941|ref|XM_017315185.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X2, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372949|ref|XR_001780477.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X8, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|914403583|ref|NM_001312644.1|,"Mus musculus tetratricopeptide repeat domain 6 (Ttc6), mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372943|ref|XM_017315187.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X4, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372957|ref|XR_001780480.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X14, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372942|ref|XM_017315186.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X3, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372950|ref|XM_017315191.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X9, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1907089114|ref|XM_017315188.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X5, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372959|ref|XR_001780482.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X16, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1907089117|ref|XM_017315189.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X6, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372953|ref|XR_001780479.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X11, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1907089119|ref|XM_030246911.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X7, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372951|ref|XR_001780478.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X10, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372955|ref|XM_017315192.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X12, mRNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+5_rev,gi|1720372958|ref|XR_001780481.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 6 (Ttc6), transcript variant X15, misc_RNA",56.5157,18 / 20,|||||||||| |||||| ||,0,10
+7_rev,gi|187827011|ref|NM_001126331.1|,"Mus musculus transformation related protein 73 (Trp73), transcript variant 3, mRNA",4.63984,17 / 18,||||||||||||| ||||,0,18
+7_rev,gi|187826978|ref|NM_001126330.1|,"Mus musculus transformation related protein 73 (Trp73), transcript variant 2, mRNA",4.63984,17 / 18,||||||||||||| ||||,0,18
+9_rev,gi|819023690|ref|NM_001308506.1|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 2, mRNA; nuclear gene for mitochondrial product",16.1894,19 / 21,||||| ||||||| |||||||,0,5
+9_rev,gi|142347945|ref|NM_008710.3|,"Mus musculus nicotinamide nucleotide transhydrogenase (Nnt), transcript variant 1, mRNA; nuclear gene for mitochondrial product",16.1894,19 / 21,||||| ||||||| |||||||,0,5
+10_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1894,19 / 21,|||||||  ||||||||||||,1,8
+11_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1894,19 / 21,|||||||  ||||||||||||,1,8
+10_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1894,19 / 21,|||||||  ||||||||||||,1,8
+11_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1894,19 / 21,|||||||  ||||||||||||,1,8
+10_rev,gi|141802110|ref|NM_146152.3|,"Mus musculus importin 13 (Ipo13), transcript variant 1, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|141802110|ref|NM_146152.3|,"Mus musculus importin 13 (Ipo13), transcript variant 1, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+10_rev,gi|1907155634|ref|XR_003954914.2|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X2, misc_RNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|1907155634|ref|XR_003954914.2|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X2, misc_RNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+10_rev,gi|1907155635|ref|XM_017320147.3|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X3, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|1907155635|ref|XM_017320147.3|,"PREDICTED: Mus musculus importin 13 (Ipo13), transcript variant X3, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+10_rev,gi|2472931062|ref|NR_185081.1|,"Mus musculus importin 13 (Ipo13), transcript variant 3, non-coding RNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|2472931062|ref|NR_185081.1|,"Mus musculus importin 13 (Ipo13), transcript variant 3, non-coding RNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+10_rev,gi|2472930870|ref|NM_001419414.1|,"Mus musculus importin 13 (Ipo13), transcript variant 2, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+11_rev,gi|2472930870|ref|NM_001419414.1|,"Mus musculus importin 13 (Ipo13), transcript variant 2, mRNA",16.1894,19 / 21,||||| |||||||||||| ||,0,5
+25_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+26_rev,gi|1678482717|ref|NM_001370827.1|,"Mus musculus predicted gene 1043 (Gm1043), mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+25_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+26_rev,gi|1720414013|ref|XM_011240811.2|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X1, mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+25_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+26_rev,gi|1720414014|ref|XM_006504236.4|,"PREDICTED: Mus musculus predicted gene 1043 (Gm1043), transcript variant X2, mRNA",4.63835,19 / 20,||||||| ||||||||||||,0,7
+25_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1894,19 / 21,||||||  |||||||||||||,0,6
+26_rev,gi|2465537771|ref|NM_175450.5|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 1, mRNA",16.1894,19 / 21,||||||  |||||||||||||,0,6
+25_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1894,19 / 21,||||||  |||||||||||||,0,6
+26_rev,gi|2465539048|ref|NR_184850.1|,"Mus musculus WD repeat domain 18 (Wdr18), transcript variant 2, non-coding RNA",16.1894,19 / 21,||||||  |||||||||||||,0,6
+28_rev,gi|2416977394|ref|NM_080788.4|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 1, mRNA",16.1894,19 / 21,|||| ||||||||| ||||||,0,14
+28_rev,gi|2416977464|ref|NM_001024856.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 2, mRNA",16.1894,19 / 21,|||| ||||||||| ||||||,0,14
+28_rev,gi|2416977390|ref|NM_001024857.3|,"Mus musculus tau tubulin kinase 2 (Ttbk2), transcript variant 3, mRNA",16.1894,19 / 21,|||| ||||||||| ||||||,0,14

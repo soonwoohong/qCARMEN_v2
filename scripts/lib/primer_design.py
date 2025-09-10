@@ -99,7 +99,8 @@ class CommonPrimerDesign:
             'PRIMER_PAIR_MAX_COMPL_END': 3.0,
             'PRIMER_EXON_5_MIN_MATCH': 7,
             'PRIMER_EXON_3_MIN_MATCH': 4,
-            'PRIMER_EXON_3_MAX_MATCH': 8
+            'PRIMER_EXON_3_MAX_MATCH': 8,
+            'PRIMER_BUFFER': 20 # have a forced buffer either from the 5' end or 3' end.
         }
     def design_primers(self, gene_name: str, genbank_files: List[str]):
         """
@@ -229,7 +230,7 @@ class CommonPrimerDesign:
         Tm_max_diff = self.default_params['PRIMER_MAX_TM_DIFF']
 
         desired_amplicon_length = self.default_params['DESIRED_AMPLICON_LENGTH']
-
+        buffer = self.default_params['PRIMER_BUFFER']
 
         for junction in junctions:
             # only design if junction is present in all isoforms
@@ -291,7 +292,11 @@ class CommonPrimerDesign:
                                 # <------------------------------------> amplicon length
 
                                 #amplicon_length = min(desired_amplicon_length, down_end+overlap)
-                                target_amplicon_length = min(desired_amplicon_length, down_end + overlap)
+                                #target_amplicon_length = min(desired_amplicon_length, down_end + overlap)
+                                if desired_amplicon_length < down_end + overlap:
+                                    target_amplicon_length = desired_amplicon_length
+                                else:
+                                    target_amplicon_length = down_end + overlap - buffer - 10
                                 for amplicon_length in range(target_amplicon_length-10, target_amplicon_length+10):
                                     for rev_primer_len in range(min_len, max_len + 1):
                                         rev_end = amplicon_length - overlap
@@ -380,8 +385,16 @@ class CommonPrimerDesign:
                     <--------------------------------------> amplicon length
                                 """
                                 #amplicon_length = min(desired_amplicon_length, up_end+overlap)
-                                target_amplicon_length = min(desired_amplicon_length, up_end + overlap)
+
+                                #target_amplicon_length = min(desired_amplicon_length, up_end + overlap - buffer-10)
+                                if desired_amplicon_length < up_end + overlap:
+                                    target_amplicon_length = desired_amplicon_length
+                                else:
+                                    target_amplicon_length = up_end + overlap - buffer - 10
+
+
                                 for amplicon_length in range(target_amplicon_length - 10, target_amplicon_length + 10):
+
                                     for fwd_primer_len in range(min_len, max_len+1):
                                         # fwd_primer will be upstream_seq[-fwd_start:-fwd_end]
                                         # position on upstream_seq (backward)
@@ -540,7 +553,7 @@ class CommonPrimerDesign:
         conserved_regions = self._find_conserved_regions(gene,
                                                          min_length = round(self.default_params['DESIRED_AMPLICON_LENGTH']/2))
         # both primers are not on junction but on conserved regions
-        buffer = 20 # avoid primers on 5'end or 3'end of the conserved region.
+        buffer = self.default_params['PRIMER_BUFFER'] # avoid primers on 5'end or 3'end of the conserved region.
         primers_C = []
         logger.info(f"{gene} has {len(conserved_regions)} conserved regions across isoforms.")
 

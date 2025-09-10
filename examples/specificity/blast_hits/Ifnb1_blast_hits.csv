@@ -1,23 +1,23 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-2_fwd,gi|1907201252|ref|XR_870570.4|,"PREDICTED: Mus musculus predicted gene, 36198 (Gm36198), transcript variant X2, ncRNA",56.562,19 / 22,|||||||   ||||||||||||,0,7
+2_fwd,gi|1907201252|ref|XR_870570.4|,"PREDICTED: Mus musculus predicted gene, 36198 (Gm36198), transcript variant X2, ncRNA",56.5622,19 / 22,|||||||   ||||||||||||,0,7
 3_fwd,gi|1907201252|ref|XR_870570.4|,"PREDICTED: Mus musculus predicted gene, 36198 (Gm36198), transcript variant X2, ncRNA",16.2053,20 / 23,||||||||   ||||||||||||,0,8
-4_fwd,gi|2211362482|ref|NR_175321.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 9, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
-4_fwd,gi|2211362499|ref|NR_175323.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 11, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
-4_fwd,gi|2211362492|ref|NR_175322.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 10, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
-4_fwd,gi|2211362384|ref|NM_001402936.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 3, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
-4_fwd,gi|2211362494|ref|NR_175320.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 8, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362490|ref|NR_175319.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 7, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362263|ref|NM_001402937.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 4, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362215|ref|NM_001402938.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 5, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362299|ref|NM_001402939.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 6, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
+4_fwd,gi|2211362492|ref|NR_175322.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 10, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
+4_fwd,gi|2211362494|ref|NR_175320.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 8, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362355|ref|NM_001402935.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 1, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
+4_fwd,gi|2211362384|ref|NM_001402936.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 3, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
+4_fwd,gi|2211362499|ref|NR_175323.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 11, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|1720420937|ref|XR_003946390.1|,"PREDICTED: Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant X5, misc_RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
+4_fwd,gi|2211362482|ref|NR_175321.1|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 9, non-coding RNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
 4_fwd,gi|2211362132|ref|NM_177301.6|,"Mus musculus heterogeneous nuclear ribonucleoprotein L (Hnrnpl), transcript variant 2, mRNA",16.2053,19 / 21,|||||||||||||  ||||||,1,14
-7_fwd,gi|1907153582|ref|XR_004941785.1|,"PREDICTED: Mus musculus midasin AAA ATPase 1 (Mdn1), transcript variant X2, misc_RNA",1.33021,20 / 21,||||||||| |||||||||||,0,9
 7_fwd,gi|1720401700|ref|XR_866398.2|,"PREDICTED: Mus musculus predicted gene, 39840 (Gm39840), transcript variant X2, ncRNA",1.33021,20 / 21,|||||||||||| ||||||||,0,12
-7_fwd,gi|1720401699|ref|XR_866397.2|,"PREDICTED: Mus musculus predicted gene, 39840 (Gm39840), transcript variant X1, ncRNA",1.33021,20 / 21,|||||||||||| ||||||||,0,12
 7_fwd,gi|124487132|ref|NM_001081392.1|,"Mus musculus midasin AAA ATPase 1 (Mdn1), mRNA",1.33021,20 / 21,||||||||| |||||||||||,0,9
 7_fwd,gi|1907153581|ref|XM_006537476.4|,"PREDICTED: Mus musculus midasin AAA ATPase 1 (Mdn1), transcript variant X1, mRNA",1.33021,20 / 21,||||||||| |||||||||||,0,9
+7_fwd,gi|1720401699|ref|XR_866397.2|,"PREDICTED: Mus musculus predicted gene, 39840 (Gm39840), transcript variant X1, ncRNA",1.33021,20 / 21,|||||||||||| ||||||||,0,12
+7_fwd,gi|1907153582|ref|XR_004941785.1|,"PREDICTED: Mus musculus midasin AAA ATPase 1 (Mdn1), transcript variant X2, misc_RNA",1.33021,20 / 21,||||||||| |||||||||||,0,9
 6_rev,gi|217416344|ref|NM_001142642.1|,"Mus musculus fibrosin-like 1 (Fbrsl1), transcript variant 1, mRNA",16.2053,19 / 21,|||| |||||||| |||||||,0,13
 8_rev,gi|217416344|ref|NM_001142642.1|,"Mus musculus fibrosin-like 1 (Fbrsl1), transcript variant 1, mRNA",16.2053,19 / 21,|||| |||||||| |||||||,0,13
 6_rev,gi|950426329|ref|NM_001317042.1|,"Mus musculus fibrosin-like 1 (Fbrsl1), transcript variant 3, mRNA",16.2053,19 / 21,|||| |||||||| |||||||,0,13

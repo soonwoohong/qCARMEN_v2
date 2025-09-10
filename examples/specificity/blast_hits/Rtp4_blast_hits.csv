@@ -1,63 +1,66 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-0_fwd,gi|2274157178|ref|NM_001409511.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 6, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|2274157098|ref|NM_178254.4|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 2, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|2274157102|ref|NM_001409509.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 3, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|2274157104|ref|NM_001360335.2|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 1, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|2274157224|ref|NM_001409512.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 4, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|2274157168|ref|NM_001409510.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 5, mRNA",4.64404,17 / 18,|||||||||| |||||||,0,18
-0_fwd,gi|1347826181|ref|NM_022411.4|,"Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), mRNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|1720364885|ref|XM_006532645.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X1, mRNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|1720364889|ref|XM_006532649.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X5, mRNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|1907087495|ref|XM_006515834.4|,"PREDICTED: Mus musculus AT-rich interaction domain 4A (Arid4a), transcript variant X4, mRNA",56.576,17 / 18,|||||||||||| |||||,1,13
-0_fwd,gi|1720364886|ref|XR_003949367.1|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X2, misc_RNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|1720364887|ref|XM_006532647.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X3, mRNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|142352643|ref|NR_003282.2|,"Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2, opposite strand (Slc13a2os), long non-coding RNA",56.576,17 / 18,||||| ||||||||||||,1,6
-0_fwd,gi|1907087492|ref|XM_036157398.1|,"PREDICTED: Mus musculus AT-rich interaction domain 4A (Arid4a), transcript variant X3, mRNA",56.576,17 / 18,|||||||||||| |||||,1,13
-1_fwd,gi|1907116893|ref|XM_036159817.1|,"PREDICTED: Mus musculus mitochondrial ribosomal protein L40 (Mrpl40), transcript variant X1, mRNA",4.64404,17 / 18,|||| |||||||||||||,0,18
-1_fwd,gi|2274157178|ref|NM_001409511.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 6, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|2274157098|ref|NM_178254.4|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 2, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|2274157102|ref|NM_001409509.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 3, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|294979221|ref|NR_033526.1|,"Mus musculus predicted gene, 16523 (Gm16523), non-coding RNA",4.64404,17 / 18,|||| |||||||||||||,0,18
-1_fwd,gi|2274157104|ref|NM_001360335.2|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 1, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|2274157224|ref|NM_001409512.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 4, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|2274157168|ref|NM_001409510.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 5, mRNA",4.64404,17 / 18,||||||||||| ||||||,0,18
-1_fwd,gi|255003745|ref|NM_010922.2|,"Mus musculus mitochondrial ribosomal protein L40 (Mrpl40), mRNA",4.64404,17 / 18,|||| |||||||||||||,0,18
-1_fwd,gi|1339869100|ref|NM_001360513.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 9, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869062|ref|NM_001360510.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 6, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339870510|ref|NM_001360506.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 3, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869134|ref|NM_001360512.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 8, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1907100421|ref|XM_017315955.3|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X5, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869058|ref|NM_001360509.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 5, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869102|ref|NM_001360516.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 13, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869079|ref|NM_001360511.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 7, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339871732|ref|NM_001360520.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 14, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1907100417|ref|XM_017315953.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X3, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1907100420|ref|XR_001781108.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X4, misc_RNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869172|ref|NM_001360504.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 1, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1907100401|ref|XM_006517998.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X1, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869124|ref|NM_001360505.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 2, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-1_fwd,gi|1339869110|ref|NM_001360514.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 10, mRNA",197.47,17 / 19,||||||||||||  |||||,0,12
-2_fwd,gi|1907131592|ref|XM_006526616.5|,"PREDICTED: Mus musculus caspase 7 (Casp7), transcript variant X1, mRNA",16.2028,21 / 25,|| ||||||||||   |||||||||,0,13
-3_fwd,gi|1907131592|ref|XM_006526616.5|,"PREDICTED: Mus musculus caspase 7 (Casp7), transcript variant X1, mRNA",4.64173,22 / 26,|| ||||||||||   ||||||||||,0,13
-5_fwd,gi|1907114577|ref|XR_004938884.1|,"PREDICTED: Mus musculus predicted gene, 31953 (Gm31953), ncRNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-5_fwd,gi|1907200756|ref|XM_006512321.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 21A (Ttc21a), transcript variant X1, mRNA",4.64312,19 / 20,|||||| |||||||||||||,0,6
-5_fwd,gi|1907200759|ref|XM_036155347.1|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 21A (Ttc21a), transcript variant X3, mRNA",4.64312,19 / 20,|||||| |||||||||||||,0,6
-5_fwd,gi|1907123829|ref|XM_030249687.2|,"PREDICTED: Mus musculus ankyrin repeat and SAM domain containing 1 (Anks1), transcript variant X14, mRNA",56.5647,19 / 22,|||||||  ||| |||||||||,0,7
-6_fwd,gi|1907114577|ref|XR_004938884.1|,"PREDICTED: Mus musculus predicted gene, 31953 (Gm31953), ncRNA",0.38113,19 / 20,||| ||||||||||||||||,0,20
-6_fwd,gi|1907158263|ref|XR_004942138.1|,"PREDICTED: Mus musculus predicted gene, 52667 (Gm52667), transcript variant X1, ncRNA",56.5647,19 / 22,|||||| |||  ||||||||||,0,10
-7_fwd,gi|1669948078|ref|NM_172676.3|,"Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant 1, mRNA",16.2061,19 / 21,||||||| | |||||||||||,0,7
-7_fwd,gi|1669945751|ref|NM_001370751.1|,"Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant 2, mRNA",16.2061,19 / 21,||||||| | |||||||||||,0,7
-7_fwd,gi|1720399024|ref|XM_006500607.4|,"PREDICTED: Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant X1, mRNA",16.2061,19 / 21,||||||| | |||||||||||,0,7
-3_rev,gi|165377218|ref|NM_009203.3|,"Mus musculus solute carrier family 22 (organic anion/cation transporter), member 12 (Slc22a12), mRNA",16.2061,19 / 21,||||||| | |||||||||||,0,9
-9_rev,gi|1907107294|ref|XR_004938586.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X1, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-13_rev,gi|1907107294|ref|XR_004938586.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X1, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-9_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-13_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-9_rev,gi|1907107297|ref|XR_004938588.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X3, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-13_rev,gi|1907107297|ref|XR_004938588.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X3, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-9_rev,gi|1907107296|ref|XR_004938587.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X2, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-13_rev,gi|1907107296|ref|XR_004938587.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X2, misc_RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-9_rev,gi|2701071066|ref|NR_190450.1|,"Mus musculus RIKEN cDNA 1700087I21 gene (1700087I21Rik), transcript variant 2, long non-coding RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-13_rev,gi|2701071066|ref|NR_190450.1|,"Mus musculus RIKEN cDNA 1700087I21 gene (1700087I21Rik), transcript variant 2, long non-coding RNA",0.38113,19 / 20,|||| |||||||||||||||,0,20
-10_rev,gi|1907079662|ref|XM_006532031.5|,"PREDICTED: Mus musculus aldehyde dehydrogenase family 3, subfamily A2 (Aldh3a2), transcript variant X2, mRNA",0.38113,19 / 20,||||||| ||||||||||||,0,20
-10_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.38113,19 / 20,||||||| ||||||||||||,0,20
+0_fwd,gi|2274157098|ref|NM_178254.4|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 2, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|2274157168|ref|NM_001409510.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 5, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|2274157104|ref|NM_001360335.2|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 1, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|2274157102|ref|NM_001409509.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 3, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|2274157178|ref|NM_001409511.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 6, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|2274157224|ref|NM_001409512.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 4, mRNA",4.64582,17 / 18,|||||||||| |||||||,0,18
+0_fwd,gi|1907087492|ref|XM_036157398.1|,"PREDICTED: Mus musculus AT-rich interaction domain 4A (Arid4a), transcript variant X3, mRNA",56.5977,17 / 18,|||||||||||| |||||,1,13
+0_fwd,gi|1720364889|ref|XM_006532649.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X5, mRNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|1347826181|ref|NM_022411.4|,"Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), mRNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|1720364887|ref|XM_006532647.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X3, mRNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|1720364885|ref|XM_006532645.4|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X1, mRNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|1720364886|ref|XR_003949367.1|,"PREDICTED: Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2 (Slc13a2), transcript variant X2, misc_RNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|142352643|ref|NR_003282.2|,"Mus musculus solute carrier family 13 (sodium-dependent dicarboxylate transporter), member 2, opposite strand (Slc13a2os), long non-coding RNA",56.5977,17 / 18,||||| ||||||||||||,1,6
+0_fwd,gi|1907087495|ref|XM_006515834.4|,"PREDICTED: Mus musculus AT-rich interaction domain 4A (Arid4a), transcript variant X4, mRNA",56.5977,17 / 18,|||||||||||| |||||,1,13
+1_fwd,gi|255003745|ref|NM_010922.2|,"Mus musculus mitochondrial ribosomal protein L40 (Mrpl40), mRNA",4.64582,17 / 18,|||| |||||||||||||,0,18
+1_fwd,gi|2274157098|ref|NM_178254.4|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 2, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|1907116893|ref|XM_036159817.1|,"PREDICTED: Mus musculus mitochondrial ribosomal protein L40 (Mrpl40), transcript variant X1, mRNA",4.64582,17 / 18,|||| |||||||||||||,0,18
+1_fwd,gi|2274157168|ref|NM_001409510.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 5, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|2274157104|ref|NM_001360335.2|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 1, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|294979221|ref|NR_033526.1|,"Mus musculus predicted gene, 16523 (Gm16523), non-coding RNA",4.64582,17 / 18,|||| |||||||||||||,0,18
+1_fwd,gi|2274157102|ref|NM_001409509.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 3, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|2274157178|ref|NM_001409511.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 6, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|2274157224|ref|NM_001409512.1|,"Mus musculus transcription factor-like 5 (basic helix-loop-helix) (Tcfl5), transcript variant 4, mRNA",4.64582,17 / 18,||||||||||| ||||||,0,18
+1_fwd,gi|1907100401|ref|XM_006517998.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X1, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869124|ref|NM_001360505.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 2, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869060|ref|NM_001360515.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 12, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1907100420|ref|XR_001781108.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X4, misc_RNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339870510|ref|NM_001360506.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 3, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339871732|ref|NM_001360520.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 14, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869077|ref|NM_001360508.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 4, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869110|ref|NM_001360514.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 10, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869172|ref|NM_001360504.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 1, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869102|ref|NM_001360516.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 13, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1907100421|ref|XM_017315955.3|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X5, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869041|ref|NM_001360517.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 15, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1907100417|ref|XM_017315953.2|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X3, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1339869079|ref|NM_001360511.1|,"Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant 7, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+1_fwd,gi|1907100415|ref|XM_006517999.3|,"PREDICTED: Mus musculus solute carrier family 4, sodium bicarbonate cotransporter, member 7 (Slc4a7), transcript variant X2, mRNA",197.545,17 / 19,||||||||||||  |||||,0,12
+2_fwd,gi|1907130776|ref|XM_030250615.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 39C (Ttc39c), transcript variant X2, mRNA",56.5977,17 / 18,||||||||||| ||||||,0,11
+3_fwd,gi|1907130776|ref|XM_030250615.2|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 39C (Ttc39c), transcript variant X2, mRNA",56.5977,17 / 18,||||||||||| ||||||,0,11
+2_fwd,gi|2417748956|ref|NM_028341.5|,"Mus musculus tetratricopeptide repeat domain 39C (Ttc39c), mRNA",56.5977,17 / 18,||||||||||| ||||||,0,11
+3_fwd,gi|2417748956|ref|NM_028341.5|,"Mus musculus tetratricopeptide repeat domain 39C (Ttc39c), mRNA",56.5977,17 / 18,||||||||||| ||||||,0,11
+5_fwd,gi|1907114577|ref|XR_004938884.1|,"PREDICTED: Mus musculus predicted gene, 31953 (Gm31953), ncRNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+5_fwd,gi|1907200759|ref|XM_036155347.1|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 21A (Ttc21a), transcript variant X3, mRNA",4.64514,19 / 20,|||||| |||||||||||||,0,6
+5_fwd,gi|1907200756|ref|XM_006512321.3|,"PREDICTED: Mus musculus tetratricopeptide repeat domain 21A (Ttc21a), transcript variant X1, mRNA",4.64514,19 / 20,|||||| |||||||||||||,0,6
+5_fwd,gi|1907123829|ref|XM_030249687.2|,"PREDICTED: Mus musculus ankyrin repeat and SAM domain containing 1 (Anks1), transcript variant X14, mRNA",56.5893,19 / 22,|||||||  ||| |||||||||,0,7
+6_fwd,gi|1907114577|ref|XR_004938884.1|,"PREDICTED: Mus musculus predicted gene, 31953 (Gm31953), ncRNA",0.381296,19 / 20,||| ||||||||||||||||,0,20
+6_fwd,gi|1907158264|ref|XR_003955081.2|,"PREDICTED: Mus musculus predicted gene, 52667 (Gm52667), transcript variant X2, ncRNA",56.5893,19 / 22,|||||| |||  ||||||||||,0,10
+7_fwd,gi|1669945751|ref|NM_001370751.1|,"Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant 2, mRNA",16.2131,19 / 21,||||||| | |||||||||||,0,7
+7_fwd,gi|1720399024|ref|XM_006500607.4|,"PREDICTED: Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant X1, mRNA",16.2131,19 / 21,||||||| | |||||||||||,0,7
+7_fwd,gi|1669948078|ref|NM_172676.3|,"Mus musculus sterile alpha motif domain containing 10 (Samd10), transcript variant 1, mRNA",16.2131,19 / 21,||||||| | |||||||||||,0,7
+2_rev,gi|165377218|ref|NM_009203.3|,"Mus musculus solute carrier family 22 (organic anion/cation transporter), member 12 (Slc22a12), mRNA",16.2131,19 / 21,||||||| | |||||||||||,0,9
+3_rev,gi|165377218|ref|NM_009203.3|,"Mus musculus solute carrier family 22 (organic anion/cation transporter), member 12 (Slc22a12), mRNA",56.5935,18 / 20,|||||| | |||||||||||,0,8
+9_rev,gi|1907107294|ref|XR_004938586.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X1, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+13_rev,gi|1907107294|ref|XR_004938586.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X1, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+9_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+13_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+9_rev,gi|1907107296|ref|XR_004938587.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X2, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+13_rev,gi|1907107296|ref|XR_004938587.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X2, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+9_rev,gi|2701071066|ref|NR_190450.1|,"Mus musculus RIKEN cDNA 1700087I21 gene (1700087I21Rik), transcript variant 2, long non-coding RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+13_rev,gi|2701071066|ref|NR_190450.1|,"Mus musculus RIKEN cDNA 1700087I21 gene (1700087I21Rik), transcript variant 2, long non-coding RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+9_rev,gi|1907107297|ref|XR_004938588.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X3, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+13_rev,gi|1907107297|ref|XR_004938588.1|,"PREDICTED: Mus musculus uncharacterized LOC118567337 (LOC118567337), transcript variant X3, misc_RNA",0.381296,19 / 20,|||| |||||||||||||||,0,20
+10_rev,gi|1907118420|ref|XM_036159999.1|,"PREDICTED: Mus musculus Leber congenital amaurosis 5-like (Lca5l), transcript variant X5, mRNA",0.381296,19 / 20,||||||| ||||||||||||,0,20
+10_rev,gi|1907079662|ref|XM_006532031.5|,"PREDICTED: Mus musculus aldehyde dehydrogenase family 3, subfamily A2 (Aldh3a2), transcript variant X2, mRNA",0.381296,19 / 20,||||||| ||||||||||||,0,20

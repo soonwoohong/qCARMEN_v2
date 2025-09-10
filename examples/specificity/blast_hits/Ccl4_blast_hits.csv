@@ -1,129 +1,155 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-0_fwd,gi|1907085786|ref|XR_001780412.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X8, misc_RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409139415|ref|NR_157249.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 8, non-coding RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409139419|ref|NR_157248.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 7, non-coding RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409137356|ref|NM_001364621.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 4, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|755542146|ref|XM_011243988.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X11, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409139418|ref|NR_157251.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 10, non-coding RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1092045627|ref|NM_001346696.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 2, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409137289|ref|NM_001364620.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 3, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409137320|ref|NM_001364623.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 6, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085778|ref|XM_006515421.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X3, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409139417|ref|NR_157250.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 9, non-coding RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1409137287|ref|NM_001364622.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 5, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085777|ref|XM_006515420.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X2, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085779|ref|XM_036157169.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X4, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|91598895|ref|NM_054081.2|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 1, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|2525592731|ref|NR_186595.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 11, non-coding RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1720370422|ref|XM_030246531.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X6, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085784|ref|XR_003949980.2|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X7, misc_RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085781|ref|XM_006515425.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X5, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085788|ref|XR_004937406.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X9, misc_RNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-0_fwd,gi|1907085776|ref|XM_006515418.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X1, mRNA",4.64475,17 / 18,||||||||| ||||||||,0,18
-3_fwd,gi|1720369760|ref|XR_388582.4|,"PREDICTED: Mus musculus predicted gene, 34173 (Gm34173), transcript variant X1, ncRNA",1.33062,18 / 19,|||||||||||| ||||||,0,19
-4_fwd,gi|1907111525|ref|XM_011245553.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X5, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|1907111525|ref|XM_011245553.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X5, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|1907111525|ref|XM_011245553.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X5, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|1907111525|ref|XM_011245553.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X5, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|166706888|ref|NM_013836.3|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|166706888|ref|NM_013836.3|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|166706888|ref|NM_013836.3|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|166706888|ref|NM_013836.3|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|1907111519|ref|XM_006520733.2|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|1907111519|ref|XM_006520733.2|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|1907111519|ref|XM_006520733.2|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|1907111519|ref|XM_006520733.2|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|1720383850|ref|XM_006520732.3|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|1720383850|ref|XM_006520732.3|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|1720383850|ref|XM_006520732.3|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|1720383850|ref|XM_006520732.3|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X2, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|927028864|ref|NM_007742.4|,"Mus musculus collagen, type I, alpha 1 (Col1a1), mRNA",56.5947,15 / 16,||||||||||||| ||,0,16
-6_fwd,gi|927028864|ref|NM_007742.4|,"Mus musculus collagen, type I, alpha 1 (Col1a1), mRNA",56.5947,15 / 16,||||||||||||| ||,0,16
-7_fwd,gi|927028864|ref|NM_007742.4|,"Mus musculus collagen, type I, alpha 1 (Col1a1), mRNA",56.5947,15 / 16,||||||||||||| ||,0,16
-8_fwd,gi|927028864|ref|NM_007742.4|,"Mus musculus collagen, type I, alpha 1 (Col1a1), mRNA",56.5947,15 / 16,||||||||||||| ||,0,16
-4_fwd,gi|1907111523|ref|XM_011245552.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X4, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|1907111523|ref|XM_011245552.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X4, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|1907111523|ref|XM_011245552.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X4, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|1907111523|ref|XM_011245552.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X4, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|166706890|ref|NM_001114140.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 1, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|166706890|ref|NM_001114140.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 1, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|166706890|ref|NM_001114140.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 1, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|166706890|ref|NM_001114140.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 1, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|1907111528|ref|XM_011245554.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X6, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|1907111528|ref|XM_011245554.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X6, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|1907111528|ref|XM_011245554.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X6, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|1907111528|ref|XM_011245554.4|,"PREDICTED: Mus musculus transcription factor 20 (Tcf20), transcript variant X6, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-4_fwd,gi|2211362415|ref|NM_001402838.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-6_fwd,gi|2211362415|ref|NM_001402838.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-7_fwd,gi|2211362415|ref|NM_001402838.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-8_fwd,gi|2211362415|ref|NM_001402838.1|,"Mus musculus transcription factor 20 (Tcf20), transcript variant 3, mRNA",56.5947,15 / 16,|||||||||||| |||,0,16
-9_fwd,gi|1720365517|ref|XM_030245864.1|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X2, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-12_fwd,gi|1720365517|ref|XM_030245864.1|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X2, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-9_fwd,gi|1907081294|ref|XM_030245863.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X1, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-12_fwd,gi|1907081294|ref|XM_030245863.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X1, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-9_fwd,gi|1907081296|ref|XM_030245866.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X4, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-12_fwd,gi|1907081296|ref|XM_030245866.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X4, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-9_fwd,gi|1561360670|ref|NM_146026.2|,"Mus musculus proline rich 15-like (Prr15l), mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-12_fwd,gi|1561360670|ref|NM_146026.2|,"Mus musculus proline rich 15-like (Prr15l), mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-9_fwd,gi|1907081295|ref|XM_030245865.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X3, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-12_fwd,gi|1907081295|ref|XM_030245865.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X3, mRNA",16.2089,19 / 21,|||||||||||| ||| ||||,0,12
-15_fwd,gi|1907154824|ref|XR_004941848.1|,"PREDICTED: Mus musculus period circadian clock 3 (Per3), transcript variant X16, misc_RNA",16.2089,19 / 21,||||||||||||  |||||||,1,13
-16_fwd,gi|1907154824|ref|XR_004941848.1|,"PREDICTED: Mus musculus period circadian clock 3 (Per3), transcript variant X16, misc_RNA",16.2089,19 / 21,||||||||||||  |||||||,1,13
-15_fwd,gi|1907177166|ref|XM_006539526.4|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X1, mRNA",56.5745,19 / 22,|||||| |||||||  ||||||,0,14
-16_fwd,gi|1907177166|ref|XM_006539526.4|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X1, mRNA",56.5745,19 / 22,|||||| |||||||  ||||||,0,14
-15_fwd,gi|1907177170|ref|XM_030242084.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X3, mRNA",56.5745,19 / 22,|||||| |||||||  ||||||,0,14
-16_fwd,gi|1907177170|ref|XM_030242084.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X3, mRNA",56.5745,19 / 22,|||||| |||||||  ||||||,0,14
-17_fwd,gi|582015237|ref|NR_040270.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 2, long non-coding RNA",4.64392,19 / 20,|||||| |||||||||||||,1,7
-18_fwd,gi|582015237|ref|NR_040270.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 2, long non-coding RNA",4.64392,19 / 20,|||||| |||||||||||||,1,7
-17_fwd,gi|582015235|ref|NR_040269.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 1, long non-coding RNA",4.64392,19 / 20,|||||| |||||||||||||,1,7
-18_fwd,gi|582015235|ref|NR_040269.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 1, long non-coding RNA",4.64392,19 / 20,|||||| |||||||||||||,1,7
-0_rev,gi|1907183178|ref|XR_003946533.2|,"PREDICTED: Mus musculus calpain 12 (Capn12), transcript variant X1, misc_RNA",4.64475,17 / 18,||||||| ||||||||||,0,18
-0_rev,gi|1907183180|ref|XR_004934158.1|,"PREDICTED: Mus musculus calpain 12 (Capn12), transcript variant X2, misc_RNA",4.64475,17 / 18,||||||| ||||||||||,0,18
-1_rev,gi|1907194488|ref|XM_006510757.5|,"PREDICTED: Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), transcript variant X2, mRNA",56.5795,18 / 20,||||||||||| ||| ||||,0,11
-1_rev,gi|1907194486|ref|XM_011242655.4|,"PREDICTED: Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), transcript variant X1, mRNA",56.5795,18 / 20,||||||||||| ||| ||||,0,11
-1_rev,gi|146149322|ref|NM_148944.4|,"Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), mRNA",56.5795,18 / 20,||||||||||| ||| ||||,0,11
-2_rev,gi|124286798|ref|NM_183126.2|,"Mus musculus RIKEN cDNA 6030498E09 gene (6030498E09Rik), mRNA",56.5795,18 / 20,||||||||||| ||| ||||,0,15
-4_rev,gi|1907202623|ref|XM_006527792.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X4, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|238624179|ref|NM_007977.2|,"Mus musculus coagulation factor VIII (F8), transcript variant 1, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|1907202620|ref|XM_006527790.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X2, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|238624183|ref|NM_001161374.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 3, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|1720434534|ref|XM_006527791.4|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X3, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|1907202618|ref|XM_006527789.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X1, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-4_rev,gi|238624181|ref|NM_001161373.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 2, mRNA",1.33062,18 / 19,||||||||||| |||||||,0,19
-5_rev,gi|1907202623|ref|XM_006527792.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X4, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|238624179|ref|NM_007977.2|,"Mus musculus coagulation factor VIII (F8), transcript variant 1, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|1907202620|ref|XM_006527790.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X2, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|238624183|ref|NM_001161374.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 3, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|1720434534|ref|XM_006527791.4|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X3, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|1907202618|ref|XM_006527789.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X1, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-5_rev,gi|238624181|ref|NM_001161373.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 2, mRNA",0.381196,19 / 20,|||||||||||| |||||||,0,20
-6_rev,gi|1907202623|ref|XM_006527792.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X4, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|238624179|ref|NM_007977.2|,"Mus musculus coagulation factor VIII (F8), transcript variant 1, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|1907202620|ref|XM_006527790.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X2, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|1907083309|ref|XR_004937049.1|,"PREDICTED: Mus musculus 5-phosphohydroxy-L-lysine phospholyase (Phykpl), transcript variant X5, misc_RNA",4.64475,17 / 18,|||||||| |||||||||,0,18
-6_rev,gi|238624183|ref|NM_001161374.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 3, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|1720434534|ref|XM_006527791.4|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X3, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|1907202618|ref|XM_006527789.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X1, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-6_rev,gi|238624181|ref|NM_001161373.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 2, mRNA",4.64475,17 / 18,|||||||||| |||||||,0,18
-8_rev,gi|1907107791|ref|XR_003951176.2|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X2, ncRNA",16.2045,22 / 27,|||||||||||||    ||| ||||||,0,13
-8_rev,gi|1907107798|ref|XR_004938663.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X3, ncRNA",16.2045,22 / 27,|||||||||||||    ||| ||||||,0,13
-8_rev,gi|1907107782|ref|XR_004938662.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X1, ncRNA",16.2045,22 / 27,|||||||||||||    ||| ||||||,0,13
-8_rev,gi|1907107802|ref|XR_004938664.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X4, ncRNA",16.2045,22 / 27,|||||||||||||    ||| ||||||,0,13
-9_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2089,19 / 21,|||| ||||||||||||| ||,0,4
-10_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2089,19 / 21,|||| ||||||||||||| ||,0,4
-11_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2089,19 / 21,|||| ||||||||||||| ||,0,4
-15_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2089,19 / 21,|||| ||||||||||||| ||,0,4
-12_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5745,19 / 22,|||||||  | |||||||||||,0,7
-13_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5745,19 / 22,|||||||  | |||||||||||,0,7
-14_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5745,19 / 22,|||||||  | |||||||||||,0,7
-16_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5745,19 / 22,|||||||  | |||||||||||,0,7
-17_rev,gi|1907132286|ref|XM_030250892.2|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X3, mRNA",0.0312905,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|124486766|ref|NM_001081319.1|,"Mus musculus RAB6A GEF complex partner 1 (Ric1), mRNA",0.0312905,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1907132284|ref|XM_036161563.1|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X2, mRNA",0.0312905,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1907132283|ref|XR_386464.5|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X1, misc_RNA",0.0312905,19 / 19,|||||||||||||||||||,0,19
-17_rev,gi|1720427896|ref|XM_006531162.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X1, mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
-17_rev,gi|1720427899|ref|XM_006531165.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X4, mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
-17_rev,gi|1720427898|ref|XM_006531163.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X3, mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
-17_rev,gi|1720427897|ref|XM_011248428.2|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X2, mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
-17_rev,gi|254692965|ref|NM_001033207.3|,"Mus musculus NLR family, CARD domain containing 5 (Nlrc5), mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
-17_rev,gi|568957140|ref|XM_006531166.1|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X5, mRNA",16.2089,19 / 21,|||| |||||||| |||||||,0,13
+0_fwd,gi|1907085788|ref|XR_004937406.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X9, misc_RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085779|ref|XM_036157169.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X4, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409139418|ref|NR_157251.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 10, non-coding RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409139419|ref|NR_157248.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 7, non-coding RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1720370422|ref|XM_030246531.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X6, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|755542146|ref|XM_011243988.1|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X11, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085776|ref|XM_006515418.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X1, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085777|ref|XM_006515420.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X2, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|91598895|ref|NM_054081.2|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 1, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085786|ref|XR_001780412.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X8, misc_RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409139415|ref|NR_157249.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 8, non-coding RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409137289|ref|NM_001364620.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 3, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085778|ref|XM_006515421.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X3, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085784|ref|XR_003949980.2|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X7, misc_RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1092045627|ref|NM_001346696.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 2, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1907085781|ref|XM_006515425.3|,"PREDICTED: Mus musculus metastasis associated 1 (Mta1), transcript variant X5, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409139417|ref|NR_157250.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 9, non-coding RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|2525592731|ref|NR_186595.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 11, non-coding RNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409137320|ref|NM_001364623.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 6, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409137356|ref|NM_001364621.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 4, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+0_fwd,gi|1409137287|ref|NM_001364622.1|,"Mus musculus metastasis associated 1 (Mta1), transcript variant 5, mRNA",4.64422,17 / 18,||||||||| ||||||||,0,18
+3_fwd,gi|1720369760|ref|XR_388582.4|,"PREDICTED: Mus musculus predicted gene, 34173 (Gm34173), transcript variant X1, ncRNA",1.33046,18 / 19,|||||||||||| ||||||,0,19
+4_fwd,gi|2295770296|ref|NM_001411853.1|,"Mus musculus gap junction protein, alpha 10 (Gja10), mRNA",0.0312864,19 / 19,|||||||||||||||||||,0,19
+4_fwd,gi|1720433447|ref|XR_003948099.1|,"PREDICTED: Mus musculus predicted gene, 51664 (Gm51664), ncRNA",16.2068,19 / 21,|||| ||| ||||||||||||,0,8
+4_fwd,gi|2726162935|ref|NM_133887.5|,"Mus musculus syntaxin 12 (Stx12), mRNA",56.5672,19 / 22,||||||||||||  ||| ||||,0,12
+5_fwd,gi|2295770296|ref|NM_001411853.1|,"Mus musculus gap junction protein, alpha 10 (Gja10), mRNA",0.109222,18 / 18,||||||||||||||||||,0,18
+6_fwd,gi|2295770296|ref|NM_001411853.1|,"Mus musculus gap junction protein, alpha 10 (Gja10), mRNA",0.109222,18 / 18,||||||||||||||||||,0,18
+7_fwd,gi|2295770296|ref|NM_001411853.1|,"Mus musculus gap junction protein, alpha 10 (Gja10), mRNA",0.109222,18 / 18,||||||||||||||||||,0,18
+5_fwd,gi|1907083293|ref|XM_030246367.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|1907083293|ref|XM_030246367.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+7_fwd,gi|1907083293|ref|XM_030246367.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+5_fwd,gi|1243938395|ref|NM_001355478.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 5, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|1243938395|ref|NM_001355478.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 5, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|1243938395|ref|NM_001355478.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 5, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|1907083292|ref|XM_030246368.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|1907083292|ref|XM_030246368.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+7_fwd,gi|1907083292|ref|XM_030246368.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+5_fwd,gi|1371986051|ref|NM_001361707.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|1371986051|ref|NM_001361707.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+7_fwd,gi|1371986051|ref|NM_001361707.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 1, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+5_fwd,gi|1907142031|ref|XM_006499938.5|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|1907142031|ref|XM_006499938.5|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|1907142031|ref|XM_006499938.5|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|1907142023|ref|XM_036162415.1|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|1907142023|ref|XM_036162415.1|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|1907142023|ref|XM_036162415.1|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|1371986149|ref|NM_001361708.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|1371986149|ref|NM_001361708.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+7_fwd,gi|1371986149|ref|NM_001361708.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 2, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+5_fwd,gi|323637459|ref|NM_019688.2|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|323637459|ref|NM_019688.2|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|323637459|ref|NM_019688.2|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 2, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|1907142016|ref|XM_030251899.2|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|1907142016|ref|XM_030251899.2|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|1907142016|ref|XM_030251899.2|,"PREDICTED: Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant X1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|323637462|ref|NM_001204166.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|323637462|ref|NM_001204166.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|323637462|ref|NM_001204166.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 3, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|323637460|ref|NM_001204165.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+6_fwd,gi|323637460|ref|NM_001204165.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+7_fwd,gi|323637460|ref|NM_001204165.1|,"Mus musculus Rap guanine nucleotide exchange factor (GEF) 4 (Rapgef4), transcript variant 1, mRNA",4.64422,17 / 18,|||| |||||||||||||,0,18
+5_fwd,gi|281332096|ref|NM_028296.3|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 3, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+6_fwd,gi|281332096|ref|NM_028296.3|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 3, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+7_fwd,gi|281332096|ref|NM_028296.3|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 3, mRNA",4.64422,17 / 18,||| ||||||||||||||,0,18
+5_fwd,gi|1720420318|ref|XM_006507185.4|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X1, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+6_fwd,gi|1720420318|ref|XM_006507185.4|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X1, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+7_fwd,gi|1720420318|ref|XM_006507185.4|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X1, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+5_fwd,gi|255003677|ref|NM_175388.3|,"Mus musculus ring finger protein 169 (Rnf169), mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+6_fwd,gi|255003677|ref|NM_175388.3|,"Mus musculus ring finger protein 169 (Rnf169), mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+7_fwd,gi|255003677|ref|NM_175388.3|,"Mus musculus ring finger protein 169 (Rnf169), mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+5_fwd,gi|1907176510|ref|XM_006507187.5|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X2, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+6_fwd,gi|1907176510|ref|XM_006507187.5|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X2, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+7_fwd,gi|1907176510|ref|XM_006507187.5|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X2, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+5_fwd,gi|1907176512|ref|XM_030241982.2|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X3, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+6_fwd,gi|1907176512|ref|XM_030241982.2|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X3, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+7_fwd,gi|1907176512|ref|XM_030241982.2|,"PREDICTED: Mus musculus ring finger protein 169 (Rnf169), transcript variant X3, mRNA",56.5781,17 / 18,|||||| |||||||||||,0,6
+8_fwd,gi|2295770296|ref|NM_001411853.1|,"Mus musculus gap junction protein, alpha 10 (Gja10), mRNA",0.109222,18 / 18,||||||||||||||||||,0,18
+8_fwd,gi|1907083293|ref|XM_030246367.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X2, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|1907083292|ref|XM_030246368.2|,"PREDICTED: Mus musculus carbonic anhydrase 10 (Car10), transcript variant X1, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|1371986051|ref|NM_001361707.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 1, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|1371986149|ref|NM_001361708.1|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 2, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|1907152291|ref|XR_003954401.2|,"PREDICTED: Mus musculus ubiquitin specific peptidase 13 (isopeptidase T-3) (Usp13), transcript variant X2, misc_RNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|281332096|ref|NM_028296.3|,"Mus musculus carbonic anhydrase 10 (Car10), transcript variant 3, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+8_fwd,gi|1720405305|ref|XM_030252841.1|,"PREDICTED: Mus musculus ubiquitin specific peptidase 13 (isopeptidase T-3) (Usp13), transcript variant X1, mRNA",4.64422,17 / 18,|| |||||||||||||||,0,18
+9_fwd,gi|1907081296|ref|XM_030245866.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X4, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+12_fwd,gi|1907081296|ref|XM_030245866.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X4, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+9_fwd,gi|1720365517|ref|XM_030245864.1|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X2, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+12_fwd,gi|1720365517|ref|XM_030245864.1|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X2, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+9_fwd,gi|1907081294|ref|XM_030245863.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X1, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+12_fwd,gi|1907081294|ref|XM_030245863.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X1, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+9_fwd,gi|1907081295|ref|XM_030245865.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X3, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+12_fwd,gi|1907081295|ref|XM_030245865.2|,"PREDICTED: Mus musculus proline rich 15-like (Prr15l), transcript variant X3, mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+9_fwd,gi|1561360670|ref|NM_146026.2|,"Mus musculus proline rich 15-like (Prr15l), mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+12_fwd,gi|1561360670|ref|NM_146026.2|,"Mus musculus proline rich 15-like (Prr15l), mRNA",16.2068,19 / 21,|||||||||||| ||| ||||,0,12
+15_fwd,gi|1907154824|ref|XR_004941848.1|,"PREDICTED: Mus musculus period circadian clock 3 (Per3), transcript variant X16, misc_RNA",16.2068,19 / 21,||||||||||||  |||||||,1,13
+16_fwd,gi|1907154824|ref|XR_004941848.1|,"PREDICTED: Mus musculus period circadian clock 3 (Per3), transcript variant X16, misc_RNA",16.2068,19 / 21,||||||||||||  |||||||,1,13
+15_fwd,gi|1907177178|ref|XR_003946385.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X7, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177178|ref|XR_003946385.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X7, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+15_fwd,gi|1907177176|ref|XR_003946384.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X6, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177176|ref|XR_003946384.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X6, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+15_fwd,gi|1907177172|ref|XR_003946383.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X4, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177172|ref|XR_003946383.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X4, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+15_fwd,gi|1907177170|ref|XM_030242084.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X3, mRNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177170|ref|XM_030242084.2|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X3, mRNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+15_fwd,gi|1907177174|ref|XR_004934006.1|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X5, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177174|ref|XR_004934006.1|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X5, misc_RNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+15_fwd,gi|1907177166|ref|XM_006539526.4|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X1, mRNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+16_fwd,gi|1907177166|ref|XM_006539526.4|,"PREDICTED: Mus musculus dual-specificity tyrosine phosphorylation regulated kinase 1b (Dyrk1b), transcript variant X1, mRNA",56.5672,19 / 22,|||||| |||||||  ||||||,0,14
+17_fwd,gi|582015237|ref|NR_040270.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 2, long non-coding RNA",4.64331,19 / 20,|||||| |||||||||||||,1,7
+18_fwd,gi|582015237|ref|NR_040270.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 2, long non-coding RNA",4.64331,19 / 20,|||||| |||||||||||||,1,7
+17_fwd,gi|582015235|ref|NR_040269.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 1, long non-coding RNA",4.64331,19 / 20,|||||| |||||||||||||,1,7
+18_fwd,gi|582015235|ref|NR_040269.2|,"Mus musculus Kdm5c adjacent non-coding transcript (Kantr), transcript variant 1, long non-coding RNA",4.64331,19 / 20,|||||| |||||||||||||,1,7
+0_rev,gi|1907183178|ref|XR_003946533.2|,"PREDICTED: Mus musculus calpain 12 (Capn12), transcript variant X1, misc_RNA",4.64422,17 / 18,||||||| ||||||||||,0,18
+0_rev,gi|1907183180|ref|XR_004934158.1|,"PREDICTED: Mus musculus calpain 12 (Capn12), transcript variant X2, misc_RNA",4.64422,17 / 18,||||||| ||||||||||,0,18
+1_rev,gi|1907194488|ref|XM_006510757.5|,"PREDICTED: Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), transcript variant X2, mRNA",56.5727,18 / 20,||||||||||| ||| ||||,0,11
+1_rev,gi|146149322|ref|NM_148944.4|,"Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), mRNA",56.5727,18 / 20,||||||||||| ||| ||||,0,11
+1_rev,gi|1907194486|ref|XM_011242655.4|,"PREDICTED: Mus musculus cholinergic receptor, nicotinic, beta polypeptide 4 (Chrnb4), transcript variant X1, mRNA",56.5727,18 / 20,||||||||||| ||| ||||,0,11
+2_rev,gi|124286798|ref|NM_183126.2|,"Mus musculus RIKEN cDNA 6030498E09 gene (6030498E09Rik), mRNA",56.5727,18 / 20,||||||||||| ||| ||||,0,15
+4_rev,gi|1907202620|ref|XM_006527790.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X2, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|238624181|ref|NM_001161373.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 2, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|238624179|ref|NM_007977.2|,"Mus musculus coagulation factor VIII (F8), transcript variant 1, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|1907202618|ref|XM_006527789.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X1, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|238624183|ref|NM_001161374.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 3, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|1720434534|ref|XM_006527791.4|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X3, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+4_rev,gi|1907202623|ref|XM_006527792.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X4, mRNA",0.381147,19 / 20,|||||||||||| |||||||,0,20
+5_rev,gi|1907202620|ref|XM_006527790.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X2, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|238624181|ref|NM_001161373.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 2, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|238624179|ref|NM_007977.2|,"Mus musculus coagulation factor VIII (F8), transcript variant 1, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|1907202618|ref|XM_006527789.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X1, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|238624183|ref|NM_001161374.1|,"Mus musculus coagulation factor VIII (F8), transcript variant 3, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|1720434534|ref|XM_006527791.4|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X3, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+5_rev,gi|1907202623|ref|XM_006527792.5|,"PREDICTED: Mus musculus coagulation factor VIII (F8), transcript variant X4, mRNA",1.33046,18 / 19,||||||||||| |||||||,0,19
+7_rev,gi|1907107798|ref|XR_004938663.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X3, ncRNA",16.202,22 / 27,|||||||||||||    ||| ||||||,0,13
+7_rev,gi|1907107802|ref|XR_004938664.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X4, ncRNA",16.202,22 / 27,|||||||||||||    ||| ||||||,0,13
+7_rev,gi|1907107791|ref|XR_003951176.2|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X2, ncRNA",16.202,22 / 27,|||||||||||||    ||| ||||||,0,13
+7_rev,gi|1907107782|ref|XR_004938662.1|,"PREDICTED: Mus musculus predicted gene, 52129 (Gm52129), transcript variant X1, ncRNA",16.202,22 / 27,|||||||||||||    ||| ||||||,0,13
+9_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2068,19 / 21,|||| ||||||||||||| ||,0,4
+10_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2068,19 / 21,|||| ||||||||||||| ||,0,4
+11_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2068,19 / 21,|||| ||||||||||||| ||,0,4
+15_rev,gi|755503028|ref|XR_880791.1|,"PREDICTED: Mus musculus predicted gene, 29879 (Gm29879), transcript variant X6, ncRNA",16.2068,19 / 21,|||| ||||||||||||| ||,0,4
+12_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5672,19 / 22,|||||||  | |||||||||||,0,7
+13_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5672,19 / 22,|||||||  | |||||||||||,0,7
+14_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5672,19 / 22,|||||||  | |||||||||||,0,7
+16_rev,gi|1907133712|ref|XR_004940241.1|,"PREDICTED: Mus musculus predicted gene, 54050 (Gm54050), transcript variant X2, ncRNA",56.5672,19 / 22,|||||||  | |||||||||||,0,7
+17_rev,gi|1907132284|ref|XM_036161563.1|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X2, mRNA",0.0312864,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|1907132286|ref|XM_030250892.2|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X3, mRNA",0.0312864,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|1907132283|ref|XR_386464.5|,"PREDICTED: Mus musculus RAB6A GEF complex partner 1 (Ric1), transcript variant X1, misc_RNA",0.0312864,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|124486766|ref|NM_001081319.1|,"Mus musculus RAB6A GEF complex partner 1 (Ric1), mRNA",0.0312864,19 / 19,|||||||||||||||||||,0,19
+17_rev,gi|1720427897|ref|XM_011248428.2|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X2, mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13
+17_rev,gi|254692965|ref|NM_001033207.3|,"Mus musculus NLR family, CARD domain containing 5 (Nlrc5), mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13
+17_rev,gi|568957140|ref|XM_006531166.1|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X5, mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13
+17_rev,gi|1720427896|ref|XM_006531162.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X1, mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13
+17_rev,gi|1720427899|ref|XM_006531165.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X4, mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13
+17_rev,gi|1720427898|ref|XM_006531163.3|,"PREDICTED: Mus musculus NLR family, CARD domain containing 5 (Nlrc5), transcript variant X3, mRNA",16.2068,19 / 21,|||| |||||||| |||||||,0,13

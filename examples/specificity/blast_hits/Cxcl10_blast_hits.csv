@@ -1,40 +1,35 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-5_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
-7_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
-8_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
-9_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",56.5754,15 / 16,|||||| |||||||||,0,16
-5_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
-7_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
-8_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
-9_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",56.5754,15 / 16,||||| ||||||||||,0,16
-6_fwd,gi|148747330|ref|NM_030205.4|,"Mus musculus coronin 7 (Coro7), mRNA",16.2073,16 / 17,|||||| ||||||||||,0,17
-6_fwd,gi|156766087|ref|NM_007418.3|,"Mus musculus adrenergic receptor, alpha 2c (Adra2c), mRNA",16.2073,16 / 17,||||| |||||||||||,0,17
-13_fwd,gi|2500286971|ref|NM_001420514.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 3, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
-13_fwd,gi|2500286839|ref|NM_001420513.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 2, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
-13_fwd,gi|2500286977|ref|NM_001029982.3|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 1, mRNA",16.2035,18 / 19,||||||||||| |||||||,0,11
-13_fwd,gi|1720396428|ref|XR_003952936.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X1, ncRNA",56.5558,19 / 22,|||||||||||||   ||||||,0,13
-13_fwd,gi|1720396429|ref|XR_003952937.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X2, ncRNA",56.5558,19 / 22,|||||||||||||   ||||||,0,13
-14_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
-15_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
-17_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2016,19 / 21,|||| |||||||||| |||||,0,15
-22_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
-22_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
-22_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
-22_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
-22_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64185,19 / 20,||||||| ||||||||||||,0,7
-14_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-21_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-22_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-14_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-21_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-22_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-14_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-21_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-22_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-14_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-18_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-21_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
-22_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.5493,19 / 22,|||||||   ||||||||||||,0,7
+5_fwd,gi|1907114977|ref|XR_003951538.2|,"PREDICTED: Mus musculus predicted gene, 52186 (Gm52186), transcript variant X1, ncRNA",1.33004,18 / 19,||||||||||||| |||||,0,19
+6_fwd,gi|1907114977|ref|XR_003951538.2|,"PREDICTED: Mus musculus predicted gene, 52186 (Gm52186), transcript variant X1, ncRNA",1.33004,18 / 19,||||||||||||| |||||,0,19
+7_fwd,gi|1907114977|ref|XR_003951538.2|,"PREDICTED: Mus musculus predicted gene, 52186 (Gm52186), transcript variant X1, ncRNA",1.33004,18 / 19,||||||||||||| |||||,0,19
+9_fwd,gi|341604778|ref|NM_001043354.2|,"Mus musculus RAR-related orphan receptor beta (Rorb), transcript variant 1, mRNA",197.418,17 / 19,|||||||||||  ||||||,1,12
+10_fwd,gi|341604778|ref|NM_001043354.2|,"Mus musculus RAR-related orphan receptor beta (Rorb), transcript variant 1, mRNA",197.418,17 / 19,|||||||||||  ||||||,1,12
+14_fwd,gi|2500286977|ref|NM_001029982.3|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 1, mRNA",16.2032,18 / 19,||||||||||| |||||||,0,11
+14_fwd,gi|2500286839|ref|NM_001420513.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 2, mRNA",16.2032,18 / 19,||||||||||| |||||||,0,11
+14_fwd,gi|2500286971|ref|NM_001420514.1|,"Mus musculus Sec23 interacting protein (Sec23ip), transcript variant 3, mRNA",16.2032,18 / 19,||||||||||| |||||||,0,11
+14_fwd,gi|1720396429|ref|XR_003952937.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X2, ncRNA",56.5546,19 / 22,|||||||||||||   ||||||,0,13
+14_fwd,gi|1720396428|ref|XR_003952936.1|,"PREDICTED: Mus musculus predicted gene, 34116 (Gm34116), transcript variant X1, ncRNA",56.5546,19 / 22,|||||||||||||   ||||||,0,13
+15_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2013,19 / 21,|||| |||||||||| |||||,0,15
+16_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2013,19 / 21,|||| |||||||||| |||||,0,15
+18_fwd,gi|374671791|ref|NR_046275.1|,"Mus musculus Riken cDNA C130021I20 gene (C130021I20Rik), long non-coding RNA",16.2013,19 / 21,|||| |||||||||| |||||,0,15
+23_fwd,gi|1907106863|ref|XR_383282.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X3, ncRNA",4.64174,19 / 20,||||||| ||||||||||||,0,7
+23_fwd,gi|1907106866|ref|XR_383284.5|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X4, ncRNA",4.64174,19 / 20,||||||| ||||||||||||,0,7
+23_fwd,gi|1907106862|ref|XR_383281.4|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X2, ncRNA",4.64174,19 / 20,||||||| ||||||||||||,0,7
+23_fwd,gi|1907106859|ref|XR_004938542.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X1, ncRNA",4.64174,19 / 20,||||||| ||||||||||||,0,7
+23_fwd,gi|1907106872|ref|XR_004938543.1|,"PREDICTED: Mus musculus predicted gene, 32645 (Gm32645), transcript variant X6, ncRNA",4.64174,19 / 20,||||||| ||||||||||||,0,7
+15_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+19_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+23_rev,gi|1907114313|ref|XM_006521461.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X4, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+15_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+19_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+23_rev,gi|1907114316|ref|XR_004938873.1|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X6, misc_RNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+15_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+19_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+23_rev,gi|1907114308|ref|XM_006521460.5|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X1, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+15_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+19_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+22_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7
+23_rev,gi|1907114318|ref|XM_030248792.2|,"PREDICTED: Mus musculus potassium channel tetramerisation domain containing 17 (Kctd17), transcript variant X8, mRNA",56.548,19 / 22,|||||||   ||||||||||||,0,7

@@ -1,56 +1,56 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-0_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-1_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-1_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-1_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-2_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-2_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-2_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-2_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-5_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.381218,19 / 20,|||||||||||| |||||||,0,20
-5_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.381218,19 / 20,|||||||||||| |||||||,0,20
-5_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.381218,19 / 20,|||||||||||| |||||||,0,20
-5_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.381218,19 / 20,|||||||||||| |||||||,0,20
-6_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-7_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-8_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-6_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-7_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-8_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-6_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-7_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-8_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.381218,19 / 20,||||| ||||||||||||||,0,20
-9_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-9_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-9_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-9_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-0_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-1_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.381218,19 / 20,|||||||| |||||||||||,0,20
-9_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.381218,19 / 20,|||||||| |||||||||||,0,20
-2_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312923,19 / 19,|||||||||||||||||||,0,19
-3_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312923,19 / 19,|||||||||||||||||||,0,19
-5_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312923,19 / 19,|||||||||||||||||||,0,19
-4_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-4_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-6_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-6_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-6_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-6_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-7_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-7_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-7_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-7_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
-8_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.0089654,20 / 20,||||||||||||||||||||,0,20
+0_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+1_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+1_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+1_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+2_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+2_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+2_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+2_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+5_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.38122,19 / 20,|||||||||||| |||||||,0,20
+5_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.38122,19 / 20,|||||||||||| |||||||,0,20
+5_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.38122,19 / 20,|||||||||||| |||||||,0,20
+5_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.38122,19 / 20,|||||||||||| |||||||,0,20
+6_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+7_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+8_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+6_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+7_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+8_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+6_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+7_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+8_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.38122,19 / 20,||||| ||||||||||||||,0,20
+9_fwd,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+9_fwd,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+9_fwd,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+9_fwd,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+0_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+1_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.38122,19 / 20,|||||||| |||||||||||,0,20
+9_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.38122,19 / 20,|||||||| |||||||||||,0,20
+2_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312924,19 / 19,|||||||||||||||||||,0,19
+3_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312924,19 / 19,|||||||||||||||||||,0,19
+5_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.0312924,19 / 19,|||||||||||||||||||,0,19
+4_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+4_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+6_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+6_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+6_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+6_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+7_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+7_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+7_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+7_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+8_rev,gi|1375023145|ref|NM_053217.3|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+8_rev,gi|1907131541|ref|XM_030250699.2|,"PREDICTED: Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant X1, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+8_rev,gi|2716204057|ref|NM_008331.4|,"Mus musculus interferon-induced protein with tetratricopeptide repeats 1 (Ifit1), mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20
+8_rev,gi|1375023106|ref|NM_001362130.1|,"Mus musculus interferon induced protein with tetratricopeptide repeats 1B like 2 (Ifit1bl2), transcript variant 2, mRNA",0.00896543,20 / 20,||||||||||||||||||||,0,20

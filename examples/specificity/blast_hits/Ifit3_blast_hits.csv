@@ -1,8 +1,34 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-10_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2097,19 / 21,|||| ||||||||| ||||||,0,4
-1_rev,gi|1447727817|ref|NM_008427.5|,"Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), mRNA",197.509,17 / 19,||||||||||| | |||||,0,11
-1_rev,gi|1907110326|ref|XM_006520488.4|,"PREDICTED: Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), transcript variant X3, mRNA",197.509,17 / 19,||||||||||| | |||||,0,11
-4_rev,gi|1907171074|ref|XM_036165880.1|,"PREDICTED: Mus musculus hexokinase 2 (Hk2), transcript variant X2, mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
-4_rev,gi|2275452373|ref|NM_013820.4|,"Mus musculus hexokinase 2 (Hk2), mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
-4_rev,gi|1907171072|ref|XM_017321401.3|,"PREDICTED: Mus musculus hexokinase 2 (Hk2), transcript variant X1, mRNA",197.492,18 / 21,|||||| |||  |||||||||,0,10
-14_rev,gi|1907158118|ref|XR_881138.3|,"PREDICTED: Mus musculus predicted gene, 29883 (Gm29883), transcript variant X1, ncRNA",16.2097,19 / 21,||||||||  |||||||||||,1,9
+3_fwd,gi|1907166054|ref|XM_036165476.1|,"PREDICTED: Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant X2, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|1907166051|ref|XM_036165475.1|,"PREDICTED: Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant X1, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|1781909144|ref|NM_001377000.1|,"Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant 2, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|1781910169|ref|NM_172716.5|,"Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant 1, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|1907166057|ref|XM_030254794.2|,"PREDICTED: Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant X3, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|1781912933|ref|NM_001377001.1|,"Mus musculus polycomb group ring finger 3 (Pcgf3), transcript variant 3, mRNA",0.381286,17 / 17,|||||||||||||||||,0,17
+3_fwd,gi|2319158881|ref|NM_023053.4|,"Mus musculus twisted gastrulation BMP signaling modulator 1 (Twsg1), mRNA",56.5878,17 / 18,|||||| |||||||||||,1,7
+3_fwd,gi|2220917212|ref|NR_175832.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 13, non-coding RNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916594|ref|NM_001404302.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 2, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|1907195205|ref|XM_030244077.2|,"PREDICTED: Mus musculus FYVE and coiled-coil domain containing 1 (Fyco1), transcript variant X1, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220917012|ref|NM_001404304.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 4, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916483|ref|NM_001404310.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 10, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220917030|ref|NM_001404307.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 7, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916427|ref|NM_001404305.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 5, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220917214|ref|NR_175831.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 12, non-coding RNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|1907193236|ref|XM_036154437.1|,"PREDICTED: Mus musculus predicted gene, 50601 (Gm50601), mRNA",56.5878,17 / 18,||||| ||||||||||||,1,6
+3_fwd,gi|2220916558|ref|NM_001404306.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 6, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2784630554|ref|NM_148925.4|,"Mus musculus FYVE and coiled-coil domain containing 1 (Fyco1), transcript variant 1, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2784630542|ref|NM_001110253.3|,"Mus musculus FYVE and coiled-coil domain containing 1 (Fyco1), transcript variant 2, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916861|ref|NM_001404308.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 8, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916839|ref|NM_177068.5|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 3, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|1907195209|ref|XM_036154635.1|,"PREDICTED: Mus musculus FYVE and coiled-coil domain containing 1 (Fyco1), transcript variant X3, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916261|ref|NM_001404311.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 11, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|1907125744|ref|XM_036160742.1|,"PREDICTED: Mus musculus twisted gastrulation BMP signaling modulator 1 (Twsg1), transcript variant X1, mRNA",56.5878,17 / 18,|||||| |||||||||||,1,7
+3_fwd,gi|2220916481|ref|NM_001404309.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 9, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|1907195207|ref|XM_017313159.3|,"PREDICTED: Mus musculus FYVE and coiled-coil domain containing 1 (Fyco1), transcript variant X2, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+3_fwd,gi|2220916850|ref|NM_001404301.1|,"Mus musculus olfactomedin-like 2B (Olfml2b), transcript variant 1, mRNA",56.5878,17 / 18,||||||| ||||||||||,0,7
+9_fwd,gi|91064875|ref|NM_153564.2|,"Mus musculus guanylate binding protein 5 (Gbp5), mRNA",16.2099,19 / 21,|||| ||||||||| ||||||,0,4
+1_rev,gi|1447727817|ref|NM_008427.5|,"Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), mRNA",197.511,17 / 19,||||||||||| | |||||,0,11
+1_rev,gi|1907110324|ref|XM_006520487.5|,"PREDICTED: Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), transcript variant X2, mRNA",197.511,17 / 19,||||||||||| | |||||,0,11
+1_rev,gi|1907110326|ref|XM_006520488.4|,"PREDICTED: Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), transcript variant X3, mRNA",197.511,17 / 19,||||||||||| | |||||,0,11
+1_rev,gi|1720383422|ref|XM_006520486.4|,"PREDICTED: Mus musculus potassium inwardly-rectifying channel, subfamily J, member 4 (Kcnj4), transcript variant X1, mRNA",197.511,17 / 19,||||||||||| | |||||,0,11
+13_rev,gi|1907158118|ref|XR_881138.3|,"PREDICTED: Mus musculus predicted gene, 29883 (Gm29883), transcript variant X1, ncRNA",16.2099,19 / 21,||||||||  |||||||||||,1,9

@@ -1,35 +1,35 @@
 query_id,subject_id,subject_def,evalue,identity,midline,query_start,query_end
-1_fwd,gi|1039754406|ref|XM_017317638.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X4, mRNA",16.2156,19 / 21,|||||||||| ||||| ||||,0,16
-1_fwd,gi|755526975|ref|XM_011248431.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X2, mRNA",16.2156,19 / 21,|||||||| |||||| |||||,0,15
-1_fwd,gi|569001625|ref|XM_006524923.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X2, mRNA",16.2156,19 / 21,|||||||||| ||||| ||||,0,16
-1_fwd,gi|271397552|ref|NM_175168.4|,"Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), mRNA",16.2156,19 / 21,|||||||||| ||||| ||||,0,16
-1_fwd,gi|755558989|ref|XM_006524924.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X3, mRNA",16.2156,19 / 21,|||||||||| ||||| ||||,0,16
-1_fwd,gi|755558987|ref|XM_006524922.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X1, mRNA",16.2156,19 / 21,|||||||||| ||||| ||||,0,16
-1_fwd,gi|755526971|ref|XM_011248429.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X1, mRNA",16.2156,19 / 21,|||||||| |||||| |||||,0,15
-1_fwd,gi|1907067792|ref|XM_017319360.3|,"PREDICTED: Mus musculus POU domain, class 2, transcription factor 1 (Pou2f1), transcript variant X5, mRNA",16.2156,19 / 21,|||||||||||  ||||||||,0,11
-1_fwd,gi|283806726|ref|NM_001033980.2|,"Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), mRNA",16.2156,19 / 21,|||||||| |||||| |||||,0,15
-0_rev,gi|1039754406|ref|XM_017317638.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X4, mRNA",16.2156,19 / 21,|||| ||||| ||||||||||,0,4
-0_rev,gi|755526975|ref|XM_011248431.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X2, mRNA",16.2156,19 / 21,||||| |||||| ||||||||,0,5
-0_rev,gi|569001625|ref|XM_006524923.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X2, mRNA",16.2156,19 / 21,|||| ||||| ||||||||||,0,4
-0_rev,gi|271397552|ref|NM_175168.4|,"Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), mRNA",16.2156,19 / 21,|||| ||||| ||||||||||,0,4
-0_rev,gi|755558989|ref|XM_006524924.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X3, mRNA",16.2156,19 / 21,|||| ||||| ||||||||||,0,4
-0_rev,gi|755558987|ref|XM_006524922.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X1, mRNA",16.2156,19 / 21,|||| ||||| ||||||||||,0,4
-0_rev,gi|755526971|ref|XM_011248429.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X1, mRNA",16.2156,19 / 21,||||| |||||| ||||||||,0,5
-0_rev,gi|1907067792|ref|XM_017319360.3|,"PREDICTED: Mus musculus POU domain, class 2, transcription factor 1 (Pou2f1), transcript variant X5, mRNA",16.2156,19 / 21,||||||||  |||||||||||,0,9
-0_rev,gi|283806726|ref|NM_001033980.2|,"Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), mRNA",16.2156,19 / 21,||||| |||||| ||||||||,0,5
-1_rev,gi|2426884548|ref|NM_001416086.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 6, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884512|ref|NM_001416083.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 3, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884502|ref|NM_001416087.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 7, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884521|ref|NM_001416085.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 5, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|1907112569|ref|XM_036159398.1|,"PREDICTED: Mus musculus zinc finger protein 647 (Zfp647), transcript variant X1, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884523|ref|NM_172817.4|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 2, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|1907112580|ref|XM_030248551.2|,"PREDICTED: Mus musculus zinc finger protein 647 (Zfp647), transcript variant X4, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884541|ref|NM_001168276.2|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 1, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884572|ref|NM_001416084.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 4, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884528|ref|NM_001416088.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 8, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-1_rev,gi|2426884507|ref|NM_001416089.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 9, mRNA",16.2156,19 / 21,||||||||||| |||||| ||,0,11
-4_rev,gi|158937247|ref|NM_009593.2|,"Mus musculus ATP binding cassette subfamily G member 1 (Abcg1), mRNA",0.381355,19 / 20,|||||||||||||| |||||,0,20
-8_rev,gi|158937247|ref|NM_009593.2|,"Mus musculus ATP binding cassette subfamily G member 1 (Abcg1), mRNA",0.381355,19 / 20,|||||||||||||| |||||,0,20
-5_rev,gi|755511935|ref|XR_868361.1|,"PREDICTED: Mus musculus predicted gene, 33993 (Gm33993), transcript variant X1, ncRNA",16.2156,19 / 21,|||||| |||||||| |||||,0,15
-5_rev,gi|755511937|ref|XR_868362.1|,"PREDICTED: Mus musculus predicted gene, 33993 (Gm33993), transcript variant X2, ncRNA",16.2156,19 / 21,|||||| |||||||| |||||,0,15
-7_rev,gi|1720415882|ref|XR_003955875.1|,"PREDICTED: Mus musculus predicted gene 15589 (Gm15589), ncRNA",16.2156,19 / 21,||| |||||||||||| ||||,0,16
+1_fwd,gi|755558989|ref|XM_006524924.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X3, mRNA",16.2157,19 / 21,|||||||||| ||||| ||||,0,16
+1_fwd,gi|283806726|ref|NM_001033980.2|,"Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), mRNA",16.2157,19 / 21,|||||||| |||||| |||||,0,15
+1_fwd,gi|1907067792|ref|XM_017319360.3|,"PREDICTED: Mus musculus POU domain, class 2, transcription factor 1 (Pou2f1), transcript variant X5, mRNA",16.2157,19 / 21,|||||||||||  ||||||||,0,11
+1_fwd,gi|755558987|ref|XM_006524922.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X1, mRNA",16.2157,19 / 21,|||||||||| ||||| ||||,0,16
+1_fwd,gi|271397552|ref|NM_175168.4|,"Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), mRNA",16.2157,19 / 21,|||||||||| ||||| ||||,0,16
+1_fwd,gi|569001625|ref|XM_006524923.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X2, mRNA",16.2157,19 / 21,|||||||||| ||||| ||||,0,16
+1_fwd,gi|755526971|ref|XM_011248429.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X1, mRNA",16.2157,19 / 21,|||||||| |||||| |||||,0,15
+1_fwd,gi|755526975|ref|XM_011248431.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X2, mRNA",16.2157,19 / 21,|||||||| |||||| |||||,0,15
+1_fwd,gi|1039754406|ref|XM_017317638.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X4, mRNA",16.2157,19 / 21,|||||||||| ||||| ||||,0,16
+0_rev,gi|755558989|ref|XM_006524924.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X3, mRNA",16.2157,19 / 21,|||| ||||| ||||||||||,0,4
+0_rev,gi|283806726|ref|NM_001033980.2|,"Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), mRNA",16.2157,19 / 21,||||| |||||| ||||||||,0,5
+0_rev,gi|1907067792|ref|XM_017319360.3|,"PREDICTED: Mus musculus POU domain, class 2, transcription factor 1 (Pou2f1), transcript variant X5, mRNA",16.2157,19 / 21,||||||||  |||||||||||,0,9
+0_rev,gi|755558987|ref|XM_006524922.2|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X1, mRNA",16.2157,19 / 21,|||| ||||| ||||||||||,0,4
+0_rev,gi|271397552|ref|NM_175168.4|,"Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), mRNA",16.2157,19 / 21,|||| ||||| ||||||||||,0,4
+0_rev,gi|569001625|ref|XM_006524923.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X2, mRNA",16.2157,19 / 21,|||| ||||| ||||||||||,0,4
+0_rev,gi|755526971|ref|XM_011248429.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X1, mRNA",16.2157,19 / 21,||||| |||||| ||||||||,0,5
+0_rev,gi|755526975|ref|XM_011248431.1|,"PREDICTED: Mus musculus CBY1 interacting BAR domain containing 2 (Cibar2), transcript variant X2, mRNA",16.2157,19 / 21,||||| |||||| ||||||||,0,5
+0_rev,gi|1039754406|ref|XM_017317638.1|,"PREDICTED: Mus musculus PTK7 protein tyrosine kinase 7 (Ptk7), transcript variant X4, mRNA",16.2157,19 / 21,|||| ||||| ||||||||||,0,4
+1_rev,gi|2426884507|ref|NM_001416089.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 9, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884521|ref|NM_001416085.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 5, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884548|ref|NM_001416086.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 6, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884528|ref|NM_001416088.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 8, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884512|ref|NM_001416083.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 3, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|1907112580|ref|XM_030248551.2|,"PREDICTED: Mus musculus zinc finger protein 647 (Zfp647), transcript variant X4, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884502|ref|NM_001416087.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 7, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|1907112569|ref|XM_036159398.1|,"PREDICTED: Mus musculus zinc finger protein 647 (Zfp647), transcript variant X1, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884523|ref|NM_172817.4|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 2, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884541|ref|NM_001168276.2|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 1, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+1_rev,gi|2426884572|ref|NM_001416084.1|,"Mus musculus zinc finger protein 647 (Zfp647), transcript variant 4, mRNA",16.2157,19 / 21,||||||||||| |||||| ||,0,11
+4_rev,gi|158937247|ref|NM_009593.2|,"Mus musculus ATP binding cassette subfamily G member 1 (Abcg1), mRNA",0.381356,19 / 20,|||||||||||||| |||||,0,20
+8_rev,gi|158937247|ref|NM_009593.2|,"Mus musculus ATP binding cassette subfamily G member 1 (Abcg1), mRNA",0.381356,19 / 20,|||||||||||||| |||||,0,20
+5_rev,gi|755511935|ref|XR_868361.1|,"PREDICTED: Mus musculus predicted gene, 33993 (Gm33993), transcript variant X1, ncRNA",16.2157,19 / 21,|||||| |||||||| |||||,0,15
+5_rev,gi|755511937|ref|XR_868362.1|,"PREDICTED: Mus musculus predicted gene, 33993 (Gm33993), transcript variant X2, ncRNA",16.2157,19 / 21,|||||| |||||||| |||||,0,15
+7_rev,gi|1720415882|ref|XR_003955875.1|,"PREDICTED: Mus musculus predicted gene 15589 (Gm15589), ncRNA",16.2157,19 / 21,||| |||||||||||| ||||,0,16

@@ -16,6 +16,7 @@ from lib import NCBIGeneFetcher
 from lib import CommonPrimerDesign
 from lib import PrimerBlast
 from lib import crRNA_Design
+from lib import final_mod
 
 # Set up logging
 logging.basicConfig(
@@ -113,7 +114,9 @@ def main():
 
     primer_dir = os.path.join(output_dir, "primer")
     valid_primer_dir = os.path.join(output_dir, "valid_primer")
+    final_dir = os.path.join(output_dir, "final")
     os.makedirs(valid_primer_dir, exist_ok=True)
+    os.makedirs(final_dir, exist_ok=True)
     primer_design = CommonPrimerDesign(output_dir)
     specificity_checker = PrimerBlast(output_dir, organism)
     crRNA_design = crRNA_Design(output_dir, padding=padding, num_top_guides=num_top_guides)
@@ -132,12 +135,14 @@ def main():
         valid_primers_df = pd.DataFrame(valid_primers)
         valid_primers_df.to_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"))
 
+        # As I am using della for designing crRNA, it's better to split the code from here.
+    for gene_name in gene_list:
         # design crRNA
         crRNA_df = crRNA_design.design_crRNA(gene_name, valid_primers_df)
 
-
-        # summarize the final output (report top 5)
-        # merge crRNA and primer and add
+        # final results
+        final_df = final_mod(crRNA_df)
+        final_df.to_csv(os.path.join(final_dir, gene_name+"_final.csv"))
 
 
 
