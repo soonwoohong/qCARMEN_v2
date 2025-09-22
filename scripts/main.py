@@ -138,7 +138,8 @@ def main():
         # As I am using della for designing crRNA, it's better to split the code from here.
     for gene_name in gene_list:
         # design crRNA
-        crRNA_df = crRNA_design.design_crRNA(gene_name, valid_primers_df)
+        valid_primers_load = pd.read_csv(os.path.join(valid_primer_dir, gene_name+"_valid_primers.csv"), index_col=0)
+        crRNA_df = crRNA_design.design_crRNA(gene_name, valid_primers_load)
 
         # final results
         final_df = final_mod(crRNA_df)
