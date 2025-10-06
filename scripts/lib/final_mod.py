@@ -10,7 +10,7 @@ import os
 def final_mod(crRNA_df):
     T7_promoter = "TAATACGACTCACTATAggg"
     blocker = "/iSpC3/"
-    direct_repeat = "rCrUrArArArUrCrUrGrArUrGrGrGrGrUrUrUrUrUrGrCrUrUrCrCrCrCrUrGrArUrUrUrUrG"
+    direct_repeat = "rGrArUrUrUrArGrArCrUrArCrCrCrCrArArArArArCrGrArArGrGrGrGrArCrUrArArArArC"
     fwd = []
     rev =[]
     crRNA = []
