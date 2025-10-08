@@ -29,6 +29,10 @@ def final_mod(crRNA_df):
                      "C": "rG",
                      "G": "rC"
                      }
+    DNA_to_RNA = {"A": "rA",
+                  "T": "rU",
+                  "C": "rC",
+                  "G": "rG"}
 
     for primer_idx in range(len(crRNA_df)):
         temp_fwd = crRNA_df['forward_seq'][primer_idx]
@@ -38,13 +42,13 @@ def final_mod(crRNA_df):
         len_fwd = len(temp_fwd)
         len_rev = len(temp_rev)
 
-        fwd_add_on = "r"+temp_amplicon[len_fwd:len_fwd+5] # convert the first DNA base to RNA base
+        fwd_add_on = DNA_to_RNA[temp_amplicon[len_fwd]]+temp_amplicon[len_fwd+1:len_fwd+6] # convert the first DNA base to RNA base
         fwd_add_on = fwd_add_on[:-1]+mismatch[fwd_add_on[-1].upper()] # make the intentional mismatch at the final base
         final_fwd = T7_promoter + temp_fwd + fwd_add_on + blocker
 
         # for reverse primer, it needs to get the reverse complement of amplicon
         rev_comp_amplicon = temp_amplicon[::-1].upper().translate(str.maketrans(base_pair))
-        rev_add_on = "r"+rev_comp_amplicon[len_rev:len_rev+5]
+        rev_add_on = DNA_to_RNA[rev_comp_amplicon[len_rev]]+rev_comp_amplicon[len_rev+1:len_rev+6]
         rev_add_on = rev_add_on[:-1]+mismatch[rev_add_on[-1].upper()]
         final_rev = temp_rev + rev_add_on + blocker
 
